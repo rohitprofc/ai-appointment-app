@@ -1,0 +1,21 @@
+sno,dept_id,deptname,deptcode
+1,01,Cardiology,CARD
+2,02,Neurology,NEUR
+3,03,Orthopedics,ORTHO
+4,04,Gastroenterology,GASTRO
+5,05,Pulmonology,PULMO
+6,06,Nephrology,NEPH
+7,07,Urology,UROL
+8,08,Gynecology,GYNE
+9,09,Obstetrics,OBST
+10,10,Pediatrics,PEDI
+11,11,Oncology,ONCO
+12,12,Dermatology,DERM
+13,13,Ophthalmology,OPHTH
+14,14,Otolaryngology,OTO
+15,15,Radiology,RADIO
+16,16,Anesthesiology,ANES
+17,17,General Medicine,MED
+18,18,General Surgery,SURG
+19,19,Plastic Surgery,PLAS
+20,20,Psychiatry,PSYCH

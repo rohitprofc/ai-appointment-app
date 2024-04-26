@@ -1,0 +1,1349 @@
+sno,hid,hname,state,city,address,zipcode,statecode
+0001,HAP0001,A.N. Beach Hospital,Andhra Pradesh,Vizag,"15-9-13/24, Krishna Nagar,Near Beach Road, Visakhapatnam, Andhra Pradesh",530002,AP
+0002,HAP0002,Aarif Nursing Home,Andhra Pradesh,Vizag,"Lakshmi Street,Near Income Tax Office",530020,AP
+0003,HAP0003,Aasha Hospitals,Andhra Pradesh,Ananthapur,"7-201,Court Road,Anantapur",515001,AP
+0004,HAP0004,Aayushman The Family Hospital,Andhra Pradesh,Kurnool,"D.No.45/145A1,Venkataramana Colony",518003,AP
+0005,HAP0005,Abc Hospitals,Andhra Pradesh,Visakhapatnam,"#16-1-13, Kgh To Beach Down, Opp. Coastal Battery, Maharanipeta, Visakhapatnam, Visakha, Andhrapradesh-530002",530002,AP
+0006,HAP0006,Abhaya Critical Care,Andhra Pradesh,Vizag,"18-1-34, Opp. K.G.H. Gatemaharanipeta,",530002,AP
+0007,HAP0007,Abhaya Emergency Centre Sri Hospitals,Andhra Pradesh,Rajamundry,"79-1-4/1, J.N. Road",533103,AP
+0008,HAP0008,Abhaya- Bbc Children Hospital,Andhra Pradesh,Hyderabad,"Hindi Maha Vidyalaya Complex, O.U. Road, Vidya Nagar.",500044,AP
+0009,HAP0009,Abhi Sai Hospitals,Andhra Pradesh,Miryalaguda,"Doctor'S Colony,Miryalguda",508207,AP
+0010,HAP0010,Abhiram Institute Of Medical Sciences,Andhra Pradesh,Nellore,"Opp Aps Rtc Depot, Atmakur, Nellore",524322,AP
+0011,HAP0011,Adarsh Hospital,Andhra Pradesh,Eastgodavari,"86-26-5, V.L. Puram Jn, M.S. Narayana Street, Rajahmundry-533107",533103,AP
+0012,HAP0012,Adarsha Nethralayam,Andhra Pradesh,Warangal,"9-5-53, Mandibazar, Warangal, A.P",506002,AP
+0013,HAP0013,Adavally Damodar Reddy Memorial Hospital,Andhra Pradesh,Himayatnagar,"3-97, Sharadanagar, Ramanthapur,Ranfa Reddy.",500013,AP
+0014,HAP0014,Adilakshmi Nursing Home,Andhra Pradesh,Guntur,"G.B.C. Raod, Ponnur.",522124,AP
+0015,HAP0015,Aditya Hospital,Andhra Pradesh,Hyderabad,"#4-1-16, Boggulakunta, Tilak Road, Adids, Hyderbad-500001Abids",500001,AP
+0016,HAP0016,Aditya Multi Care Hospital,Andhra Pradesh,Visakhapatnam,"18-1-33, Opp. K.G.H.O.P Gate, Aditya Medical Complex, Vishkhapatnam-530002",530002,AP
+0017,HAP0017,Aditya Multispeciality Hospital,Andhra Pradesh,Warangal,"Opp: Police Parade Grounds,Hanamkanda,Kishanpura.",506001,AP
+0018,HAP0018,Aditya Nursing Home,Andhra Pradesh,Kurnool,"No.1/541-135,Aas College Road,Adoni,",518302,AP
+0019,HAP0019,Adr Hospital,Andhra Pradesh,Hyderabad,"H.No. 4-112/1, Anand Bagh, Malkajgiri, Hyderabad-500047",500047,AP
+0020,HAP0020,Ahalya Nursing Home,Andhra Pradesh,Guntur,"Back Side Sivaayam Temple, Kothapet, Guntur, Andhra Pradesh-522002.",522002,AP
+0021,HAP0021,Ahalyadevi Nursing Home,Andhra Pradesh,Nellore,"16-1-712, Near Nehru State, Trunk Road.",524003,AP
+0022,HAP0022,Akira Eye Hospital,Andhra Pradesh,Eastgodavari,"Aryapuram,Rajahmundry",533104,AP
+0023,HAP0023,Akshaya Care Multi Speciality Hospital,Andhra Pradesh,Secunderabad,"#11-3-267/13, Near Raghava Gardens, Madhura Nagar, Srinivasanagar, Parsigutta,",500061,AP
+0024,HAP0024,Akshitha Hospitals,Andhra Pradesh,Shamshabad,"H.No.11-32/6,Mahavir Enclave Phase-Ii,Shashabad",501218,AP
+0025,HAP0025,Alapati Nursing Home,Andhra Pradesh,Tenali,"Gopalreddy Street, Ganganammapet.",522201,AP
+0026,HAP0026,Alluri Sitarama Raju Academy Of Medical Sciences,Andhra Pradesh,Eluru,"Malkapuram, Eluru Nh-5, Malkapuram.",534004,AP
+0027,HAP0027,Alpha Super Speciality Hospital,Andhra Pradesh,Hyderabad,"23-1-863. Bsides Mch Swimming Pool, Moghalpura.",500024,AP
+0028,HAP0028,Amar Orthopaedic Hospital,Andhra Pradesh,Guntur,"13-2-12, 1St Line Gunturuvari Thota, Guntur-522001",522001,AP
+0029,HAP0029,Amaravathi Institute Of Medical Sciences Pvt Ltd,Andhra Pradesh,Guntur,"Old Club Road, Kothapeta.Oldclub Road Guntur",522001,AP
+0030,HAP0030,Ambaa Hospitals,Andhra Pradesh,Hyderabad,"#9-1-29/23,Opp To Pratap Theatre,Lunger House",500008,AP
+0031,HAP0031,American Oncology Institute (A Unit Of Cancer Treatment Services Hyderabad Pvt. Ltd.),Andhra Pradesh,Hyderabad,"No. 1-111/4/B/104, Flat No. B-104, Kondapur, Kothaguda Post, Hyderabad, Andhra Pradesh",500084,AP
+0032,HAP0032,Amma Children'S Hospital,Andhra Pradesh,Guntur,"No.137-7-109/D, Old Club Road, Gunturvari Thota, Guntur-522001",522001,AP
+0033,HAP0033,Amma Hospital,Andhra Pradesh,Vijayawada,"9-64-2,Syed Gulab Street,Kothapet",520001,AP
+0034,HAP0034,Amrutha Heart Hospital,Andhra Pradesh,Ongole,60 Feet Road Satyanarayanapuramsatyanarayanpuram,523002,AP
+0035,HAP0035,Amrutha Nursing Home,Andhra Pradesh,Karimnagar,"3-3-168,Savaran Street,Besides Civil Hospital,Karimnagar",505001,AP
+0036,HAP0036,Amrutha Nursing Home Private Limited,Andhra Pradesh,Gajuwaka,"D.No.10-7-85,Kailash Nagar,Gajuwaka.Gajuwaka",530026,AP
+0037,HAP0037,Amulya Nursing Home,Andhra Pradesh,Guntur,"Guntur Road, Narasaraopet.",522601,AP
+0038,HAP0038,Anand Eye Institute Private Limited,Andhra Pradesh,Hyderabad,"4Th Floor,Rata Tycoon,Tarnaka",500017,AP
+0039,HAP0039,Anantha Lakshmi Kidney & Multispeciality Hospital,Andhra Pradesh,Hyderabad,"H.No.3-9-10/4, Opp To Ramanathapur School, Ramanathapur, Hyderabad-500013",500013,AP
+0040,HAP0040,Anasuya Institute Of Medical Sciences,Andhra Pradesh,Nellore,"16/2/142,Hotel Venkataramana Lane,Pogathota",524001,AP
+0041,HAP0041,Andhra Hospitals,Andhra Pradesh,Vijayawada,"C.V.R Complex, Prakasamroad, Vijayawada",520002,AP
+0042,HAP0042,Anitha Nursing Home,Andhra Pradesh,Hyderabad,"No 9-1/3, Sri Ramanagara Colony, Near Uppal Bus Depot, Hyderabad-500098",500098,AP
+0043,HAP0043,Ankith Multispeciality Hospitals,Andhra Pradesh,Rangareddy,"Opp Bus Stand,Ibrahimpatnam,Sagar Road",501506,AP
+0044,HAP0044,Ankura Children'S Hospital ( A Unit Of Ankura Medical & Research Centre Pvt Ltd ),Andhra Pradesh,Kukatpally,"Near Geethejali School, 7Th Phase, Kphb Kukatpalli, Hyderabad",500072,AP
+0045,HAP0045,Annapoorna Hospital,Andhra Pradesh,Vizag,"47-9-32, 3Rd Lane, Dwarakanagar, Visakahpatnam-530016",530016,AP
+0046,HAP0046,Annapurna Multispeciality Hospital,Andhra Pradesh,Gudivada,"10-165, Eluru Road, Gudivada, Krishna-521301, Opp.Bank Of Baroda",521301,AP
+0047,HAP0047,Anu Hospitals,Andhra Pradesh,Vijayawada,"33-18-1,Chalasani Venkata Krishwaiah Street Near Puspha Hotel, Krishna Suryaraopet",520002,AP
+0048,HAP0048,Anukrushna Hospitals,Andhra Pradesh,Hyderabad,"10-191/2, Vasanthapuri Colonymalkajgiri",500047,AP
+0049,HAP0049,Anupama Hospital,Andhra Pradesh,Hyderabad,"16-31/494 & 495, 6Th Phase, Kphb Colony,Kukatpally, Hyderabad-500072",500072,AP
+0050,HAP0050,Anupama Surgical & Children Hospital,Andhra Pradesh,Vizag,"47-9-21, Dwarakanagar, Visakha Patnam",530016,AP
+0051,HAP0051,Anusha Hospital,Andhra Pradesh,Hyderabad,"12-2-454,Gudi Malkapur,Mehdipatnam",500028,AP
+0052,HAP0052,Anvitha Hospital,Andhra Pradesh,Hyderabad,"8-3-23A/A/516,517,A-Block Sri Keishna Nagar,Yousufguda",500045,AP
+0053,HAP0053,Aparna Hospitals Pvt Ltd,Andhra Pradesh,Warangal,"#2-5-680,Subedari,Hanamkonda",506001,AP
+0054,HAP0054,Apex Hospital,Andhra Pradesh,Rajamundry,"75-6-23, Prakash Nagar,East Godavari, Rajamundry.",533103,AP
+0055,HAP0055,Apex Hospital (Steel City Critical Care Pvt Ltd),Andhra Pradesh,Vizag,"16-1-5, Coastal Battery Road, Maharanipeta",530002,AP
+0056,HAP0056,Apollo Emergency & Clinic,Andhra Pradesh,Hyderabad,16-2-705/5/5Malakpet,500036,AP
+0057,HAP0057,Apollo Emergency & Clinic,Andhra Pradesh,Hyderabad,"Opp Sai Baba Temple, Bhagyanagar Colony,Kukkatpally Housing Board",500072,AP
+0058,HAP0058,Apollo Emergency & Clinic,Andhra Pradesh,Hyderabad,"Mehdipatnam, Meeraj Complex, Hyderabad-500028",500028,AP
+0059,HAP0059,Apollo Emergency Hospital,Andhra Pradesh,Hyderabad,"3-5-836 Hyderguda, Hyderabad 500029",500029,AP
+0060,HAP0060,Apollo Hospital,Andhra Pradesh,Secunderabad,"Vikrampuri Colony, Rajivi Gandhi Marg, Kharkhana.",500003,AP
+0061,HAP0061,Apollo Hospital (Kakinada),Andhra Pradesh,Eastgodavari,"13-1-3, Main Road, Kakinada - 533001",533001,AP
+0062,HAP0062,Apollo Hospital- Basheerbagh,Andhra Pradesh,Hyderabad,"Skylane Theatre Lane, Basheerbagh, Hyderabad-500016Basheerbagh",500016,AP
+0063,HAP0063,Apollo Hospitals,Andhra Pradesh,Hyderabad,"Jubilee Hills, Hyderabad-500033",500033,AP
+0064,HAP0064,Apollo Hospitals,Andhra Pradesh,Secunderabad,#9-1-87/1 Next To Keys High School St. Johns Road,500003,AP
+0065,HAP0065,Apollo Hospitals,Andhra Pradesh,Vizag,"Waltair Main Road, Vishakapatnam-530002",530017,AP
+0066,HAP0066,Apollo Hospitals Enterprise Ltd,Andhra Pradesh,Hyderabad,"Dmrl Cross Road, Santhosh Nagar,Kanchanbag, Hyderabad -500058",500058,AP
+0067,HAP0067,Apollo Nursing Home,Andhra Pradesh,Karimnagar,"H.No.3-3-111,Sawaran Street,Civil Hospital Road",505001,AP
+0068,HAP0068,Apoorva Health Services Pvt Ltd,Andhra Pradesh,Vizag,"50-17-62, Rajendranagar, Visakhapatnam-530016",530016,AP
+0069,HAP0069,Apoorva Hospital,Andhra Pradesh,Hyderabad,"46/A, Santoshnagar Colony,Mehdipatnam, Hyderabad-500028",500028,AP
+0070,HAP0070,Apple Hospital,Andhra Pradesh,Hyderabad,"Plot # 266,Vivekanandanagar Colony,Kukatpally",500072,AP
+0071,HAP0071,Aravind Eye Hospital Private Limited,Andhra Pradesh,Hyderabad,"# 12-2-824/A/1, Santosh Nagar Colony, Opp:St.Ann'S Womens College, Mehdipatnam. Hyderabad-500028",500028,AP
+0072,HAP0072,Aravind Multispeciality Hospital,Andhra Pradesh,Hyderabad,Opp Police Station Hayata Nagar Opp Police Station,501505,AP
+0073,HAP0073,Aravind Nethralaya Meenakshi Hospital,Andhra Pradesh,Nellore,"16-2-269, Swathantra Park Street,Near Saibaba Temple, Gandhi Nagar,Nellore",524001,AP
+0074,HAP0074,Aravindam Orthopaedic And Physiotherapy Centre,Andhra Pradesh,Rajamundry,"D.No-6-18-3, Kokkondavari Street, T Nagar.Rajahundry-1",533101,AP
+0075,HAP0075,Archana Hospital,Andhra Pradesh,Himayatnagar,Ram Nagar,560048,AP
+0076,HAP0076,Arun Kidney Centre,Andhra Pradesh,Vijayawada,"#29-23-9,Tadepallivani Street,Suryaraopet",520002,AP
+0077,HAP0077,Asha Hospital,Andhra Pradesh,Hyderabad,"H.No.19-66/11,Prashanagar Phase Ii,Behind Spencers, Hitention Road,Kapra",500062,AP
+0078,HAP0078,Asian Institute Of Gastroenterology,Andhra Pradesh,Hyderabad,"6-3-661, Somajiguda, Near Red Rose Hotel, Hyderabad-500082",500082,AP
+0079,HAP0079,Aswinee Nursing Home,Andhra Pradesh,Vijayawada,"D.No.29-26-56,Suryaraopet,Jadagamvari Street,Vijayawada,",520002,AP
+0080,HAP0080,Aswini Hospitals,Andhra Pradesh,Guntur,"15-1-17, 150 M5 From Rtc Bus Stand",522001,AP
+0081,HAP0081,Aswini Mother & Child Hospital,Andhra Pradesh,Westgodavari,"Taylor Pet,Narsapur",534275,AP
+0082,HAP0082,Aswini Netralayam,Andhra Pradesh,Guntur,"16-2-89, Guntur Road, Narasaraopet.",522601,AP
+0083,HAP0083,Aware Global Hospital (A Unit Of Ravindranath Ge Medical Associates Pvt Ltd),Andhra Pradesh,Hyderabad,"08-16-01, Lingojiguda,Saroornagar,L.B.Nagar",500035,AP
+0084,HAP0084,Aware Global Hospitals,Andhra Pradesh,Hyderabad,"Shanthivanam, Nagarjuna Sagar Roadnagarjuna Sagar Road,",500035,AP
+0085,HAP0085,Axis Eye Foundation,Andhra Pradesh,Hyderabad,"Suite # 502, Rivera Apts Dwarakapuri Colony Panjagutta",500082,AP
+0086,HAP0086,Axon Hospitals,Andhra Pradesh,Hyderabad,"8-3-215,Srinvasanagar, Colony West, Opp Icici Bank Sr Nagar,Hyderabad-500038",500038,AP
+0087,HAP0087,Ayush Hospital,Andhra Pradesh,Hyderabad,"Premises # 1-2-30/7, Nizampet Road.",500072,AP
+0088,HAP0088,Azam Hospital,Andhra Pradesh,Hyderabad,"21-4-189, Azam Hospital, Hussaini Alam, Hyderbad-500002",500002,AP
+0089,HAP0089,B.K.R Hospital,Andhra Pradesh,Hyderabad,"8-3-164/C, Erragadda, Beside Gokul Theatre.",500018,AP
+0090,HAP0090,B.M.R Hospitals,Andhra Pradesh,Guntur,"6Th Lane,2Nd Cross,Arundelpet",522002,AP
+0091,HAP0091,Baby Hospital,Andhra Pradesh,Ananthapur,"12-2-950(12-358)Sai Nager 2Nd Cross,Anantapur",515001,AP
+0092,HAP0092,Balaji Eye Care & Laser Centre,Andhra Pradesh,Hyderabad,"1St Floor,D-No 6-3788/32,Durganagar Colony Main Road,Ameerpet",500016,AP
+0093,HAP0093,Balaji Hospital,Andhra Pradesh,Kurnool,"Balaji Hospital 43/19 N.R. Peta, Kurnool-500001",500001,AP
+0094,HAP0094,Balaji Hospital,Andhra Pradesh,Secunderabad,"Plot #34,34/A,Pet Basheerabad,Ncl South,Medchal Road,Ranga Reddy",500055,AP
+0095,HAP0095,Balaji Hospital,Andhra Pradesh,Warangal,"#15-4-17, S.V.N Road ,Warangal-506002",506002,AP
+0096,HAP0096,Bapuji Maternity & Nursing Home,Andhra Pradesh,Hyderabad,"7-44,Bapuji Nagarnacharam",500076,AP
+0097,HAP0097,Basant Sahney Hospitals.,Andhra Pradesh,Secunderabad,"#253,Nehru Nagar,Road No.11,West Marredpally,K.Konda Reddy Street,Secunderabad,",500026,AP
+0098,HAP0098,Basavatarakam Indo American Cancer Hospital & Research Institute,Andhra Pradesh,Hyderabad,"Road No 14, Banjara Hills, Hyderabad-500034",500034,AP
+0099,HAP0099,Beams Hospitals Pvt Ltd. Hyderabad,Andhra Pradesh,Hyderabad,"Plot No. 99, Road No-1, Jublee Hills, Hyderabad-500033",500033,AP
+0100,HAP0100,Bharathi Hospital,Andhra Pradesh,Kadapa,"1/82, R.S. Road, Kadapa-516001",516004,AP
+0101,HAP0101,Bharathi Hospital,Andhra Pradesh,Vizag,"14-24-1, Men'S Hostel Road, Maharanipet, Visakhapatnam-530002",530002,AP
+0102,HAP0102,Bhardwaj Nursing Home,Andhra Pradesh,Warangal,"Beside Bus Stand,Rtc,Thorrur,",506163,AP
+0103,HAP0103,Bhaskara Hospital,Andhra Pradesh,Hyderabad,"Shapurnagar Main Road,Near Sai Bhavani Hospital",500055,AP
+0104,HAP0104,Bhaskara Hospital,Andhra Pradesh,Rangareddy,"Hno-C-11-13-154/1/1,Road#1,Dwarakanagar Colony,Saroornagar,Ranga Reddy",500035,AP
+0105,HAP0105,Bhavya Hospital,Andhra Pradesh,Hyderabad,"Plot No.65,Road No.5,New Samathapuri Colony,Na",500035,AP
+0106,HAP0106,Bhimavaram Hospitals Ltd,Andhra Pradesh,Tadepalligudam,J.P. Road Bhimavaramwest Godavary,534204,AP
+0107,HAP0107,Bibi General Hospital & Cancer Centre,Andhra Pradesh,Hyderabad,"16-3-991/1/C Govt Printing Press, Marketgovt. Printing Press Road",500024,AP
+0108,HAP0108,Bollineni Heart Centre Pvt Ltd,Andhra Pradesh,Eastgodavari,"#77-7-77/1,Seelam Nookaraju Complex Road,Katari Gardens,Rajahmundry",533103,AP
+0109,HAP0109,Bollineni Hospitals (A Unit Of Krishna Institute Of Medical Sciences Limited),Andhra Pradesh,Rajamundry,"#77-7-77/1, Seelam Nookaraju Complex Katari Gardens,",533103,AP
+0110,HAP0110,Bollineni Ramanaiah Memorial Hospital & Pvt Ltd,Andhra Pradesh,Nellore,"Dargamitta,Nellore",524003,AP
+0111,HAP0111,Bollineni Ramanaiah Memorial Hospitals Pvt. Ltd,Andhra Pradesh,Nellore,"Dargamitta,Nellore",524003,AP
+0112,HAP0112,Bommidala Cancer Institute,Andhra Pradesh,Guntur,Peda Kakani.,522509,AP
+0113,HAP0113,Boppana Super Speciality Hospital,Andhra Pradesh,Vijayawada,"Machilipatnam Road, Poranki, Vijayawada, Andhra Pradesh.",521137,AP
+0114,HAP0114,Bristlecone Hospitals Private Limited,Andhra Pradesh,Hyderabad,"3-4-136/A,Street #6 Barkatpurbarkhatpura Branch",500027,AP
+0115,HAP0115,Brundavan Nursing Home,Andhra Pradesh,Machlipatanam,"# 24/588- Railway Station Road, Rajavari Centre.",521001,AP
+0116,HAP0116,Bsr Ent Nursing Home,Andhra Pradesh,Hyderabad,"Sd Road,Karancentre",500003,AP
+0117,HAP0117,C.R.Reddy Hospital,Andhra Pradesh,Nellore,"13/264,Hospital Road,Gudur",524101,AP
+0118,HAP0118,C.V.R Hospital,Andhra Pradesh,Guntur,"H No:10-1-7,1St Lane,Sambasivapet,",522001,AP
+0119,HAP0119,Calibre Medical Centre (Cmc),Andhra Pradesh,Hyderabad,"1-11-240/2D, Shyamlal Buildings Begumpet",500016,AP
+0120,HAP0120,Care Hospital,Andhra Pradesh,Hyderabad,"No.6-3-248/1/1A, Road No.01, Banjara Hills, Hyderabad-500034",500034,AP
+0121,HAP0121,Care Hospitals,Andhra Pradesh,Secunderabad,"Near Clocl Tower,Adjacent Laneto Westely Church, Market Stre",500003,AP
+0122,HAP0122,Care Hospitals (A Unit Of Quality Care India Limited).,Andhra Pradesh,Hyderabad,"Exhibition Road Hyderabad-500001, Near Mazam Jahi Market",500001,AP
+0123,HAP0123,Chaitanya Eye Hospital,Andhra Pradesh,Vijayawada,Tikkle Road Mogalrajpuram,520010,AP
+0124,HAP0124,Chaithanya Multispeciality Hospital,Andhra Pradesh,Hyderabad,"Plot No:357&358, Prashanthnagar,Vanasthalipuram, Near Panama Godowns, Hyderabad-500070",500070,AP
+0125,HAP0125,Chalasani Hospital,Andhra Pradesh,Guntur,"12-12-94/A,Old Club Road,Kothapeta",522001,AP
+0126,HAP0126,Chalasani Hospitals Pvt. Ltd.,Andhra Pradesh,Vizag,"50-53-4, Gurudwaralane, Seethammadhara, Visakhapatnam-530013, Beside A.P.E.P.D.L.L Corporate Office",530013,AP
+0127,HAP0127,Challa Eye Care Centre,Andhra Pradesh,Hyderabad,"8-2-268/R/9-P,Sagar Society Main Road,Road # 2,Banjara Hills",500016,AP
+0128,HAP0128,Challa Hospital,Andhra Pradesh,Hyderabad,"7-1-71/A/1, Dharam Karan Road, Ameerpet, Hyderabad-500016",500016,AP
+0129,HAP0129,Chandra Mohan'S Nursing Home,Andhra Pradesh,Madanapalle,"14-2A,C.T.M. Road,Beside Icici Bank Madanapalle",517325,AP
+0130,HAP0130,Charithasri Hospitals Ltd,Andhra Pradesh,Vijayawada,"Ramachandra Rao Road,29/6/8-1,Vijayawada.Ramachandrarao Road",520002,AP
+0131,HAP0131,Childrens Hospital,Andhra Pradesh,Guntur,"6-11-58/59, 11Th Lane, 2Nd Cross, Arundelpet.",522002,AP
+0132,HAP0132,City Cancer Centre,Andhra Pradesh,Hyderabad,"No.33-25-33,Ch.Venkata Krishnaiah Street,Suryaraopet,Krishna,Vijayawada",520002,AP
+0133,HAP0133,Clear Vision Eye Hospital,Andhra Pradesh,Himayatnagar,"3-6-272, Nvk Towers, Opp Telugu Academy Himayathnagar, Hyderabad-500029Quarters Road, Hyderabad.",500029,AP
+0134,HAP0134,Cnr Nursing Home,Andhra Pradesh,Kadapa,"4/6,Gandhi Road,Proddatur",516360,AP
+0135,HAP0135,Coastal Cardiac And Maternity Centre,Andhra Pradesh,Rajahmundry,Danavaipeta Park Beside Hdfc Bank East Godavari,533103,AP
+0136,HAP0136,Coastal Care Hospital,Andhra Pradesh,Guntur,"8Th, Line, Old Club Road, Gunturivarithota, Kothapet, Guntur-522001, Opp Bus Stand, Old Club Road",522001,AP
+0137,HAP0137,Cure Emergency Hospital,Andhra Pradesh,Khammam,"11-2-91/A, Balajinagar, N.S.T Road, Khammam, Andhrapradesh-507001Balajinagar",507001,AP
+0138,HAP0138,Cure Hospitals,Andhra Pradesh,Secunderabad,"Plot # 3,Ganesh Nagar Colony,Opp Smt Sarojini Pulla Reddy House,Hasmathpet Road,Bowenpallh",500011,AP
+0139,HAP0139,Cure Well Hospital,Andhra Pradesh,Warangal,"15-1-46, Srinivasa Colony Opp Mgm Hospital",506007,AP
+0140,HAP0140,Curie City Cancer Centre,Andhra Pradesh,Krishna,"Padavalarevu,Gunadala,Krishna",520004,AP
+0141,HAP0141,Datta Prasad Orthopaedic Nursing Home,Andhra Pradesh,Guntur,"D.No#14-8-38.Netajinagar, 2Nd Lane,Ponnur.",522124,AP
+0142,HAP0142,Dbr & Sk Super Speciality Hospital,Andhra Pradesh,Chittoor,"No.18-1-505,Mosque Road,Opp.V.V.Mahal Theatre,Chitoor,",517501,AP
+0143,HAP0143,Deepthi Nursing Home,Andhra Pradesh,Nellore,"Sbi Railway Road, Brindavanam, Psr",524001,AP
+0144,HAP0144,Devi Priya Life Care Hospital,Andhra Pradesh,Vizag,"58-1-433/2,Main Road,Santhinagar,Nad Post",530009,AP
+0145,HAP0145,Dharani Nursing Home,Andhra Pradesh,Nalgonda,"Doctirs Colony, Miryalaguda.",508207,AP
+0146,HAP0146,Dhulipalla Hospital Guntur,Andhra Pradesh,Guntur,"12-25-179,Kothapet, Opp Sivalayam, Guntur-522001",522001,AP
+0147,HAP0147,Dolphin Children Hospital,Andhra Pradesh,Hyderabad,"17-87,Road #1,Kamalanagar,Chaitanyapuri,Dilsukhnagar",500060,AP
+0148,HAP0148,Dr Agarwal'S Healthcare Ltd,Andhra Pradesh,Hyderabad,"18-92/C,D,E, S.S Towers Chaitanyapuri X Road Dilsukhnagar-500060Dilsukhnagar",500060,AP
+0149,HAP0149,Dr Agarwal'S Healthcare Ltd,Andhra Pradesh,Secunderabad,"Matarani Sensation 8-1-386, 387-8467 Rastrapati Road Secunderabad-500003",500003,AP
+0150,HAP0150,Dr Andals Lakshmi Fertility Reserch & Laparoscopic Surgical Centre,Andhra Pradesh,Nellore,"16-2-94, Pogathota, Near Raghava Cini Complex, Nellore-524001",524001,AP
+0151,HAP0151,Dr Pattabhirama Rao (Siromani Hospital),Andhra Pradesh,Kothagudem,"No.4-1-7,Ramnagar,Kothagudem-507101",507101,AP
+0152,HAP0152,Dr Sreedhar'S Kidney & Multispeciality Hospital,Andhra Pradesh,Hyderabad,"No.13-6-437/1/L/1,Khaderbagh,Nanal Nagar,",500008,AP
+0153,HAP0153,Dr Ysr Memorial Hospital,Andhra Pradesh,Ananthapur,"#12-2-878, 1Cross, Sai Nagar, Anantapur-515001 (A.P.)",515001,AP
+0154,HAP0154,Dr. Agarwal'S Eye Hospital (Rep By Dr. Agarwal'S Health Care Ltd.),Andhra Pradesh,Hyderabad,"#6-3-712/80 And 81, Punjagutta Colony, Hyderabad, A.P.-500082",500082,AP
+0155,HAP0155,Dr. Akbar Eye Hospital,Andhra Pradesh,Ananthapur,#12-3-2 346Th Lane Sai Nagar Ananthapur,515001,AP
+0156,HAP0156,Dr. Anji Reddy Multi-Speciality Hospital Pvt Ltd,Andhra Pradesh,Guntur,"16/682, Piduguralla Main Road.",522413,AP
+0157,HAS0157,Aditya Diagnostics & Hospitals (A Unit Of Dr. N. Sahewalla & Co Pvt. Ltd),Assam,Dibrugarh,"AMC Road, Bordoloi Avenue, Dibrugarl Dist, Assam-786005.",786005,AS
+0158,HAS0158,Agile Hospital Pvt. Ltd,Assam,Guwahati,"Tripura Road, Jayanagar Chariali, Guwahati, Kamrup, Assam, Opposite Sbi, Iibm Branch.",781022,AS
+0159,HAS0159,B.K.Memorial Hospital,Assam,Sonitpur,"Natun Para Near Ganesh Mill Char Ali,Tezpur",784001,AS
+0160,HAS0160,Baptist Christian Hospital,Assam,Sonitpur,"Mission Chariali, 4 Corps Army Battalion. Tezpur",784001,AS
+0161,HAS0161,Barthakur Clinic Pvt Ltd,Assam,Guwahati,Karghuli Road Kharghuli,781028,AS
+0162,HAS0162,Brahmaputra Diagnostics & Hospital Ltd,Assam,Dibrugarh,"Bordoloi Avenue,Patian Bazar, Near Circuit House & Assam Medical College, Dibrugarh-786001",786001,AS
+0163,HAS0163,City Heart Hospital ( Unit Of Rajgarh Polyclinic & Nursing Home ),Assam,Guwahati,"Rajgarh Road, Gawahati, Kamrup, Assam",781007,AS
+0164,HAS0164,City Hospital & Research Centre,Assam,Tinsukia,"A.T. Road, Near Timkonia Dukmari, Timsukia, Assam-786125",786125,AS
+0165,HAS0165,Dispur Polyclinic & Nursing Home,Assam,Guwahati,Ganeshguri Chariali,781001,AS
+0166,HAS0166,Down Town Hospital Ltd,Assam,Guwahati,"G.S. Road, Dispur",781005,AS
+0167,HAS0167,Dr. Bawaris Nursing Home,Assam,Tinsukia,"Parbatia Road, Tinukin.",786125,AS
+0168,HBR0168,A.B.Eye Institute,Bihar,Patna,"Road No.12, Rajendra Nagar, Patna, Bihar-800016",800016,BR
+0169,HBR0169,Abhinandan Hospital,Bihar,Patna,"0/60, Doctors Colony, Kankar Baga",800020,BR
+0170,HBR0170,Arvind Hospital Pvt Ltd,Bihar,Patna,"Ashok Rajpath,Opp.Pmch,",800004,BR
+0171,HCG0171,Agrawal Hospital (A Unit Of Agrawal Institute Of Medical Sciences Pvt,Chattisgarh,Raipur,"Near Rajkumar College, G.E. Road.",492001,CG
+0172,HCG0172,Akshay Hospital,Chattisgarh,Korba,"M.P. Nagar,",495681,CG
+0173,HCG0173,Apollo Hospitals Bilaspur,Chattisgarh,Bilaspur,"Seepat Road,Bilaspur(C.G)",495006,CG
+0174,HCG0174,Aum Hospital,Chattisgarh,Durg,"House # 22, Ward # 18.",491001,CG
+0175,HCG0175,Ayushmaan Hospital & Diagnostic Institute,Chattisgarh,Raipur,"Sunder Nagar, Mahadeo Ghat Road, Raipur",492001,CG
+0176,HCG0176,Bhargava Nursing Home,Chattisgarh,Bilaspur,"Magarpara Road,",495001,CG
+0177,HCG0177,Chandulal Chandrakar Memorial Hospital,Chattisgarh,Bhilai,"G.E. Road, Nehmnagar, Bhilak C.G,",490020,CG
+0178,HCG0178,Chattisgarh Hosptial Medical Research Centre & Institute,Chattisgarh,Raipur,"Central Avenue, Choubey Colony.",492001,CG
+0179,HCG0179,Devi Laxmi Hospital,Chattisgarh,Raipur,"B-19/5,Ring Road,Tagore Nagar",492001,CG
+0180,HDK0180,A-One Hospital Pvt Ltd,Delhi,Delhi,"A-1/7, Panchim Vihar, Rohtak Road, New Delhi-110063",110063,DK
+0181,HDK0181,Aakash Hospital,Delhi,Delhi,"90/43, Malviya Nagar, New Delhi",110017,DK
+0182,HDK0182,Aashirwad Nursing Home (Heart And Diabetes Center),Delhi,New Delhi,"A-29/3, Lions Enclave, Marble Block, Vikas Nagar, Uttam Nagar, New Delhi-110059",110059,DK
+0183,HDK0183,Aashlok Nursing Home Pvt Ltd,Delhi,Delhi,"#25A, Block-Ab, Community Centre,Safdarjung Enclave, Newdelhi-110029",110029,DK
+0184,HDK0184,Aastha Hospital,Delhi,Delhi,"L-2/50, New Mahavir Nagar Outer Ring Road Near Janakpuri Dist Centre",110018,DK
+0185,HDK0185,Action Cancer Hospital,Delhi,Delhi,"H-2/Fc-34,A4 Pashim Vihar",110063,DK
+0186,HDK0186,Adiva Hospital Pvt. Ltd.,Delhi,Delhi,C- 1/C Green Park Ext,110017,DK
+0187,HDK0187,Agarwal Medical Centre,Delhi,Delhi,"E-234, Greater Kailash, Delhi-110048",110048,DK
+0188,HDK0188,Aggarwal Nursing Home,Delhi,Delhi,"2528/192,Tri Nagar,Tota Ram Bazar",110035,DK
+0189,HDK0189,Agrawal Eye Institute,Delhi,Delhi,"A-235,Shivalik,Malviya Nagar",110017,DK
+0190,HDK0190,Altius Healthcare Pvt Ltd,Delhi,Delhi,"A-6, Pushpanjali Enclave,Pitampurapithampura New Delhi",110034,DK
+0191,HDK0191,Altius Healthcare Pvt Ltd,Delhi,Delhi,"#1,Gulshan Park, Main Rohtak Road, Mangloi-110041",110041,DK
+0192,HDK0192,Amar Leela Hospital (P) Ltd,Delhi,Delhi,"B-1/6, Janak Puri,Main Najafgarh Roadmain Najafgarh Road,",110058,DK
+0193,HDK0193,Amit Nursing Home,Delhi,Delhi,"A-3 Manak Vihar Ext,Tihar,Tihar",110018,DK
+0194,HDK0194,Anand Health Care Ltd,Delhi,Delhi,"21,Community Centre, Preet Viharpreet Vihar",110092,DK
+0195,HDK0195,Anand Hospital,Delhi,Delhi,"B-52, New Krishna Park, Dholi Piao, Vikas Puri.",110018,DK
+0196,HDK0196,Ansari Hospital,Delhi,Delhi,"Rz-20F/B, Street No-6, Sagarpur Main.",110046,DK
+0197,HDK0197,Apex Citi Hospital (A Unit Of Siddhartha Healthcare Pvt Ltd.),Delhi,Delhi,"D-440, West Vinod Nagar, Hanuman Road, I.P. Extension, Delhi-110092, Near Punjab National Bank",110092,DK
+0198,HDK0198,Arya Hospital,Delhi,Delhi,"C-1/101.Pankha Road,Janak Puri,New Delhi West,",110058,DK
+0199,HDK0199,Ashok Nursing Home,Delhi,Delhi,"F-3/15, Vijay Chowk,Krishna Nagarkrishnanagar, Delhi-110051.",110051,DK
+0200,HDK0200,Avanitka Hospital,Delhi,Delhi,"#168/A-00/Sector-2, Rohini, Near Pole Star Public School.",110085,DK
+0201,HDK0201,Ayushman Hospital,Delhi,Delhi,"# 2, Sec-12, Dwarka",110075,DK
+0202,HDK0202,B.M. Gupta Nursing Home Pvt Ltd.,Delhi,Delhi,"H-11, Uttam Nagar, New Delhi",110059,DK
+0203,HDK0203,B.T. Hospital,Delhi,Delhi,"182, Mukherjee Park,Khyla Road",110018,DK
+0204,HDK0204,Bajaj Eye Care Centre,Delhi,Delhi,"101, Vikas Surya Plaza, Plot # 7, Dda Community Centre Road # 44, Pitampura.",110034,DK
+0205,HDK0205,Bali Nursing Home,Delhi,Delhi,"D.B.Gupta Road, Karol Bagh",110005,DK
+0206,HDK0206,Banarasidas Chandiwala Institute Of Medical Sciences,Delhi,Delhi,"Chndiwala Estate, Maa Anandmai Marg Kalkaji, New Delhi",110019,DK
+0207,HDK0207,Bansal Hospital & Research Centre Pvt Ltd,Delhi,Delhi,"3590, Bajar Sitaram, Delhi",110006,DK
+0208,HDK0208,Bansal Hospital(A Unit Of Namedi Hospitalpvt Ltd,Delhi,Delhi,"No.A-1,New Friend'S Colony,",110065,DK
+0209,HDK0209,Batra Hospital,Delhi,Delhi,"1 ,Tughkalabad Institutional Am.B Road",110062,DK
+0210,HDK0210,Behl Hospital,Delhi,Delhi,"B-128, Naraina Viahar",110028,DK
+0211,HDK0211,Bensups Hospital,Delhi,New Delhi,"Bensups Avenue,Sector-12, Dwarka Metro Station",110075,DK
+0212,HDK0212,Bhagat Chandra Hospital (A Unit Of Bhagat Hospitals (P) Ltd.),Delhi,New Delhi,"Rz-F1/1, Mahavir Enclave, Near Dwarka Airport Flyover, New Delhi.",110045,DK
+0213,HDK0213,Bhagat Hospital,Delhi,Delhi,"D-2/48-49, Janakpuri, New Delhi",110059,DK
+0214,HDK0214,Bhagwan Mahavir Hospital,Delhi,Delhi,"Sector-14, Ext., Rohini, Madhuban Chowk.",110085,DK
+0215,HDK0215,Bhagwati Hospital,Delhi,Delhi,"Cs/Ocf 6 , Sector 13 Rohininear Printers Apt",110085,DK
+0216,HDK0216,Bharti Eye Foundation,Delhi,Delhi,"1/3,East Patel Nagar,Newdelhi",110008,DK
+0217,HDK0217,Bhatia Global Hospital & Endosurgery Institute,Delhi,Delhi,"307 &308, Ambica Viharpaschim Vihar",110087,DK
+0218,HDK0218,Bimal Hospital,Delhi,Nangloi,"17/1,Near Bhuto Wali Gali",110041,DK
+0219,HDK0219,Bimla Devi Hospital,Delhi,Delhi,"# 5, Pocket B, Ocf Mayur Vihar Phase Iiphase-11, Delhi-110091.",110091,DK
+0220,HDK0220,Blk Memorial Hospital,Delhi,Delhi,"Pusa Road,Near Rajendra Place Metro Station",110005,DK
+0221,HDK0221,Brahm Shakti Hospital,Delhi,Delhi,"U-1/78, Budh Vihar, Phase-1, Main Kanjhawala Road, Delhi-110086",110086,DK
+0222,HDK0222,Central Hospital,Delhi,Delhi,"A-142/1, Ganesh Nagar P.O,Tilak Nagartilak Nagar, New Delhi-110018.",110018,DK
+0223,HDK0223,Centre For Sight,Delhi,Delhi,"B-5/24, Oppsite Deer Park Safdarjung Enclave,",110016,DK
+0224,HDK0224,Centre For Sight (Preet Vihar),Delhi,New Delhi,"F-19 Vikas Marg,Preet Vihar,Nr Preet Vihar Metro Station,Delhipreet Vihar",110092,DK
+0225,HDK0225,Centre For Sight (Rajouri),Delhi,Delhi,"J-12/30, Rajouri Garden, New Delhi",110027,DK
+0226,HDK0226,Centre For Sight (Rohini),Delhi,Delhi,"304-309, Ring Road Mall, Sector-3, Rohini,",110085,DK
+0227,HDK0227,Centre For Sight (Roopnagar),Delhi,Delhi,"1/2. Roop Nagar, New Delhi,",110007,DK
+0228,HDK0228,Centre For Sight-Dwarka,Delhi,New Delhi,"Plot No-20, Dwarka Sector 12 A, Opposite Bal Bharti School, Dwarka, New Delhi",110097,DK
+0229,HDK0229,Ch. Chhaju Ram Hospital (Aunit Of Holy Touch Healthcare Pvt Ltd),Delhi,Delhi,"Wz-1, Om Viha, Uttam Nagar Main Najafgarh Road, New Delhi -110059",110059,DK
+0230,HDK0230,Chaddha Children Hospital & Nursing Home,Delhi,Delhi,"No.121,Guru Harkishan Nagar,Paschim Vihar,",110063,DK
+0231,HDK0231,Chandraleela Hospital,Delhi,Delhi,"P13, Vijay Vihar, Uttam Nagar. New Delhi-59Uttam Nagar",110059,DK
+0232,HDK0232,Chaudhary Eye Centre & Laser Vision,Delhi,Delhi,"4802/24, Bharat Ram Road,Darya Ganj,24, Darya Ganj,",110002,DK
+0233,HDK0233,Chikitsa Nursing Home,Delhi,Delhi,"B-4, Saket",110017,DK
+0234,HDK0234,Daya Hospital,Delhi,Delhi,"A-4/16,Paschim Vihar,New Delhi",110063,DK
+0235,HDK0235,Deepak Memorial & Medical Research Centre,Delhi,Delhi,"5, Institutional Area, Vikas Marg Ex Ii,Vikas Marg Ex 11,",110092,DK
+0236,HDK0236,Deepan Hospital,Delhi,Delhi,"Khasra 139-140, Najafgarh Raod, Kapashera.",110037,DK
+0237,HDK0237,Delhi Heart And Lung Institute,Delhi,Delhi,#3Mm Ii Panchkuian Road New Road-110055New Delhi,110055,DK
+0238,HDK0238,Delhi Hospital & Temple Nursing Home,Delhi,Delhi,"#1, Ansari Road, Darya Ganj,New Delhi-110002.",110002,DK
+0239,HDK0239,Dharmashila Cancer Hospital & Research Centre,Delhi,Delhi,"Dharmashila Marg,Vasundhara Enclavevasundhara Enclave, Delhi - 96",110096,DK
+0240,HDK0240,Divya Prastha Hospital,Delhi,Delhi,"Rz-37,Main Road,Palam Colony,",110045,DK
+0241,HGA0241,A.V.Da Costa Hospital,Goa,Margao,"No.P-602,Fatorda,Next To Fatorda Stadium,Salcete,",403602,GA
+0242,HGA0242,Apollo Victor Hospital,Goa,Margao,"Malbhat, Margao, South Goa, Salcetemargao",403601,GA
+0243,HGA0243,Dr. Bhandare Hospital,Goa,Panjim,Fontainhas Panaji Northgoa,403001,GA
+0244,HGA0244,Dr. Caeiro Bicholim Polyclinic Hospital,Goa,Panjim,"Sonarpeth, Bicholim,North-Goa, Goa-403504",403504,GA
+0245,HGA0245,Dr. Kantak'S Hospital,Goa,Margao,Bishop Rebello Road,403601,GA
+0246,HGJ0246,Aadya Ent Hospital,Gujarat,Ahmedabad,"Shivam Complex, Janata Chamber, Saijpur Tower.",380045,GJ
+0247,HGJ0247,Aadya Eye Hospital,Gujarat,Ahmedabad,"Near Saijpur Tower, Janata Market.",380045,GJ
+0248,HGJ0248,Aagman Hospital,Gujarat,Rajkot,Madhav Vatika Raiya Road.,360007,GJ
+0249,HGJ0249,Aakar Hospital,Gujarat,Rajkot,"Virani School Chowk,Opp Punjab Bank,Ramkrishna Nagar Main Road,",360002,GJ
+0250,HGJ0250,Aakash Eye Hospital,Gujarat,Mehsana,"A 19-20,Suraksha Society,Near B.Ed.College,Visnagar,Shivmarket",384315,GJ
+0251,HGJ0251,Aalok Ortho Care,Gujarat,Ahmedabad,"#8, Vidhyavihar Colony, Opp Hotel Fortune Lankmark, Usmanpura, Ahmedabad, Gujarat",380014,GJ
+0252,HGJ0252,Aaruni Hospital Pvt Ltd,Gujarat,Rajkot,"Next To Holy Saint School,Kalawad Road",360001,GJ
+0253,HGJ0253,Aaryan Institute Of Medical Sciences,Gujarat,Kutch,"Navanaka,Mandvi,Near Opp Sawmi Narayana Mandir",370465,GJ
+0254,HGJ0254,Accident Fracture And Orthopedic Hospital,Gujarat,Gandhinagar,"Near Green Park Dunetha Road , Nani Daman, Gandhinagar, Gujarat-382010",382010,GJ
+0255,HGJ0255,Adarsh Hospital,Gujarat,Surat,"16-23, Suryakiran Appartments,Ghoddod Road, Surat-395007.",395007,GJ
+0256,HGJ0256,Aditya Orthopaedic Hospital,Gujarat,Ahmedabad,"#201,202,Aditya Plaza,Jodhpur Road,Satellite",380015,GJ
+0257,HGJ0257,Adventist Wockardt Heart Hospital,Gujarat,Surat,24 Athwalines Surat,395006,GJ
+0258,HGJ0258,Agrawal Hospital,Gujarat,Patan,"5Th Lane,First Floor,Kilachand Centre,Station Road",384265,GJ
+0259,HGJ0259,Ajani Hospital,Gujarat,Patan,"Sidharaj Jaysingh Marg, Sidhpur",384151,GJ
+0260,HGJ0260,Akar Hospital,Gujarat,Rajkot,"Ramkrishna Nagar Main Road, Virani School Chowk.",360002,GJ
+0261,HGJ0261,Akshar Eye Hospital,Gujarat,Ahmedabad,"Kandhari Apartment, Opp S.T. Work Shop,Patia, Naroda Road.",382340,GJ
+0262,HGJ0262,Akshar Surgical Hospital,Gujarat,Ahmedabad,"2Nd Floor, Vidita Avenue, Near Jayhind,Char Rasta, Maninagar.",380008,GJ
+0263,HGJ0263,Akshardeep Orthopaedic Hospital,Gujarat,Ahmedabad,"2Nd Floor, Shubh Complex, Near Rajasthan Hospital, Shahibaugnr. Rajasthan Hospital,",380004,GJ
+0264,HGJ0264,Amee Deep Hospital,Gujarat,Baroda,"Gf-12, Narsinhadham Complex, Opp Sangam Bus Stop, Harni Road.",390022,GJ
+0265,HGJ0265,Amijeet Maternity Hospital,Gujarat,Ahmedabad,"A/4, Shantram Complex, Near Nirnaynagar Garnala.",382481,GJ
+0266,HGJ0266,Amin Maternity And Nursing Home,Gujarat,Ahmedabad,"17, Manipushp Society, Opp:Sarathi-2, B/H Goyal Intercitynr. Surdhara Circle",380054,GJ
+0267,HGJ0267,Anamay Eye Hospital,Gujarat,Ahmedabad,Off.C.G.Road Nr President Hotel Opp. Mahalya Builldingnavrangpura,380009,GJ
+0268,HGJ0268,Anand Multispeciality Hospital,Gujarat,Ahmedabad,"Shubh Complex, Shahibuy, Near Rajsthan Hosptial.",380004,GJ
+0269,HGJ0269,Anand Multispeciality Hospital,Gujarat,Ahmedabad,"N.H.8,Hirawati",382350,GJ
+0270,HGJ0270,Anand Surgical Hospital Ltd.,Gujarat,Ahmedabad,"5, Janta Chambers, Nr,Saijpur Towernr. Saijpur Tower",382345,GJ
+0271,HGJ0271,Aneri Surgical & Neurosurgical Hospital,Gujarat,Ahmedabad,"1St Floor, Swami Narayan Complex.",380007,GJ
+0272,HGJ0272,Anjali Hospital,Gujarat,Nadiad,"Desai Vago,Nadiad",387001,GJ
+0273,HGJ0273,Ano Surge Hospital & Research Centre,Gujarat,Patan,"Doctor House,Opp Shantaba Hall,Bus Station Road",384265,GJ
+0274,HGJ0274,Ansuya General Hospital,Gujarat,Ahmedabad,"#4,Daxini Society,Maninagar",380008,GJ
+0275,HGJ0275,Apollo Hospital International Ltd,Gujarat,Gandhinagar,"Plot No.1A, Gidc Estate-Bhat, Gandhinagar-382428",382428,GJ
+0276,HGJ0276,Arihant Fracture & Orthopaedic Hospital,Gujarat,Ahmedabad,"Upnishad, 1St Floor, Near Shreyas Rly Crossing. Ambavadi.",380015,GJ
+0277,HGJ0277,Arihant Heart & Medical Hospital,Gujarat,Ahmedabad,"S-15, Shubh Complex,2Nd Floor, Nr.Rajasthan Hospitalrajasthan Hosp. Road,",380004,GJ
+0278,HGJ0278,Arpan Maternity Hospital & Endoscopy Centre,Gujarat,Porbandar,"Uganda Road, Porbandar, Near Railway Station",360575,GJ
+0279,HGJ0279,Ashirwad Medical & Orthopedic Hospital,Gujarat,Patan,"4-A, Subhadra Nagar, Opp. Technical School, Patan.",384265,GJ
+0280,HGJ0280,Ashirwad Surgical Hospital,Gujarat,Amraiwadi,"Wonder Paint,Nh8 Ctm,Amraiwadi",380028,GJ
+0281,HGJ0281,Ashish Orthopaedic Hospital,Gujarat,Ahmedabad,"24, Himalaya Complex, Nehru Park, Vajtrapur",380015,GJ
+0282,HGJ0282,Aum Eye Hospital,Gujarat,Jamnagar,"Jolly Bunglow Complex,Summair Club Road,",361005,GJ
+0283,HGJ0283,Auro Ent Hospital,Gujarat,Ahmedabad,"Sanjeevani Complex Opp Mehsana Society, New Vadaj Road",380013,GJ
+0284,HGJ0284,Auroma Ent Hospital,Gujarat,Ahmedabad,"Agrawal Tower, Bhuyangdev Cross Road, Ghatlodia",380061,GJ
+0285,HGJ0285,Austmangal Surgical Hospital,Gujarat,Ahmedabad,"Ahmedabad, Civil Hospital (1 Km)",380004,GJ
+0286,HGJ0286,Balaji Hospital ( A Unit Of Shri Vhmrc Pvt Ltd),Gujarat,Baroda,"Opp. Vidya Vikas School, Subhanpura.",390023,GJ
+0287,HGJ0287,Bankers Heart Institute,Gujarat,Baroda,"Near Tagorenagar,Old Padra Road,Opp Suryakiran Building,",390015,GJ
+0288,HGJ0288,Baroda Heart & Multispeciality Hospital,Gujarat,Bharuch,"71 To 91,Capital Business Centre,Upper Ground Floor,Wing B,Panchbatti Oppcentral Bank Of India,Station Road,",392001,GJ
+0289,HGJ0289,Baroda Heart Institute And Research Centre,Gujarat,Baroda,"44, Haribhakti Colony, Race Course,Vadodara",390007,GJ
+0290,HGJ0290,Batra Hospital,Gujarat,Baroda,"112-116,Chaturbhai Park Sangam Warasia Ring Road",390006,GJ
+0291,HGJ0291,Bavishi Eye Hospital,Gujarat,Ahmedabad,"# 1, Tapovan Society, S.N. Road, Ahmedabad-380015",380015,GJ
+0292,HGJ0292,Bavishi Hospital,Gujarat,Ahmedabad,"Opp Manjulal Municipal Garden,Near Adani Cng Pvmp Station",380007,GJ
+0293,HGJ0293,Better Health Pvt Ltd,Gujarat,Ahmedabad,"Pallav J.M. Desai Memorial Hospital, Maninagar East.",380008,GJ
+0294,HGJ0294,Bhagwati Urology Hospital,Gujarat,Jamnagar,"Amrish Complex,4Th Floor,Gurudwara Road, Indira Marg.",361001,GJ
+0295,HGJ0295,Bhailal Amin General Hospital,Gujarat,Baroda,Bhailal Amin Marg Gorwabaroda,390003,GJ
+0296,HGJ0296,Bharucha Hospital,Gujarat,Baroda,"Anjana Park Complex,Subhanpura Main Road",390023,GJ
+0297,HGJ0297,Bhavsar Surgical & Maternity Hospital,Gujarat,Godhra,"Near Church, Panjera Pole, Above Bombay Cold Drinks Medaopp.Bank Of Baroda",389001,GJ
+0298,HGJ0298,Bodyline Hospitals (A Unit Of Kidneyline Healthcare Pvt Ltd),Gujarat,Ahmedabad,"Opp. Annapurna Hall, Near Dev Status, New Vikas Gruh Road, Paldi, Ahmedabad.",380007,GJ
+0299,HGJ0299,Bopal Eye Care Centre,Gujarat,Ahmedabad,"Off-Bs-22To25, B Wing, 2Nd Floor, Ahmedabad, Amrapali Mall, Bopal City Gold Theatre",380058,GJ
+0300,HGJ0300,Bopal Multispeciality Hospital Pvt Ltd,Gujarat,Ahmedabad,"1St First Floor,Abhinandan Complex, Opp-Inductotherm, Bopal , Ahmedabad",380058,GJ
+0301,HGJ0301,Brain & Spine Hospital,Gujarat,Ahmedabad,"Blue Star Complex,Near Under Bridge,Income Tax,Navrangpur",380014,GJ
+0302,HGJ0302,C.F. Sheth Memorial Hospital,Gujarat,Bharuch,"Shalimar Complex, Station Road",392001,GJ
+0303,HGJ0303,Centre For Knee Surgery,Gujarat,Baroda,"101/3,Akashganga Complex,Race Couse Circle",390007,GJ
+0304,HGJ0304,Chandan Hospital & Icu,Gujarat,Baroda,"Navarang Talkies Compound, Raopura, Baroda-390001",390001,GJ
+0305,HGJ0305,Chandramani Hospital,Gujarat,Ahmedabad,"Girdhar Nagar, Shahibag",380004,GJ
+0306,HGJ0306,Chintan Orthopaedic Hospital,Gujarat,Ahmedabad,"#16,Anuradha Society,Jivraj Park Cross Road",380051,GJ
+0307,HGJ0307,Chitrakut Surgical Hospital,Gujarat,Ahmedabad,"734/4888 , Bapunagar ,Near Pattelvadi ,",380024,GJ
+0308,HGJ0308,Cims Hospital Private Limited,Gujarat,Ahmedabad,Nr Shukan Mall Off Science City Road Sola Shukan Mall,380060,GJ
+0309,HGJ0309,Darshan Eye Care Clinic (Savjiani Medico (P) Ltd),Gujarat,Rajkot,"2Nd Floor, Parishram Plaza,Mangla Main Roadmangla Main Road, Rajkot.",360002,GJ
+0310,HGJ0310,Dave Orthopaedic Hospital,Gujarat,Ahmedabad,"Opp S.T. Bus Station,",365601,GJ
+0311,HGJ0311,Ddmm Heart Instituti,Gujarat,Nadiad,"Mission Road,Nadiad",387002,GJ
+0312,HGJ0312,Deep Intensive And Critical Care,Gujarat,Baroda,"B/4, Maharani Shool, Near Sursagar, Raopura",390001,GJ
+0313,HGJ0313,Dev Eye Hospital,Gujarat,Ahmedabad,"#405,Pratham Mangal Complex,Opp Vasna Telephone Exchange,Vasna",380007,GJ
+0314,HGJ0314,Dev Hospital Dev Seva Trust,Gujarat,Ahmedabad,"Kesariyaji Bus Stop, Vasna Jivraj Mehta Hosp. Road,Vasna Ahmedabad-380007",380007,GJ
+0315,HGJ0315,Devam Orthopaedic Hospital,Gujarat,Ahmedabad,"215-216, Sarvopari Mall, Near Bhuyangdev Cross Road, Sola Road, Ghatlodia, Ahmedabad- 380061, Gujarat",380061,GJ
+0316,HGJ0316,Devasya Kidney And Multispeciality Hospital,Gujarat,Ahmedabad,"3, Panchal Nagar Society, Opp Mehasana Society, Nava Vadaj Road,Vadaj",380013,GJ
+0317,HGJ0317,Devpushp Hospital,Gujarat,Baroda,"Devpushp Complex,Tulsidham Cross Road,Manjalpur",390011,GJ
+0318,HGJ0318,Dhanvantari Hospital,Gujarat,Baroda,"2Nd Floor,Nivedanam Complex,Soma Talaw Cross Road,Dabhoi Ring Road",390019,GJ
+0319,HGJ0319,Dhruva Eye Hospital & Laser Centre,Gujarat,Rajkot,Rashtriya Shala Main Road,360002,GJ
+0320,HGJ0320,Dhvani Ent Hosptial,Gujarat,Vadodara,Near G.P.O. Raopura.,390001,GJ
+0321,HGJ0321,Dhwani General Hospital,Gujarat,Ahmedabad,"#28,New Kamlesh Society,Odhav",382215,GJ
+0322,HGJ0322,Dipa Children Hospital&Micu,Gujarat,Ahmedabad,"Bhagwati Complex, Mahalaxmi Paladi.",380007,GJ
+0323,HGJ0323,Doctor House,Gujarat,Mehsana,"Jail Road, Mehsana",384002,GJ
+0324,HGJ0324,Dr Nutan Shah Eye Hospital & Advanced Phaco Centre,Gujarat,Baroda,"1, Devdeep Complex, Delux Cross, Nizampura",390002,GJ
+0325,HGJ0325,Dr. Ashish Dave Eye Hospital,Gujarat,Ahmedabad,"'Aakash' Complex, Station Road, Maninagarahmedabad-380008.",380008,GJ
+0326,HGJ0326,Dr. Ashit Shah Eye Hospital,Gujarat,Ahmedabad,"# 202, Shaival Complex, Opp:Chandanbala Tower, Paldipaldi, Ahmedabad-380007.",380007,GJ
+0327,HGJ0327,Dr. Atul Shah Eye Hospital,Gujarat,Ahmedabad,"3Rd Floor, Narottam Complex,Bhuyangdev Cross Road,Ahmedabad",380061,GJ
+0328,HGJ0328,Dr. Dijesh Shah'S Meru Nursing Home,Gujarat,Bhavnagar,"75 B, Mahila Welfare Society,Chittaranjan Chowk, Vidhyanagar, Bhuvnagar, Gujarat",364002,GJ
+0329,HGJ0329,Dr. Gandhi Orthopaedic Hospital,Gujarat,Rajkot,"Vidyanagar Main Road, Sarvoday Sankool.",360002,GJ
+0330,HGJ0330,Dr. H.B. Eye Hospital,Gujarat,Surendranagar,"Surendranagar,Near Milan Cinema, Gujarat",363001,GJ
+0331,HGJ0331,Dr. Jayant Shah Hospital,Gujarat,Nadiad,"Santram Road, Nadiad,Kheda, Gujarat-387001.",387001,GJ
+0332,HGJ0332,Dr. Jayesh C. Gandhi Surgical Hospital,Gujarat,Surendranagar,"Old Junction Road, B/H. Boston Guest House.",363001,GJ
+0333,HGJ0333,Dr. Mahesh Rathod Hospital,Gujarat,Rajkot,"1, Sardarnagar, Nr. Astran Chowk, Rajkot",360001,GJ
+0334,HHR0334,Aashirwad Hospital,Haryana,Gurgaon,"G-121, Oriental Villa, Sushant Lok-Iii, Sector-57.",125001,HR
+0335,HHR0335,Aastha Eye Centre,Haryana,Faridabad,"5-R/5 N.I.T, Near Neelam Petrol Pump, Faridabad-121001",121001,HR
+0336,HHR0336,Agarwal Nursing Home,Haryana,Kurukshetra,"Salarpur Road, Kurukshetra, Haryana",136118,HR
+0337,HHR0337,Aggarwal Medical Centre,Haryana,Faridabad,"Jiwan Nagar, Gaunchi, Sector-55. Haryana , Faridabad",121004,HR
+0338,HHR0338,Ahmed Hospital,Haryana,Gurgaon,"Sector-15,Part-2.",122001,HR
+0339,HHR0339,Ahooja Eye & Dental Institute,Haryana,Gurgaon,"560/1, Dayanand Coloney, New Railway Road",122001,HR
+0340,HHR0340,Alchemist Hospitals Ltd,Haryana,Panchkula,"Sector 21,Near Main Market",134112,HR
+0341,HHR0341,Alchemist Institute Of Medical Science,Haryana,Gurgaon,Sector 53 Saraswatikunj Dlf Golf Course Road Gurgaon,122001,HR
+0342,HHR0342,Alps Hospital (Max Hospital),Haryana,Gurgaon,"Block B, Sushant Lok Phase-1,Next To Park Plaza Hotel",122001,HR
+0343,HHR0343,Amarawati Hospital,Haryana,Gurgaon,"Saraswati Enclave Near Power House, Opp. Sec. 10A, Gurgaon-122001, Haryana",122001,HR
+0344,HHR0344,Amritdhara Hospital Pvt Ltd,Haryana,Karnal,"Chaura Bazar,Near City Police Station",132001,HR
+0345,HHR0345,Anand Hospital & Navdeep Eye Centre,Haryana,Panipat,"No.105,Adarsh Nagar Near Head Post Office,",132103,HR
+0346,HHR0346,Anand Medical Centre,Haryana,Gurgaon,"# 171, Sector 56, Near Kendriya Vihar",122002,HR
+0347,HHR0347,Aneja Hospital & Nursing Home,Haryana,Ambala,"# 48, Mahesh Nagar Opp Water Tank",133001,HR
+0348,HHR0348,Anuj Hospital,Haryana,Faridabad,"#2159 & 2161, Sector-16,Faridabad-121002.",121002,HR
+0349,HHR0349,Anuradha Hospital & Trauma Centre,Haryana,Faridabad,"D-635 60 Fit Road,Ballabhgarh",121004,HR
+0350,HHR0350,Apex Hospital & Trauma Centre,Haryana,Rewari,"Plot No 5, Sector 6, Dharuhera, Rewari, Haryana",123106,HR
+0351,HHR0351,Arihant Hospital,Haryana,Gurgaon,"Hno-122,Block-G,Oriental Villa,Sector-57",122002,HR
+0352,HHR0352,Artemis Medicare Services Ltd,Haryana,Gurgaon,"Sector-51,",122001,HR
+0353,HHR0353,Arunodaya Deseret Eye Hospital,Haryana,Gurgaon,"# Nh 4, Sector-55, Gurgaon, Haryana",122003,HR
+0354,HHR0354,Ashwani Hospital,Haryana,Faridabad,"Sector 9, Huda,Market,Opp Comunity Centre",121001,HR
+0355,HHR0355,Ashwani Hospital,Haryana,Faridabad,8-D1/Sector-11,121006,HR
+0356,HHR0356,Asian Institute Of Medical Sciences (A Unit Of Blue Sapphire Health Care Pvt Ltd),Haryana,Faridabad,Badkal Flyover Road Opp C.P Office,121001,HR
+0357,HHR0357,Atam Prakash Yadav Hospital,Haryana,Rewari,"Near Nai Anaj Mandi,Bharawas Road",123401,HR
+0358,HHR0358,Ayushman Hospital & Trauma Centre,Haryana,Gurgaon,37K.M. Hero Honda Chowk.,122001,HR
+0359,HHR0359,B.R. Memorial Hospital,Haryana,Ballabgarh,"Fca-103, Mukesh Colony, Ballabgarh, Faridabad-121004",121004,HR
+0360,HHR0360,Balaji Hospital,Haryana,Jind,"Rohtak Road,",126102,HR
+0361,HHR0361,Ballabgarh Nursing Home,Haryana,Faridabad,"64,65-Mukesh Colony Ballabgarn",121004,HR
+0362,HHR0362,Bareja Hospital,Haryana,Faridabad,"Main Road, Fatehpur Billoch,Ballabgarh",121004,HR
+0363,HHR0363,Bhatia Orthopaedic & Maternity Nursing Home,Haryana,Faridabad,"# 390-Sector 7B, Faridabaddelhi",121006,HR
+0364,HHR0364,Bhola Hospital,Haryana,Kurukshetra,"Railway Road, Kurukshetra",136118,HR
+0365,HHR0365,Brahm Shakti Sanjivani Hospital,Haryana,Jhajjar,Opp:Telephe Exchangedist Jharjjar,124507,HR
+0366,HHR0366,Brrighton Kavita Hospital,Haryana,Faridabad,"5,Sector-29,Opp Huda Market, Faridabad , Haryana",121008,HR
+0367,HHR0367,C.K.Memorial Kapoor,Haryana,Faridabad,"3B/8A,Nit,Nh-3,Dav College Road",121001,HR
+0368,HHR0368,Centre For Sight (Gurgaon),Haryana,Gurgaon,"Sco Complex-317, Sec-29, Gurgaon",122002,HR
+0369,HHR0369,Centre For Sight (Hisar),Haryana,Hissar,"Centre For Sight At Gayatri Eye Care Institute,1Model Town, Jindal Chowk, Hissarhisar",125001,HR
+0370,HHR0370,Centre For Sight-Faridabad,Haryana,Faridabad,"At-Sunflag Hospital, Sector 16-A, Faridabad, Haryana",121001,HR
+0371,HHR0371,Chakravarty Nursing Home,Haryana,Panchkula,"# 207, Sector-10, Panchkula,Haryana-134113",134113,HR
+0372,HHR0372,Chandna Medical Centre,Haryana,Faridabad,"85 & 52, Sector Iba, Near New Subzi Mandi.",121002,HR
+0373,HHR0373,Chandravati Child & Maternity Hospital,Haryana,Faridabad,"House # 1177, Sector-19, Opp Sai Baba Mandir",121002,HR
+0374,HHR0374,Channan Devi Memorial Hospital,Haryana,Rohtak,"Plot No 952, Ward No 23, Lal Chand Colony Chwok, Near Durga Mandir Rohtak-124001, Haryana",124507,HR
+0375,HHR0375,Chaudhry Medical & Maternity Hospital,Haryana,Karnal,"# 1543-44, Sector-13, Urban Estate Opp Pani Ki Tanki, Karnal-132001",132001,HR
+0376,HHR0376,Chhabra Hospital Panipat,Haryana,Panipat,"A-1,Narain Singh Park,Assandh Road",132103,HR
+0377,HHR0377,Childerns Hospital,Haryana,Panchkula,"Swastik Vihar Pharse - 1 Mdc, Sector - 5 Panchkula-134109",134109,HR
+0378,HHR0378,Chirag Hospital,Haryana,Gurgaon,"Main Bajghera Road,3636/31,Rajindra Park,",122001,HR
+0379,HHR0379,Chiranjiv Hospital & Maternity Home,Haryana,Gurgaon,"Wng,Haily Mandi",122504,HR
+0380,HHR0380,City Care Hospital,Haryana,Rewari,"Sco No 24 Huda Shopping Complex, Sector 4 Rewari Haryana",123401,HR
+0381,HHR0381,City Hospital,Haryana,Rohtak,"1533/21, Chunnipura, Saini School Road, Rohtak, Haryana, Opp. Saini Girls High School.",124001,HR
+0382,HHR0382,City Hospital & Maternity Home,Haryana,Faridabad,"Sector-16, Faridabad,Haryana-121002",121002,HR
+0383,HHR0383,Columbia Asia Hospital Palamvihar,Haryana,Gurgaon,"Block F, Near Gol Chakkar, Sector 23 , Palam Vihar, Gurgaon-122017",122017,HR
+0384,HHR0384,Cygnus Maharaja Arrarsain Hospital,Haryana,Ranipat,"Opp Devi Mandir, Panipat ,Haryana",132103,HR
+0385,HHR0385,D.N. Hospital,Haryana,Panipat,"Khanna Road, Krishanpura, Panipat, Haryana",132103,HR
+0386,HHR0386,Dahiya Hospital,Haryana,Sonepat,"Near Iti Chowk, Old Dc Road, Sonepat, Haryana",131001,HR
+0387,HHR0387,Deep Medical Center,Haryana,Faridabad,"Site No 1, Sector - 16A Mkt Road,Faridabad",121002,HR
+0388,HHR0388,Delhi Hospital & Maternity Home,Haryana,Jind,"# 1151, Urban Estate, Jind,Haryana-126102",126102,HR
+0389,HHR0389,Delhi Hospital & Nursing Home,Haryana,Jhajjar,"Rohtak Road,Bahadur Garh.",124507,HR
+0390,HHR0390,Dhawan Hospital,Haryana,Panchkula,"Plot-1, Sector-7, Panchkula, Haryana",134109,HR
+0391,HHR0391,Dm Eye Care Delhi Pvt Ltd (Aster),Haryana,Faridabad,5E/08 Railway Road Near Neelam Chowk,121001,HR
+0392,HHR0392,Dr. M.L.Gupta Memorial Centre,Haryana,Faridabad,"B.P. 5E/4, Railway Road, Nit,Nit - Faridabad,",121001,HR
+0393,HHP0393,Beas Hospital,Himachal Pradesh,Kullu,"The Mall,Dhalpurdhacpur",175101,HP
+0394,HHP0394,D'Souza Nursing Home,Himachal Pradesh,Nahan,"Opp. Min Gate Ranital Gardens,Nahannahan",173001,HP
+0395,HJK0395,Acharya Shri Chander College Of Medical Sciences & Hospital,Jammu & Kashmir,Jammu,"P.B # 5, Hpo Gandhi Nagar,Jammu-180017.",180017,JK
+0396,HJK0396,Ahmed Hospitals,Jammu & Kashmir,Srinagar,"Gulshan Nagar,Byepass,Nowgam",190008,JK
+0397,HJK0397,Centre For Sight (Jammu),Jammu & Kashmir,Jammu,"228, Bc Road, Rehari Chungi, Jammu.",180001,JK
+0398,HJH0398,Alam Hospital & Research Centre,Jharkhand,Ranchi,"Booty Road, Bariatu.",834009,JH
+0399,HJH0399,Asarfi Hospital Pvt Ltd,Jharkhand,Dhanbad,"At Baramuri Po,Bishanpur,Dhanbad",828130,JH
+0400,HKA0400,A.J. Hospital & Research Centre,Karnataka,Mangalore,"Kuntikan, Mangalore, Dakshina Kannada-575004, Opp. Ksrtc Depot.Kuntikana",575004,KA
+0401,HKA0401,A.M. Hospital,Karnataka,Bangalore,"# 20/1, 2Nd Cross, Widia Layout, Vijayanagar, Bangalore",560040,KA
+0402,HKA0402,Aadhar Hospital,Karnataka,Belgaum,"Court Road,Chavatgalli",590002,KA
+0403,HKA0403,Aadithya Adhikari Hospital,Karnataka,Mysore,"#417, Contour Road,3Rd Stage Gokulaum, Mysore-570002",570002,KA
+0404,HKA0404,Abhaya Eye Hospital,Karnataka,Bangalore,"#77,Bsk 3Rd Stage, 100Ft Ring Road,5Th Block.",560085,KA
+0405,HKA0405,Abhaya Hospital,Karnataka,Belthangady,"1-78D, Jainpeta, Belthangaby, Dakshina Kannada, Karnataka",574214,KA
+0406,HKA0406,Abhaya Hospital (Neuropsychiatry & Critical Care Hospital Pvt Ltd),Karnataka,Bangalore,"17, Dr.M.H.Mari Gowda Road,Wilson Garden,Bangalore",560027,KA
+0407,HKA0407,Abhilash Hospital & Sara Rehabilitation Centre,Karnataka,Bangalore,"#271, 1Ooft Ring Road, 5Th Block,3Rd Phase, 3Rd Stage,Banashankri.",560085,KA
+0408,HKA0408,Abhishek Nethradhama,Karnataka,Bangalore,"Mosque Complex, Opp Rajkamar Talkies, Fort Road,",561203,KA
+0409,HKA0409,Acharya Tulsi Jain Hospital,Karnataka,Bangalore,"Mom(M)W6-P-6,#22/2-1,6Th Cross,K.N Extension",560022,KA
+0410,HKA0410,Achyut Pandit Hospital,Karnataka,Karwar,"Kumbeswar Temple Road,Kumta",581343,KA
+0411,HKA0411,Acura Health Care Pvt Ltd,Karnataka,Bangalore,"#435,18Th Main,Koramangala 6Th Block(Near Ndoor Stadium)",560095,KA
+0412,HKA0412,Adarsh Nursing Home,Karnataka,Bellary,"Gopalswamy Road,Gandhinagar",583103,KA
+0413,HKA0413,Adarsha Hospital,Karnataka,Kundapur,"# 274/Vi, N.H. # 17, Kundapura, Udapi-576201Udupi- 576201",576201,KA
+0414,HKA0414,Adarsha Hospital Udupi,Karnataka,Udupi,"Near K.S.R.T.C Bus Stand, Udupi",576101,KA
+0415,HKA0415,Adarsha Nursing Home,Karnataka,Tumkur,Sharadadevi Nagaropp Mg Stadium,572103,KA
+0416,HKA0416,Adichunchanagiri Hospital & Research,Karnataka,Mandya,"Balagangadharanatha Nagara, Nagamangala Taluk, Mandya Dist, Mandya-571448Nagamangala Taluk, Mandya Dist",571448,KA
+0417,HKA0417,Adithi Maternity And General Nursing Home,Karnataka,Bangalore,"#78,Omkarnagar, B.G. Road.",560076,KA
+0418,HKA0418,Adithya Nursing Home,Karnataka,Ramanagaram,57 Opp Junior College Ramanagaram,571511,KA
+0419,HKA0419,Aditi Hosptial,Karnataka,Bangalore,"Gandhi Square Newpet,Anekal",562106,KA
+0420,HKA0420,Aditya Netralaya,Karnataka,Bangalore,"#244, 7Th Cross 6 Block 3 Puase 3Block Banashankari, Bangalore-560085",560085,KA
+0421,HKA0421,Aditya Orthopaedic & Trauma Centre,Karnataka,Tumkur,"Sri Shivakumar Swamy Circle, Bh Raod Tumkur-2",572102,KA
+0422,HKA0422,Aeinullah Eye Hospital,Karnataka,Bangalore,"#90, Austin Town Layout, Near B.D.A Shopping Complex.",560047,KA
+0423,HKA0423,Agadi Hospital & Research Centre,Karnataka,Bangalore,"35, H Siddhaiah Road, Wilson Garden, Bangalore-560027Wilson Garden",560017,KA
+0424,HKA0424,Ajay Medical Centre,Karnataka,Chellakere,Near Bus Stand Chellakere,577522,KA
+0425,HKA0425,Ajit Surgical & Maternity Home,Karnataka,Belgaum,"Chikkodi Road,Raibag",591317,KA
+0426,HKA0426,Akshare Eye Foundation,Karnataka,Tumkur,"#6052 Railway Station Road,Opp Town Hall",572102,KA
+0427,HKA0427,Akshay Hospital,Karnataka,Tumkur,"2Nd Cross, Ashoknagar",572102,KA
+0428,HKA0428,Akshay Mallya Hospital,Karnataka,Bangalore,"Varthur Main Road,Marathalli",560037,KA
+0429,HKA0429,Akshaya Nethralaya,Karnataka,Bangalore,"#227/A,Vidyagiri Layout N Exit O Axis Bank Nagarbhavi Circle,Bangalore",560072,KA
+0430,HKA0430,Akshaya Nursing Home,Karnataka,Kolar,"3Dr Cross Gowripet, Kolar",563101,KA
+0431,HKA0431,Amma Hospital,Karnataka,Anekal,"32/515,Near Sri Rama Temple",562106,KA
+0432,HKA0432,Amrik Nethralaya,Karnataka,Bangalore,"#346, Hrbr 1St Kalyan Nagar,4Th Cross, 7Th B Main.",560043,KA
+0433,HKA0433,Amruth Hospital,Karnataka,Davangere,"#1643, Opp:K.E.B.Office, Vidyarthi Bhavan, Davangere",577003,KA
+0434,HKA0434,Amrutha Hospital,Karnataka,Bangalore,# 1 Near Water Tank Jakkur Main Road Amruthahalli Bangalore 560092,560092,KA
+0435,HKA0435,Ananya Hospital Pvt Ltd,Karnataka,Bangalore,"389/44, 19Th Main,Rajajinagarrajajinagar",560010,KA
+0436,HKA0436,Annadaneshwara Hospital,Karnataka,Raichur,"Hahe Road, Sindhanur",584128,KA
+0437,HKA0437,Annapoorna Orthopaedic & Speciality Hospital,Karnataka,Mysore,"#953, Kantaraj Urs Road, Lakshmipuram, Mysore-570004",570004,KA
+0438,HKA0438,Annapurna Hospital,Karnataka,Chickmangalur,"K.M. Road, Chikmagalur",577101,KA
+0439,HKA0439,Annapurna Multi Speciality Hospital,Karnataka,Gangavathi,"Sri Krishnadevaraya Marga-Gangavathi, Koppal Dist, Karnataka-583227, Near Bus Stand",583227,KA
+0440,HKA0440,Anugraha Hospital,Karnataka,Bangalore,"No 18/2,1St Cross,M.C. Layout,Vijayanagar",560079,KA
+0441,HKA0441,Anugraha Hospital,Karnataka,Davangere,"# 2698,2Nd Main,2Nd Cross,M.C. B Block",577004,KA
+0442,HKA0442,Anugraha Nursing Home,Karnataka,Bangalore,"No 2,Vinayaka Circle, Palace Guttahalli Main Road, Bangalore-560003Circle Palace Guttahalli Main",560003,KA
+0443,HKA0443,Anugrahaa Hospital,Karnataka,Bangalore,"55/3A, Govindana Setty Palya Road Konappana Agrahara Electronic City Infosysbangalore South Taluk",560100,KA
+0444,HKA0444,Anuradha Nursing Home,Karnataka,Shimoga,"1St Cross, Raghavendra Extension, Thirthahalli.",577432,KA
+0445,HKA0445,Apex Hospital,Karnataka,Bidar,"Opp Ganesh Maidan, Bidar, Karnataka",585407,KA
+0446,HKA0446,Apollo B.G.S Hospitals,Karnataka,Mysore,Adichunchanagiri Roadkuvempunagar Road,570023,KA
+0447,HKA0447,Apollo Hospitals,Karnataka,Bangalore,"No.154/11,Opp To Iimb,Bannerghatta Road,",560076,KA
+0448,HKA0448,Apollo Koramangala Cradle Limited,Karnataka,Bangalore,"#25. 46Th Cross, 5Th Block, Jayanagar, Bangalore, Karnataka",560011,KA
+0449,HKA0449,Apollo Koramangla Cradle Limited,Karnataka,Bangalore,"No.58, 5Th Cross, 18Th Main Koramangla, 6Th Block, Bangalore, Karnataka.",560095,KA
+0450,HKA0450,Apoorva Hospital,Karnataka,Davangere,"3Rd Main Road, 9Th Cross, J.P. Extention.",577002,KA
+0451,HKA0451,Apoorva Multispeiality Hospital,Karnataka,Belgaum,"Shreem 4889/90, Off Dr S P M Road, Near Prakash Theatre, Shastrinagar, Belgum- 590002",590002,KA
+0452,HKA0452,Apple Hospital,Karnataka,Bangalore,#32 Maruthi Complex M S Nagar Bus Stop Banaswadi Main Road Bangalore,560033,KA
+0453,HKA0453,Aravinda Hospital,Karnataka,Mysore,"#644,4Th Main, Aravinda Nagar,",570023,KA
+0454,HKA0454,Archana Hospital,Karnataka,Mandya,"K.R. Road, Ashok Nagar, Mandya-571401Mandya",571401,KA
+0455,HKA0455,Aruna Hospital,Karnataka,Tumkur,"Dr.Radhakrishan Road, Tumkur",572102,KA
+0456,HKA0456,Arunodaya Hospitals,Karnataka,Bangalore,"# 18-23,4Th And 5Th Cross Mallasandra Main Road",560057,KA
+0457,HKA0457,Arya Medical Centre,Karnataka,Ankola,Dinkar Desai Road.,581314,KA
+0458,HKA0458,Ashirvad Hospital,Karnataka,Chickmangalur,"Rathnagiri Road,",577101,KA
+0459,HKA0459,Ashok Hospital,Karnataka,Bangalore,"#65,N.H.C.S. Lay-Out, 3Rd Stage, 4Th Block, Basaveshwar Nagar, Kamalanagar Main Road.",560079,KA
+0460,HKA0460,Ashraya Hospital,Karnataka,Bangalore,"#26, Jetiappa Complex,Yelachenahalli, Kanakapura Rd",560078,KA
+0461,HKA0461,Ashraya Hospital,Karnataka,Chickmangalur,P B No 77 Naidu Streetchikmagalur,577101,KA
+0462,HKA0462,Ashraya Hospital,Karnataka,Davangere,"No.1977/1 & 2,Mcc 'A' Block,Shamanur Road,Davanagere",577004,KA
+0463,HKA0463,Ashraya Medinova Pvt Ltd,Karnataka,Bangalore,"Magadi Main Road,Sunkadakatte,Srigandadakaval,",560091,KA
+0464,HKA0464,Ashwini Hospital,Karnataka,Bangalore,"#129, Katruguppa, Bsk 3Rd Stg,",560085,KA
+0465,HKA0465,Ashwini Hospital,Karnataka,Bangalore,"B.B.Road, Yelahanka,Bangalore-560064",560064,KA
+0466,HKA0466,Ashwini Hospital,Karnataka,Dakshinakannada,"Nh-48, Nellyady,Dakshina Kannadadakshina Kannada",574229,KA
+0467,HKA0467,Ashwini Nursing Home,Karnataka,Bangalore,"#9, 1St A Cross. T.C. Palya Main Road, Akshyanagar, Ramamurthy Nagar.",560016,KA
+0468,HKA0468,Ashwini Nursing Home,Karnataka,Bangalore,"#382,Narayanappa Buildingd Ramamurthynagar",560016,KA
+0469,HKA0469,Ashwini Nursing Home,Karnataka,Davangere,"Akka Mahadevi Road,A.V.K.College Road,P.J.Extension,Near Bapuji Corporation Bank,",577002,KA
+0470,HKA0470,Asian Specialty Hospital (A Unit Of Orch Hospital And Healthcare Services Llp),Karnataka,Hsr Layout,"# 11/A, 9Th Main, 13Th Cross, 6Th Sector Hsr Layout, Outer Ring Road, Bangalore-560102Hsr Layout",560102,KA
+0471,HKA0471,Athena Hospital,Karnataka,Mangalore,"Falnir Road, Mangalore-575001, Opp Ymca, Near Platinum Theatre",575001,KA
+0472,HKA0472,Athreya Hospital,Karnataka,Virajpet,"Gonikoppal Road Opp, Kstrc Bus Stands.Kodagu",571218,KA
+0473,HKA0473,Avadhani Nethralaya,Karnataka,Bangalore,"No.33,1St Floor,Patalamma Temple Street,Basavanagudi,",560004,KA
+0474,HKA0474,Avhieta Hospital & Health Care,Karnataka,Bangalore,"280/1 Byrathi Cross, Hennur Bagalur Main Road, Bangalore-560077",560077,KA
+0475,HKA0475,Avinash Shah Memorial Multispeciality Hospital,Karnataka,Gulbarga,"184-20/08/2007,Jayanagar,Sedam Road",585105,KA
+0476,HKA0476,B.A Hospital & Training Centre,Karnataka,Bantwal,"Thumbay,Bantwal",574170,KA
+0477,HKA0477,B.G. Hospital,Karnataka,Bangalore,"Mayamma Thimmappa Complex, Tumkur Road, Anchepalya.",560073,KA
+0478,HKA0478,B.G.S Vivus Heart Centre,Karnataka,Mandya,"Bandhi Gowda Extension,Bangalore Mysore Highway,",571401,KA
+0479,HKA0479,B.J. Lingegowda Hospital,Karnataka,Chanapatna,Bangalore-Mysore Road,571501,KA
+0480,HKA0480,B.Siddaramanna Hospital,Karnataka,Tumkur,"Opp Ib Railway Station Road,Gandhinagar",572102,KA
+0481,HKA0481,Bacc Health Care Private Limited,Karnataka,Bangalore,"No 6/7, Kumara Krupa Road,High Grounds,",560001,KA
+0482,HKA0482,Bahusar Nursing Home,Karnataka,Mysore,"#3587,B.M. Road,Hunsur.",577105,KA
+0483,HKA0483,Balaji Hospital,Karnataka,Bangalore,"40/1, J.J.R. Nagar Main Road,K.H. Ranganath Colony.",560018,KA
+0484,HKA0484,Balaji Hospital,Karnataka,Tumkur,"B.H. Road, Tiptur.Near Aralikatte",572201,KA
+0485,HKA0485,Balaji Nursing Home,Karnataka,Bangalore,"Dommasandra Bus Stop,",562125,KA
+0486,HKA0486,Balaji Nursing Home,Karnataka,Chickmangalur,"T.B. Road,Kadur.",577548,KA
+0487,HKA0487,Balanku Hospital,Karnataka,Raichur,"Near Basavana Bhavi Chowk, Basavanagara, Raichur-584102",584102,KA
+0488,HKA0488,Banashankari Hospital Pvt Ltd,Karnataka,Hubli,"Chitguppipark, Pinto Road,Hubli Dharkiad",580020,KA
+0489,HKA0489,Bangalore Baptist Hospital,Karnataka,Bangalore,"Bellary Road, Hebbal, Bangalore-560024, Opp University Of Agricultural Sciences (Near Hebbal Flyower)",560024,KA
+0490,HKA0490,Bangalore Eye Hospital & Retina Centre,Karnataka,Bangalore,"4C,426 4Th Cross, 2Nd Block,Kalyannagar.",560043,KA
+0491,HKA0491,Bangalore Nethralaya Super Speciality Eye Hospital,Karnataka,Bangalore,"#946,21St Main, Near Bda Complex,Banashankari ,2Nd Stage",560070,KA
+0492,HKA0492,Bapuji Nursing Home,Karnataka,Tumkur,"1St Cross, Someshwar Puram,Tumkur-572102.",572102,KA
+0493,HKA0493,Basappa Memorial Hospital,Karnataka,Mysore,"22-B, Vinobha Road, Mysore-570012",570012,KA
+0494,HKA0494,Basappa Multispeciality Hospital,Karnataka,Chitradurga,"Basapa Hospital Building,Turuvanur Road,",577501,KA
+0495,HKA0495,Basavanagudi E.N.T. Care Centre,Karnataka,Bangalore,"44/1, H.B. Samaja Road, Basavanagudi",560004,KA
+0496,HKA0496,Basavangudi Medical Centre,Karnataka,Bangalore,"84/1, R.V. Road, Basavanagudi,Bangalore-560004.",560004,KA
+0497,HKA0497,Beams Hospitals Privated Limited,Karnataka,Bangalore,"640, 12Th Main, 80 Ft Road, 4Th Block, Koramangala, Bengaluru-560034",560034,KA
+0498,HKA0498,Belaku Eye Hospitals Pvt Ltd,Karnataka,Kengeri Upanagara,"#769, 1St Cross, Ring Road, Kengeri Upanagar, Bangalore-560060Kengeri Upanagara",560060,KA
+0499,HKA0499,Belgaum Cancer Hospital Pvt Ltd,Karnataka,Belgaum,"#9666A-2/D,Ashok Nagar, Belgaum-590010",590010,KA
+0500,HKA0500,Belgaum Children'S Hospital Pvt Ltd,Karnataka,Belgaum,"1St Floor,Samsukha Complex,Khade Bazar",590001,KA
+0501,HKA0501,Belle Vue'S Cambridge Hospital,Karnataka,Bangalore,"18/17, Cambridge Road, Ulsoor, Bangalore-560008",560008,KA
+0502,HKA0502,Benaka Health Centre,Karnataka,Ujjire,"Lhh Road,Near Jyothi Takies,Mangalore-575003",574240,KA
+0503,HKA0503,Bgs Global Hospital,Karnataka,Bangalore,"#67,Uttarahalli Road,Kengeri",560060,KA
+0504,HKA0504,Bhadra Nursing Home,Karnataka,Bhadravathi,Gandhinagar,577301,KA
+0505,HKA0505,Bhagavathi Multi Speciality Hospital,Karnataka,Hsr Layout,"L-168, 6Th Sector, Hsr Layout, Bangalore-560102",560102,KA
+0506,HKA0506,Bhagwan Mahaveer Darshan Eye Hospital,Karnataka,Mysore,"Opp. K.R. Mills, Mysore Bangalore Road, Siddalingapura, Mysore-570003",570003,KA
+0507,HKA0507,Bhagwan Mahaveer Jain Heart Centre( A Unit Of Srinivasa Cardiology Centre Pvt Ltd),Karnataka,Bangalore,"#8,Millers Tank Bund Road Near Cantonment Railway Station",560052,KA
+0508,HKA0508,Bhagwan Mahaveer Jain Hospital,Karnataka,Bangalore,"No.17, Millers Road, Vasanthnagar, Bangalore-560052",560052,KA
+0509,HKA0509,Bhagwan Mahaveer Jain Netralaya,Karnataka,Bangalore,"#3, Railway Platform Road,Sheshadripuram, Policestation Opp. Roadsheshadripuram",560020,KA
+0510,HKA0510,Bhagwat Maternity And Nursing Home,Karnataka,Shimoga,"Court Road,Sagar",577401,KA
+0511,HKA0511,Bhanu Nursing Home,Karnataka,Bangalore,"69/5B, Bommanahalli, Hosur Rd,Bangalore",560068,KA
+0512,HKA0512,Bharath Hospital & Institute Of Oncolgy,Karnataka,Mysore,"# 438, Outer Ring Road, Hebbal.",570017,KA
+0513,HKA0513,Bharath Nursing Home,Karnataka,Bangalore,"# 1402, Near Vegitable Market, J.P Nagr 1St Phase, Bangalore-560078Kanakapura Main Road.",560078,KA
+0514,HKA0514,Bharathi Hospital,Karnataka,Channarayapatna,Dr.Bharathi Ravindranath Bajab Soaw Room,573116,KA
+0515,HKA0515,Bharathi Hospital,Karnataka,Tumkur,"4Th Cross,Barkline Road, K.R. Extension, 4Th Cross, Tumkur-572101",572101,KA
+0516,HKA0516,Bharathy Hospital,Karnataka,Bangalore,"#4,Nagarabhavi Main Road,Prashanth Nagar",560079,KA
+0517,HKA0517,Bhate Hospital And Maternity Home Chikodi,Karnataka,Belgaum,"#1243, Basaveshwar Circle, Chikodi, Belgaum-591201",591201,KA
+0518,HKA0518,Bhavana Nursing Home,Karnataka,Anekal,Mysore Bank Road,562106,KA
+0519,HKA0519,Bibi Ayesha Mili Hospital,Karnataka,Bangalore,"242, Old Mysore-Bangalore Rd,Mysore",570015,KA
+0520,HKA0520,Bilagi Hospital & Research Centre,Karnataka,Hubli,Opp Nehru Stedium Main Gate,580020,KA
+0521,HKA0521,Bilva Hospital,Karnataka,Guttahalli,"No. 21, 22, 2Nd Main Palace Guttahalli, Bangalore-560003, Near Vinayaka Circle",560003,KA
+0522,HKA0522,Brahma Nursing Home,Karnataka,Karwar,"Nadangadda, Karwar.",581304,KA
+0523,HKA0523,Brookefield Hospital (A Unit Of Sanjeevini Healthcare),Karnataka,Kundalahalli,"#521, 522, Vijaylakshmi Square, Itpl Main Road, Kundalahalli, Bangalore-560037Kundalahalli",560037,KA
+0524,HKA0524,C.S.I. Hospital,Karnataka,Chikkaballapur,"C.S.I. Hospital Road,Kolar.",562101,KA
+0525,HKA0525,C.S.I. Lombard Memorial Hospital,Karnataka,Udupi,Mission Hospital Road,576101,KA
+0526,HKA0526,C.S.I. Redfern Memorial Hospital,Karnataka,Hassan,"Race Course Road, P.O Box No.127.",573201,KA
+0527,HKA0527,Canara Health Care Limited,Karnataka,Kumta,"Baggon Road,",581343,KA
+0528,HKA0528,Cauvery Hospital,Karnataka,Mysore,"# 756, New Kantharaje Urs Roadsaraswathipuram Mysore",570009,KA
+0529,HKA0529,Cauvery Hospital,Karnataka,Mysore,"Terission College Road,Bannur Road,Shidharthnagar",570011,KA
+0530,HKA0530,Cauvery Orthopaedic Centre,Karnataka,Bangalore,"#408,20Th Main,W.O.C.Road,1St Block,Rajajinagar",560010,KA
+0531,HKA0531,Cdr Medical Centre,Karnataka,Bangalore,"Jayanagar, B'Lore",560011,KA
+0532,HKA0532,Chaitanya Hospital,Karnataka,Bangalore,"No. 80, 3Rd Cross,P & T Colony,R.T.Nagarr.T. Nagar,Bangalore-560036.",560032,KA
+0533,HKA0533,Chaitanya Medical Centre,Karnataka,Bangalore,"# 771/24, Khb , Asector, Yelahanka, Bangalore, Karnataka",560064,KA
+0534,HKA0534,Chaitra Hospital,Karnataka,Mysore,"# 16/84, 15Th Cross, Basaweshwara Blockk.R. Nagar, Basavaswara Block,",571602,KA
+0535,HKA0535,Chandana Hospital,Karnataka,Bangalore,"#54, 4Th Cross, 4Th Main, Ngefnrupathunganagar, Nagarbhavi,",560072,KA
+0536,HKA0536,Chandini Hospital,Karnataka,Shimoga,"Chamarajpet,Sagarshivamogga",577401,KA
+0537,HKA0537,Chandrakala Hospital And Institute Of Medical Research,Karnataka,Mysore,"Plot A,Kalidasa Road,Jayalakshmipuram",570012,KA
+0538,HKA0538,Chanre Rheumatology & Immunology Centre & Research (A Unit Of Chanre Darsha Health Care Pvt Ltd),Karnataka,Bangalore,"#149,15Th Main,3D Stage,4Th Block,Nhc Layout,Basaveshwar Nagar,",560079,KA
+0539,HKA0539,Charaka Hospital,Karnataka,Tumkur,"No-5, Opp-Neps, 2Nd Main, Shankarapuram, B.H Road, Tumkur-572102",572102,KA
+0540,HKA0540,Chaya Hospital ( A Unit Of Chaya Healthcare Pvt Ltd),Karnataka,Bangalore,"# 6C-335, 4Th Main, 6Th Cross, Ombr Layout, Bhuvanagiri.",560043,KA
+0541,HKA0541,Chetana Hospital,Karnataka,Kadur,M.T. Road Puttur,577548,KA
+0542,HKA0542,Chethana Hospital,Karnataka,Puttur,Shree Mahamaya Temple Road Dakshina Kannada,574201,KA
+0543,HKA0543,Chincholi Eye Hospital,Karnataka,Gulbarga,Old Jewargi Cross Road,585102,KA
+0544,HKA0544,Chinmaya Mission Hospital,Karnataka,Bangalore,"1/1,C M H Road,Indiranagar",560038,KA
+0545,HKA0545,Chinmaya Narayana Hrudayalaya,Karnataka,Bangalore,Cmh Road Indiranagar 2Nd Stage Chinmaya Missin Hospital,560038,KA
+0546,HKA0546,Chinmayi Hospital,Karnataka,Bangalore,"#34,Brindavan Layout,Subramanyapura Main Road",560061,KA
+0547,HKA0547,Chinmayi Hospital,Karnataka,Kundapur,"Church Road, Kundapura, Udupi-576201",576201,KA
+0548,HKA0548,Chiranjeevi Hospital & Maternity Home,Karnataka,Bangalore,"16Th 2Nd Main, Sri Manjunatha Temple St, Mysore Bank Colony,",560050,KA
+0549,HKA0549,Chiranjeevi Maternity Hospital,Karnataka,Bijapur,Divatageri Galli Near Rayar Math,586101,KA
+0550,HKA0550,Chirashree Nursing Home,Karnataka,Mangalore,"1-33/2 & 1-33/3, Iddya Suratkal",575014,KA
+0551,HKA0551,Chitra Hospital,Karnataka,Mysore,"25/1A, Irwin Rdmysore",570001,KA
+0552,HKA0552,Chittaragi Hospital,Karnataka,Bagalkot,Bramanand Asram Road Bus Stand Road Rabkavi,587314,KA
+0553,HKA0553,Chord Road Hospital Pvt Ltd,Karnataka,Bangalore,100 Bima Jyoti Lic Colony2Nd Stage West Of Chord Road,560079,KA
+0554,HKA0554,Choudhari Hospital,Karnataka,Bijapur,"Shikharakhana Road, Near Lic Office",586104,KA
+0555,HKA0555,Chougala Hospital,Karnataka,Belgaum,"Shanti Nagar,Hallyal Road,Athani,",591304,KA
+0556,HKA0556,Citi Hospital,Karnataka,Bangalore,"25/91,West Of Chord Road, 20Th Main, 2Nd Block, Rajajinagar, Bangalore",560010,KA
+0557,HKA0557,Citi Hospital,Karnataka,Bellary,"No.52/A, Dam Road,Hospet, Bellary-583203",583203,KA
+0558,HKA0558,City Central Hospital Pvt Ltd,Karnataka,Davangere,"# 17, Akkamahadevi Road,Near Chethana Hotel",577002,KA
+0559,HKA0559,City Clinic,Karnataka,Hubli,"Madhavpur, Hubli",580020,KA
+0560,HKA0560,City Hospital,Karnataka,Shimoga,"R.M.R. Road, Durgigudi,Shimoga-577201.",577201,KA
+0561,HKA0561,City Hospital & Diagnostic Centre,Karnataka,Udupi,"Vidyaranya Mag,Behind Alankar Theatreudupi",576101,KA
+0562,HKA0562,City Hospital Research & Diagnostic Centre,Karnataka,Mangalore,"Pound Garden,Kadri,Dakshina Kannada,",575003,KA
+0563,HKA0563,City Medical Centre,Karnataka,Davangere,"Badila Guthu Complex1St Main, M.C.C.B Block",577004,KA
+0564,HKA0564,Cloudnine (A Venture Of Kids Clinic Pvt Ltd,Karnataka,Bangalore,"#1533,9Th Main, Jayanagar 3Rd Block",560011,KA
+0565,HKA0565,Cloudnine (Kids Clinic India Pvt. Ltd.),Karnataka,Bangalore,"115, Kodi Halli, Old Airport Road, Bangalore-560017",560017,KA
+0566,HKA0566,Colaco Hospital,Karnataka,Mangalore,"Lower Bendore Main Road,Dakshina Kannada,",575002,KA
+0567,HKA0567,Columbia Asia Hospital,Karnataka,Mysore,"85-86,Bangalore Mysore Ring Road, Junction, Bannimantap A Layout, Siddiqui Nagar",570015,KA
+0568,HKA0568,Columbia Asia Hospital Pvt Ltd,Karnataka,Bangalore,"Kirloskar Business Park, Bellary Road, Hebbal, Bangalore-560024",560024,KA
+0569,HKA0569,Columbia Asia Referral Hospital,Karnataka,Bangalore,"#26/1, 80Feet Dr.Rajkumar Road,Malleshwaran West, Bangalore-560055",560055,KA
+0570,HKA0570,Cosmo Multispeciality Hospital,Karnataka,Bangalore,"#64,1St Cross,Kalidasa Circle,Srinagar",560050,KA
+0571,HKA0571,Csi-Church Of South India Hospital,Karnataka,Bangalore,"Post Beg No #4, Hazarat Kambal Posh Roadposh Road,",560051,KA
+0572,HKA0572,D.G. Hospital (Devambika Nursing Home),Karnataka,Bangalore,"274 / 275, Mkp Road, Padmanabhanagar, Puttalingaiah Road, Bangalore-560070",560070,KA
+0573,HKA0573,Daddenavar Hospital & Research Centre,Karnataka,Bagalkot,Ward # 10 & Rural Police Stationnear Rural Police Station,587101,KA
+0574,HKA0574,Dakshata Hospital Pvt Ltd,Karnataka,Belgaum,"3375,Subalakshmi Building,College Road",590001,KA
+0575,HKA0575,Dange Hospital,Karnataka,Hassan,"M.G. Road, Near Adichundhangiri School, Hassan-573201",573201,KA
+0576,HKA0576,Davangere Heart Hospital (Unit Of Suraj Hospital Pvt Ltd),Karnataka,Davangere,"3639,M.C.Colony 9Th Main",577004,KA
+0577,HKA0577,Deccan Hospital,Karnataka,Kolar,"Opp Ksrtc Depot, Ashwini Extension, Chintamani, Chikballapura-563125",563125,KA
+0578,HKA0578,Deccan Medical Centre Pvt Ltd,Karnataka,Belgaum,"Goods Shed Road, Near Railway Station",590001,KA
+0579,HKA0579,Deeksha Hospital,Karnataka,Bangalore,#387/347 Bb Road Nehrunagar Yelahanka Old Town Next To Post Office,560064,KA
+0580,HKA0580,Deepa Hospital,Karnataka,Bangalore,"# 27,Old Madra Road K.R. Puram Ext Bangalore",560036,KA
+0581,HKA0581,Deepa Nursing Home,Karnataka,Chickmangalur,"Chikmanglur, Karnataka",577101,KA
+0582,HKA0582,Deepak Hospital,Karnataka,Bangalore,"259, 33Rd Cross, Kanakapura Main Road, 7Th Block, Jayanagar-560082",560082,KA
+0583,HKA0583,Deepashri Hospital (A Unit Of Cadms Trust),Karnataka,"Bangalore,",#86. 2Nd Main 16Th Cross Malagala Nagarabhavi 2Nd Stage Bangalore560072,560072,KA
+0584,HKA0584,Devi Super Speciality Eye Hospital Private Limited,Karnataka,Bangalore,"#434, 18Th Main, 80 Feet Road, 6Th Block Bus Depot. Block,Koramangala. Bangalore-560095",560095,KA
+0585,HKA0585,Dhanush Hospital,Karnataka,Bagalkot,Mahaveer Road Bagalkot,587313,KA
+0586,HKA0586,Dhanush Hospital,Karnataka,Kolar,"Behind Municipal Park,N.R.Extension,Chintamani,",563125,KA
+0587,HKA0587,Dhanush Hospital,Karnataka,Nagarbhavi,"#63, Byraveshwara Nagar 2Nd Main, Nagarbhavi Main Raod, Bangalore-560072",560072,KA
+0588,HKA0588,Diagram Health Care,Karnataka,Bangalore,"4, R.M.V.Extensionmekhri Circle",560080,KA
+0589,HKA0589,Divakars Global Hospitals,Karnataka,Bangalore,"No.220, 9Th Cross, J.P.Nagar 2Nd Phase, Bangalore-560078",560078,KA
+0590,HKA0590,Divine Speciality Hospital,Karnataka,Bangalore,"#110,6H Main,I.T.I Layout,Benson Town Post",560046,KA
+0591,HKA0591,Divyadrishti Eye Hosptial,Karnataka,Bangalore,"996/22, Service Road,Rpc Layout, Bangalore",560040,KA
+0592,HKA0592,Dr Agarwal'S Healthcare Ltd.,Karnataka,Bangalore,"Kade, Complex No 869, 2Nd Stage, Wcr 3Rd Stage, Basaveshwaranagar",560079,KA
+0593,HKA0593,Dr Handral Nursing Home,Karnataka,Ranbennur,"No.14,Rajendra Nagar,",581110,KA
+0594,HKA0594,Dr Lodaya Hospital,Karnataka,Ranbennur,"Ashwini Nagar,Just Behind Bus Stand,",581110,KA
+0595,HKA0595,Dr Mahadevappa Eye Laser Hospital,Karnataka,Tumkur,"15Th Cross, S.S. Puram, (Horticulture Office Road) Tumkur-572102",572102,KA
+0596,HKA0596,Dr Ramesh Hospital For Piles & Proctology,Karnataka,Mysore,410 Contour Road Gokulam Mysore -570002,570002,KA
+0597,HKA0597,Dr. Bidari'S Ashwini Hospital,Karnataka,Bijapur,B.L.D.E. Road,586103,KA
+0598,HKA0598,Dr. Gokavi Maternity & General Hospital,Karnataka,Hubli,Karwar Road Hubli,580029,KA
+0599,HKA0599,Dr. Malathi Manipal Hospital,Karnataka,Bangalore,"45/1, 45Th Cross, 9Th Block, Jayanagar, Bangalore-560069",560069,KA
+0600,HKA0600,Dr. Manohara Sai Gowda Memorial Hospital,Karnataka,Mulbagal,"Nh-4, Opposite Inspection Bungalow, Mulbagal",563131,KA
+0601,HKL0601,A.J. Hospital,Kerala,Trivandrum,"Kazhakuttam, P.O., Thiruvananthapuram, Trivandrum-695582",695582,KL
+0602,HKL0602,A.M. Hospital,Kerala,Cochin,"N.H. 47, Karunagapally",690518,KL
+0603,HKL0603,A.P.Varkey Mission Hospital,Kerala,Ernakulam,Arakunnam P.O. Thottapady.,682313,KL
+0604,HKL0604,Aditya Eye Hospital,Kerala,Ernakulam,"Judge Mukku, Thrikkakara, Kochi-682021",682021,KL
+0605,HKL0605,Ahalia Foundation Eye Hospital,Kerala,Palakkad,"1/1053, Elappully.",678557,KL
+0606,HKL0606,Aisha Memorial Hospital (Tsunami Project Only),Kerala,Manacaud,"Paruthikuzhy, Manacaud",695009,KL
+0607,HKL0607,Al Salama Eye Hospital,Kerala,Kozhicode,Arayidathu Palam Jn By Pass Road Kozhikode,673004,KL
+0608,HKL0608,Al Salama Eye Hospital Ltd,Kerala,Malapuram,"55/5,Hospital Road,Perinthalmanna,Malapuram",679322,KL
+0609,HKL0609,Al Shifa Hospital Pvt Ltd,Kerala,Malapuram,"Pb No. 26, Ooty Road Perintalmannaooty Road",679322,KL
+0610,HKL0610,Al-Arif Hospital,Kerala,Trivandrum,"Tc-48/659,Ambalathara,Poonthura Post,Near Milma Diary",695026,KL
+0611,HKL0611,Alexander Eye Centre,Kerala,Cochin,"34/629A,A1,B,",682024,KL
+0612,HKL0612,Alled Hospital Limited (Tsunami Project Only),Kerala,Kunnamkulam,"2/333,Guruvayoor Road,",680521,KL
+0613,HKL0613,Almas Hospital,Kerala,Malapuram,"Changuvetty,Kottakal,Malappuram,",676503,KL
+0614,HKL0614,Alpha Ent Head And Neck Research Institute And Hospital,Kerala,Ernakulam,"Opp To Bsnl Tower,Deshabhimani Road,Kaloor,Ernakulam",682017,KL
+0615,HKL0615,Alphonsa Hospital,Kerala,Ernakulam,"Chruch,Karukutty",683576,KL
+0616,HKL0616,Amala Cancer Hospital & Research Centre,Kerala,Trichur,"Amalanagar, Trissur,Kerala-680555.",680555,KL
+0617,HKL0617,Amardeep Eye Care,Kerala,Thiruvananthapuram,"Tc 5/608, Gnp.2, Nalini Vilas, Thiruvananthapuram, Kerala",695005,KL
+0618,HKL0618,Anadiyil Hospital,Kerala,Trivandrum,"Thekkummood Junction, Trivandrm.",695037,KL
+0619,HKL0619,Ananthapuri Hospital & Research Institute,Kerala,Trivandrum,"Tc 31/1424, Nh By Pass Road,Chacka ,Thirvvananthapuram,Kerala",695024,KL
+0620,HKL0620,Anwar Memorial Hospital,Kerala,Aluva,"Santhosh Lane, Aluva,Ernakulam Dist.",683101,KL
+0621,HKL0621,Arogyalayam Hospital,Kerala,Aluva,"Arogayalayam Junction, By-Pass, Aluva, Ernakulam, Kerala-683101",683101,KL
+0622,HKL0622,Arumana Hospital,Kerala,Trivandrum,Perunthanni,695008,KL
+0623,HKL0623,Ashoka Hospital,Kerala,Kannur,South Bazar.,670002,KL
+0624,HKL0624,Aswini Hospital,Kerala,Trichur,"Karunakaran Nambiar Road, Thrissur-680020",680020,KL
+0625,HKL0625,Attingal Speciality Hospital,Kerala,Trivandrum,Parvathipuram Gramom.,695101,KL
+0626,HKL0626,B.N.V Hospital Pvt Ltd,Kerala,Trivandrum,"Thiruvallam Post,Trivandrum",695027,KL
+0627,HKL0627,Baby Memorial Hospital Ltd,Kerala,Calicut,"Indira Gandhi Road, E.K. Nayanar Flyover",673004,KL
+0628,HKL0628,Balaji Hospital,Kerala,Palakkad,"11/787, Brindavan Street,Near Town Hallpalakkad",678001,KL
+0629,HKL0629,Bharath Hospital,Kerala,Kottayam,"Azad Lane ,Thirunakkara",686001,KL
+0630,HKL0630,Bharath Rural Hospital & Training Centre,Kerala,Ernakulam,"Kuriapilly,Moothakunnam",683516,KL
+0631,HKL0631,Bishop Alapatt Mission Hospital,Kerala,Cochin,Karanchira Kattoor P.O,680702,KL
+0632,HKL0632,Bishop Benziger Hospital,Kerala,Kollam,Beach Road Kollam-691001,691001,KL
+0633,HKL0633,C.A.Hospital,Kerala,Aluva,"#339/340/341/15,Deson,Kumnnumpuram,Aluva",683103,KL
+0634,HKL0634,Carewell Hospital & Research Centre,Kerala,Kasaragod,"Nullipady, Kasargod,Kerala - 671 121",671121,KL
+0635,HKL0635,Carmel Hospital,Kerala,Ernakulam,"Asokapuram,P.O",683101,KL
+0636,HKL0636,Ccmk Hospital,Kerala,Trichur,"Ccmk Village,Vellikulam Road,Chalakudy",680307,KL
+0637,HKL0637,Century Hospital,Kerala,Alleppey,Mulakuzha P.O,689505,KL
+0638,HKL0638,Chaitanya Ent Hospital,Kerala,Cochin,"38/685A, Sahodaran Ayyappan Road, Cochin-682016",682016,KL
+0639,HKL0639,Chaitanya Eye Hospital & Research Instt,Kerala,Cochin,"Trichandur, Ernakulam,Ernakulam",682012,KL
+0640,HKL0640,Chaithanya Eye Hospital & Research Institute,Kerala,Cochin,"Ravipuram Road, Ravipuram, Kochi-682016, Eranakulam",682016,KL
+0641,HKL0641,Chaithanya Eye Hospital & Research Institute,Kerala,Trivandrum,"M.G. Road, Kesavadasapuram, Trivandrum, Kerala-695004",695004,KL
+0642,HKL0642,Chakrabarti Eye Care Centre,Kerala,Trivandrum,"No.102, Kochulloor, Near Lerala Water Authority Office, Trivandram-695011",695011,KL
+0643,HKL0643,Chandramathy Amma Memorial Hospital,Kerala,Trichur,"Olarikkara Pullazhi Post, Thirssur, Kerala",680012,KL
+0644,HKL0644,Chazhikattu Hospitals Pvt Ltd,Kerala,Idukki,"Ix/139 A,River View Road,Thodupuzha, Idukki",685584,KL
+0645,HKL0645,Chelsa Medical Care (P) Ltd.,Kerala,Trivandrum,"Kungallummoodu,Karamanatrivadrum",695002,KL
+0646,HKL0646,Christian Mission Hospital,Kerala,Pathanamthitta,Pandalam,689501,KL
+0647,HKL0647,Christos Hospital,Kerala,Alleppey,"Xxiv/228,Kayamlukam,Kpac Junction",690502,KL
+0648,HKL0648,City Eye Foundation,Kerala,Kozhicode,"17/255,Pavamani Road,",673001,KL
+0649,HKL0649,City Hospital Pvt Ltd,Kerala,Cochin,"Post Box #3525,M.G Road Ernakulam",682035,KL
+0650,HKL0650,Cochin Hospital,Kerala,Cochin,Mg Road,682016,KL
+0651,HKL0651,Comtrust Eye Hospital,Kerala,Kozhicode,"Mini Bye Pass Road, Puthiyara (Post), Calicut-673004, Kerala State",673004,KL
+0652,HKL0652,Cosmopolitan Hospitals (P) Ltd,Kerala,Trivandrum,"Maurinanjapalam,Pattom",695004,KL
+0653,HKL0653,Cradle Calicut Maternity Care Pvt Ltd,Kerala,Calicut,"Nh-17, By Pass Road Airport By Pass Road",673014,KL
+0654,HKL0654,Deepa Hospital (Tsunami Project Only),Kerala,Alleppey,"Karuvatta Post, Haripad, Alappuzha",690517,KL
+0655,HKL0655,Deepa Nursing Home,Kerala,Kasaragod,"Kunnummal,Kanhangad",671315,KL
+0656,HKL0656,Deepam Hosptial (Tsunami Project Only),Kerala,Kayamkulam,"Kayamkulam, Kanaalloor North,Pattoli Market Post.",690502,KL
+0657,HKL0657,Deva Matha Hospital,Kerala,Ernakulam,"Koothattukulam, Ernakulam Distkerala",686662,KL
+0658,HKL0658,Devamatha Hospital,Kerala,Koratty,# 365/15 Old Nh Near Post Offic Located Near To Christian Pilgrim Centre St.Mary'S Forane Church Koratty,680308,KL
+0659,HKL0659,Devi Nursing Home,Kerala,Malapuram,"Nilambur, Malappuram Dt.,Kerala-679329",679329,KL
+0660,HKL0660,Divine Medical Centre,Kerala,Trichur,Wadakkancherywadakkanchery,680590,KL
+0661,HKL0661,Divya Prabha Eye Hospital,Kerala,Trivandrum,"Padinjatil Lane,Kumarapuram",695011,KL
+0662,HKL0662,Dm Wims ( Wayanad Institute Of Medical Secience),Kerala,Wayanad,"Naseera Nagar, Meppadi, Wayanda, Kerala",673577,KL
+0663,HKL0663,Dr Rani Menon'S Eye Clinic,Kerala,Thrissur,"18/470, Civil Lane Road, Chungam, Thrissur Kerala-680004",680004,KL
+0664,HKL0664,Dr. Kunhalu'S Nursing Home,Kerala,Ernakulam,"T.D.Road, Ernakulamernakulam",682011,KL
+0665,HMP0665,Aditya Nursing Home,Madhya Pradesh,Indore,"#315, Usha Nagar Extension.",452009,MP
+0666,HMP0666,Agrawal Hospital,Madhya Pradesh,Bhopal,"E-3/15, Opp Habibganj Railway Stn, Arera Colony, Bopal,Mp-462016",462016,MP
+0667,HMP0667,Ajwani Eye Hospital Pvt. Ltd.,Madhya Pradesh,Bhopal,"# 115, Berasia Road, Bh0Pal Sindhi Colony, Bhopal-462018",462018,MP
+0668,HMP0668,Akshaya Heart Hospital,Madhya Pradesh,Bhopal,"Rishi Nagar, Char Imli, Opp Ekant Park.Bhopal, Madhya Pradesh",462016,MP
+0669,HMP0669,Anand Hospital & Research Centre Pvt Ltd,Madhya Pradesh,Indore,"7, Sindhu Nagar, Bhanwarkua Main Road",452001,MP
+0670,HMP0670,Anant Nursing Home Pvt Ltd,Madhya Pradesh,Jabalpur,"Madan Mahal Station Road,Gate #3,Wright Town",482001,MP
+0671,HMP0671,Anant Shree Hospital,Madhya Pradesh,Bhopal,"Indrapuri A- Sector, Opp. Bhel Gate # 1,Indrapuri",462021,MP
+0672,HMP0672,Apex Hospital,Madhya Pradesh,Gwalior,"#34,Tagore Nagar,Gwalior",474011,MP
+0673,HMP0673,Apex Research Centre & Hospital Pvt Ltd,Madhya Pradesh,Bhopal,"116-117, Sindhi Colony, Berasia Road,",462001,MP
+0674,HMP0674,Appollo Medical Invstgations & Appollo Nursing Home,Madhya Pradesh,Indore,"# 584, M.G. Road, New Palasiaindore",452001,MP
+0675,HMP0675,Arihant Hospital & Research Centre,Madhya Pradesh,Indore,"283-A, Gumasta Nagar",452009,MP
+0676,HMP0676,Arpan Hospital And Research Center,Madhya Pradesh,Indore,"15/2, Imli Bazar Near Rajnadaindore ( M.P )",452004,MP
+0677,HMP0677,Ashirwad Nursing Home,Madhya Pradesh,Ratlam,"55-56,Ved Vyas Colony",457001,MP
+0678,HMP0678,Ashish Hospital,Madhya Pradesh,Jabalpur,"#1309, Napier Town,Home Science College Road.",482001,MP
+0679,HMP0679,Asian Globus Liver & Gastroenterology Centre,Madhya Pradesh,Bhopal,"E-5/24,Arera Colony, Arera Petrol Pump, Bhopal",462016,MP
+0680,HMP0680,Ayushman Hospital,Madhya Pradesh,Bhopal,"C-Sector, Shahpura Lake",462014,MP
+0681,HMP0681,Ayushman Neuro Cardio Centre Shubham Hospital,Madhya Pradesh,Gwalior,"14-B,Vijaynagar Extension,Near Prem Motors,Baant Vihar",474002,MP
+0682,HMP0682,Bafna Hospital & Orthopaedic Research Centre,Madhya Pradesh,Indore,"18/1, North Rajmohalla",452002,MP
+0683,HMP0683,Bapat Hospital,Madhya Pradesh,Indore,"Ahd-30, Sukhlia",452010,MP
+0684,HMP0684,Batalia Eye Hosptial,Madhya Pradesh,Jabalpur,"Dr. Batalia Road, Near Clock Tower",482001,MP
+0685,HMP0685,Batra Hospital,Madhya Pradesh,Bhopal,"#17, Zone-1, Mp Nagar",462011,MP
+0686,HMP0686,Bhagyoday Tirth Hospital,Madhya Pradesh,Sagar,Khurai Road,470002,MP
+0687,HMP0687,Bhandari Hospital & Research Centre,Madhya Pradesh,Indore,"Gf-21,22,23 Scheme # 54, Vijay Nagar",452014,MP
+0688,HMP0688,Bhandari Polyclinic Pvt Ltd,Madhya Pradesh,Jabalpur,"#659, Napier Town,",482001,MP
+0689,HMP0689,Bharat Hospital And Research Centre,Madhya Pradesh,Jabalpur,"Patrakar Colony, Near Ranital Chowk",482002,MP
+0690,HMP0690,Bhopal Charitable Hospital,Madhya Pradesh,Bhopal,"Noor Mahal Road,Chowki Imambadachowki Imambaba, Bhopal-462001",462001,MP
+0691,HMP0691,Bhopal Eye Hospital,Madhya Pradesh,Bhopal,"# 29, Rajdev Colony, Barasia Road",462001,MP
+0692,HMP0692,Bhopal Heart & General Hospital,Madhya Pradesh,Bhopal,"H3 B Sector, Sonagiri",462021,MP
+0693,HMP0693,Bombay Hospital,Madhya Pradesh,Indore,"Ida - Scheme ,No .94/95Ring Road ,",452010,MP
+0694,HMP0694,Bombay Hospital & Research Centre Jabalpur,Madhya Pradesh,Jabalpur,"906-Gol Bazar, Jabalpur, Madhya Pradesh, Shaheed Smarak Ground.",482002,MP
+0695,HMP0695,Career Institute Of Medical Sciences(Cims),Madhya Pradesh,Bhopal,"Career College Campus,Govindpura, Bhelgovindpura, Bhel, Bhopal.",462023,MP
+0696,HMP0696,Centre For Sight-Indore,Madhya Pradesh,Scheme,"Plot No. 124, Sector-Ab, Scheme:-54, Indore, Madhya Pradesh",452010,MP
+0697,HMP0697,Charak Hospital & Research Centre,Madhya Pradesh,Bhopal,"Old Navbharat Press Building, Jehengirabad.",462008,MP
+0698,HMP0698,Charak Hospital Pvt Ltd,Madhya Pradesh,Indore,"Ranisati Gate, Yeshwant Niwas Road.Y.N.Road,",452003,MP
+0699,HMP0699,Chirayu Health & Medicare (P) Ltd,Madhya Pradesh,Bhopal,"#6, Malipurle,Behind Sadar Marzil",462001,MP
+0700,HMP0700,Citi Hospital,Madhya Pradesh,Bhopal,"#115-Zone Ii,Maharana Pratap Nagar,",462011,MP
+0701,HMP0701,City Hospital & Research Centre,Madhya Pradesh,Gwalior,"Jail Road, Bohadapur, Gwalior, Madhya Pradesh.",474012,MP
+0702,HMP0702,Convenient Hospital Ltd,Madhya Pradesh,Indore,"Ab Road, Near Lig Tringnee, Indorenear L.I.G. Square,",452001,MP
+0703,HMP0703,Curewell Hospital Pvt. Ltd.,Madhya Pradesh,Indore,"19/1-C,New Palasia, Indore",452001,MP
+0704,HMP0704,Deep Hospital,Madhya Pradesh,Bhopal,"Hig-33, Shivajinagar",462016,MP
+0705,HMP0705,Dewas Hospital And Research Centre,Madhya Pradesh,Dewas,"231,A.B. Road,Dewas",455001,MP
+0706,HMH0706,A-Care Orthopaedic & General Hospital,Maharashtra,Mumbai,"G-1, Giriraj Tower, Sai Baba Nagar, Mira Bhayander Road, Mira Road.",401107,MH
+0707,HMH0707,A.U.S. Clinic & Lithotripsy Centre,Maharashtra,Mumbai,"Arun Chambers, Tardeo, Mumbai-400034Tardeo",400034,MH
+0708,HMH0708,Aabu Tayshete Memorial Hospital,Maharashtra,Sindhudurga,"Behind Hotel Sahyadri Kankavlisindhudurga, Maharashtra.",416602,MH
+0709,HMH0709,Aaditya Hospital,Maharashtra,Sangli,Main Chowk Vishrambag,416415,MH
+0710,HMH0710,Aakashdeep Hospital,Maharashtra,Koparkhairane,"# 98, Sector-7, Koperkhairna,Navi Mumbai-400709.",400709,MH
+0711,HMH0711,Aarogyam Multispeciality Hospital,Maharashtra,Mumbai,"1St Floor, Renuka Bldg, Appo Mangala High School, Above Bank, Maharashtra, Mumbaimumbai",400603,MH
+0712,HMH0712,Aashirwad Hospital,Maharashtra,Thane,"Om Shraddha Tower, Above Tdcc Bank Pune Link Road, Tisgaon, Kalyan Est, Thane.",421306,MH
+0713,HMH0713,Aashirwad Nursing Home,Maharashtra,Mumbai,"Ashirwad, Swami Samarth Nagar, 2Nd Cross Lane, Lokhandwala Complex, Andheri West",400053,MH
+0714,HMH0714,Aashirwad Nursing Home & Iccu,Maharashtra,Mumbai,"A3, New Green Apartments,Tilak Chowk, Turel Pakhadi Roa",400064,MH
+0715,HMH0715,Aastha Hospital,Maharashtra,Thane,"No.104,New Krishna Housing Society,Near Dhuri Motors,Ambadi Road,Vasai(W),Thane,",401202,MH
+0716,HMH0716,Aastha Hospital,Maharashtra,Ulhasnagar,Hospital Area Ulhasnagar -3Thane,421003,MH
+0717,HMH0717,Aayush Eye Clinic,Maharashtra,Mumbai,"201, Coral Classic,20Th Road.",400071,MH
+0718,HMH0718,Abhijit Hospital,Maharashtra,Mumbai,Divya Trusha Mamlatdar Wadiroad Malad (West),400064,MH
+0719,HMH0719,Abhinav Multispeciality Hospital,Maharashtra,Nagpur,"Naya Nakasha, Lashkari Bagh.",440017,MH
+0720,HMH0720,Abhishek Nursing Home (L.P.Diagnostics Pvt. Ltd.),Maharashtra,Mumbai,"Jagruti Co-Op.Soci Bhatwadi,Ghatkopm- (W), Mumbai - 400084Near Maratha Mandir,Co-Op Bank",400084,MH
+0721,HMH0721,Acharya Vinoba Bhave Rural Hospital,Maharashtra,Wardha,"Yavatmal Road,Sawangi (Meghe)Wardha-442004.",442004,MH
+0722,HMH0722,Adarsh Hospital,Maharashtra,Mumbai,"Meenakshi Apartments,C - Wing, 1St Floor, Marve Road,Maladmalad (W)",400064,MH
+0723,HMH0723,Adarsh Hospital,Maharashtra,Pune,"Sn 11/12,Kondhwa Budruk,Near Katraj Khondwa Road,Near Kaveri Apartments",411048,MH
+0724,HMH0724,Adittya Eye Clinic,Maharashtra,Mumbai,"M.G.Road, Ronik Apts, 1St Floor,Kandival(W)",400067,MH
+0725,HMH0725,Aditya Eye Clinic And Contact Lens Centre,Maharashtra,Pune,"Office # 1A,Kumar Plaza,M.G.Road,",411001,MH
+0726,HMH0726,Aditya Jyot Eye Hospital (P) Ltd.,Maharashtra,Mumbai,"Plot # 153,Mojar Parmeshwaranroad (Opp) Siws Collage Gate #",400031,MH
+0727,HMH0727,Agarwal Maternity & General Hospital,Maharashtra,Pune,"S/N.45/1,2 & 5,Sangarsh Chowk,Kharadi Road,Chandannagar,",411014,MH
+0728,HMH0728,Agarwal Nursing Home,Maharashtra,Mumbai,"4Th Floor,Shanti Centre, Plot # 8,Sec-17,Vashi,Navi Mumbai,Vashi, Navi Mumbai-400703",400703,MH
+0729,HMH0729,Aggarwal Eye Hospital,Maharashtra,Mumbai,"No.102/5,Ketayan Mansion,Shahaji Raje Marg,Koldongri,Andheri(E),Sahaje Raje Marg, Koldongri,",400069,MH
+0730,HMH0730,Agrawal Clinic Surgical & General Hospital With Icu,Maharashtra,Mumbai,"49, Daftary Road, Malad (East), Mumbai, Maharashtra, Opp. Subhash Lane.",400097,MH
+0731,HMH0731,Agrawal Eye Hospital,Maharashtra,Mumbai,"1St Floor, Maharaja Apartment, Opp. Tel. Exchange, S.V. Road, Malad (West) Mumbai-400064",400064,MH
+0732,HMH0732,Agrawal Nursing Home,Maharashtra,Mumbai,"Bombay Market, St.Road, Bhayander West,Bhayander, Thane",401104,MH
+0733,HMH0733,Ahirkar Hospital,Maharashtra,Bhiwandi,"Near Ratan Cinema Narpoli,Bhiwandi,Thane",421302,MH
+0734,HMH0734,Ahuja Nursing Home & Polyclinic,Maharashtra,Ulhasnagar,"Furniture Bazar,Ulhas Nagar,Dass Chambers,1St Floor",421002,MH
+0735,HMH0735,Akanksha Maternity & Surgical Hospital,Maharashtra,Mumbai,"6, Manish Tower, Manish Nagar, J P Road, Ahdheri(W)J.P. Road, Andheri (W)",400053,MH
+0736,HMH0736,Akshay Eye Clinic,Maharashtra,Raigad,"#842,Mahatma Gandhi Road,Panvel",410206,MH
+0737,HMH0737,Akshay Medical Foundation,Maharashtra,Pune,"204/G Ward,Mg Roadlonawala",410401,MH
+0738,HMH0738,Akshayjyot Eye Hospial,Maharashtra,Buldana,"Yashowardhan,Mutthe Layout.",443001,MH
+0739,HMH0739,Alatkar Hospital,Maharashtra,Pune,"Bhosale Garden,Opp 111 Bus Stop,Pune Solapur Road",411028,MH
+0740,HMH0740,Alhat Nursing Home,Maharashtra,Pune,"Hira-Ratan Plaza,Pune Nashik Highway Pmt Chowk,Bhosari",411039,MH
+0741,HMH0741,Amardeep Nursing Home,Maharashtra,Thane,"101 Ratna Tarang, Old Nagardas Road, Andheri (E)Old Nagardas Road,Andheri (E)",400069,MH
+0742,HMH0742,Ambika Hospital,Maharashtra,Solapur,"Murarji Peth, Solapur-413002.",413002,MH
+0743,HMH0743,Amrut Hospital & Endoscopy Clinic,Maharashtra,Mumbai,"Dr. Rajendra Prasad Road, Tilak Nagar, Dombivali(E), Thane, Maharashtra",421201,MH
+0744,HMH0744,Anamaya Nursing Home,Maharashtra,Pune,"Sn48/1B/5-Gokulnagar,Katraj Kondhwa Road,Kondhawa Budruk",411048,MH
+0745,HMH0745,Anand Hospital,Maharashtra,Jamkhed,"Nagar Road, Near S.T Stand,Ahemdnagar",413201,MH
+0746,HMH0746,Anand Hospital,Maharashtra,Pune,"Shrikrishnapalace,Sn 136,Near Malwadi Police Station Warje,Malwadi",411058,MH
+0747,HMH0747,Anand Hospital,Maharashtra,Pune,"Balaji Tower,Mahatma Phule Chowke,Chakan",410501,MH
+0748,HMH0748,Anand Hospital,Maharashtra,Pune,"Sector-26,Plot 113, Hutatma Chowk Pradhikaran, Nigdi Pune-411044",411044,MH
+0749,HMH0749,Anand Maternity & Nursing Home,Maharashtra,Mumbai,"Saregram Complex, New Link Rd,Dahison (E), Mumbai-400068.",400068,MH
+0750,HMH0750,Anand Medical Foundation Subudh Hospital,Maharashtra,Pune,"145,Kothrod Near Shivaji Statue",411038,MH
+0751,HMH0751,Anand Nursing Home,Maharashtra,Kolhapur,"#1758 B/1, Sakoli Corner, K Ward.",416012,MH
+0752,HMH0752,Anand Nursing Home,Maharashtra,Mumbai,"Divya Sarjan, 1St Floor, 90 Ft Road, Ganesh Chowk,Charkop,Kandivali West",400067,MH
+0753,HMH0753,Anande Hospital,Maharashtra,Pune,"Near Old R T O Office,Ramnagar, Chandrapur,Near Old R.T.O. Office.",442402,MH
+0754,HMH0754,Anandpara Surgical & General Hospital,Maharashtra,Mumbai,"Iqbal House, Rani Sati Marg Off.Pandit Socicitor Lane, Malad (East)Malad (E), Mumbai - 97",400097,MH
+0755,HMH0755,Anandrishiji Hospital & Medical Research Centre,Maharashtra,Ahmednagar,"124, Anand Rishiji Marg",414001,MH
+0756,HMH0756,Anil Eye Hospital,Maharashtra,Mumbai,"1St Floor, Krishna Smirti, Phadke Road, Dombivli",421201,MH
+0757,HMH0757,Anjali Hospital,Maharashtra,Pune,#568-Dr.Ambedkar Chowk Opp Delux Cinema Pimpri,411017,MH
+0758,HMH0758,Ankur Hospital,Maharashtra,Mumbai,"1St Floor, Kalpatoru,Mathura Das Road,Kandivli (W)Mathuradas Rd, Kandivli (W)",400067,MH
+0759,HMH0759,Ankur Maternity And Surgical Nursing Home,Maharashtra,Mumbai,"Shree Vijay Chs Ltd,Kanjur Marg East",400042,MH
+0760,HMH0760,Ankur Nursing Home,Maharashtra,Thane,"Mohan Plaza, Main Road, Opposite Section, Ulhasnagar, Thane-421501",421501,MH
+0761,HMH0761,Ankur Nursing Home & Pain Clinic,Maharashtra,Pune,"Ashirwad Complex Chindhwad Main Road, Bus Stop Kalewadi Road,Chinchwad",411033,MH
+0762,HMH0762,Anmmol Orthovision,Maharashtra,Mumbai,"101-102,Manisha Heights,Balrajeshwar Road,Mulund West",400080,MH
+0763,HMH0763,Annapurna Hospital,Maharashtra,Kheda,"Mina Bazar,Kapadvanj City,",387620,MH
+0764,HMH0764,Anuchandra Accident Hospital,Maharashtra,Baramati,"Geetai Building, Cinema Road,",413102,MH
+0765,HMH0765,Anupama Maternity & Nursing Home,Maharashtra,Mumbai,"1/18, Jaykar Smruti,Aarey Road, Goregaon West.",400062,MH
+0766,HMH0766,Apex Hospital,Maharashtra,Mumbai,"A-Wing, Vaishali Heights, Chandavarkar Road, Borivali (W), Mumbai-400092",400092,MH
+0767,HMH0767,Apex Hospital,Maharashtra,Mumbai,"Gupte Road, Opp.Shivsena Shakha",421202,MH
+0768,HMH0768,Apex Hospital,Maharashtra,Mumbai,"Parnaka, Shivtirth, Apt. Ground Floor, Kalyan, Thane, Maharashtra.",421301,MH
+0769,HMH0769,Apex Kidney Care Pvt Ltd,Maharashtra,Mira Road,"101, Eden Rose Shopping Complex,Opp. Cinemax Multiplex,Beverly Park, Mira Road (E),Thane",401107,MH
+0770,HMH0770,Apex Kidney Care Pvt Ltd,Maharashtra,Mumbai,"''Gaurav Plaza, Annex, R.R.T. Road, Mulund (W), Mumbai",400080,MH
+0771,HMH0771,Apex Kidney Care Pvt Ltd,Maharashtra,Mumbai,"C/O. Sushrut Hospital, 2Nd Fllor, Swastik Park, Near Kach Gujar Hall, Chembur (E). Mumbai",400071,MH
+0772,HMH0772,Apex Kidney Care Pvt Ltd,Maharashtra,Mumbai,"Abhishek Commericial Complex, 3Rd Floor S.V. Road, Malad, Near Aditi Hotel, Mumbai, Maharashtra.",400064,MH
+0773,HMH0773,Apulki Vairagade Multispeciality Hospital,Maharashtra,Nagpur,"Manewada Cement Road,Plot # 151,Opp To Navdurga Mandir",440024,MH
+0774,HMH0774,Argade Hospital & Maternity Home,Maharashtra,Pune,"Pune-Nashik Highway,Ambethan Chawk,Chakan Talkhed",410501,MH
+0775,HMH0775,Arihant Heart Clinic,Maharashtra,Mumbai,"103, Lancelot, Next To Dattani Nagar, S V Road Borivali(West)S.V.Road, Borivili (W),",400092,MH
+0776,HMH0776,Arneja Institute Of Cardialogy Pvt Ltd,Maharashtra,Nagpur,"123, Ramdaspeth Behind Somalwar School",440010,MH
+0777,HMH0777,Arogyam Superspeciality Hospital,Maharashtra,Nagpur,"#34, Sita Nagar Wardha Road Opp Green Wally Lawns",440025,MH
+0778,HMH0778,Arogyaseva Medical Academy Of India,Maharashtra,Pune,"32/2A,Erandwanabehind Mehendale Garage",411004,MH
+0779,HMH0779,Arpan General Hospital,Maharashtra,Mumbai,"Arpan Shopping Arcade, 1St Floor, C.S.T. Road, Kurla West.",400070,MH
+0780,HMH0780,Asha Hospital,Maharashtra,Mumbai,"# 1, Akurli Cross Road, Kandivli East,Premaskram Manidr Lane,",400101,MH
+0781,HMH0781,Asha Hospital,Maharashtra,Nagpur,"#7,Near Lekhanagar,Cantonment,Kamptee",441001,MH
+0782,HMH0782,Asha Hospital& Iccu,Maharashtra,Mumbai,"Plot # 134,Sect 4, Aniatic Society, Airoli,Navi Mumbai-400708",400708,MH
+0783,HMH0783,Asha Maternity & Childrens Hospital,Maharashtra,Jalgaon,"Ganesh Raod, Chalishoon Dist,",424101,MH
+0784,HMH0784,Asha Maternity & General Hospital,Maharashtra,Mumbai,"Pooja Building, Pushpa Park, Daftary Road, Malad East.",400097,MH
+0785,HMH0785,Asha Orthopaedic Hospital,Maharashtra,Mumbai,"Bashi Kalingar,#2,Geetha Bhavan Lane Off,Navghar Road,Bhayander East,Thane",401105,MH
+0786,HMH0786,Asha Polyclinic & Shetal Nursing Home,Maharashtra,Mumbai,"145, 60 Feet Road,Opp.Uti Bank,Ghatkopar(E)-400077Chatkopur (E), Mumbai - 400077",400077,MH
+0787,HMH0787,Ashirwad Children & Surgical Hospital,Maharashtra,Mumbai,"No.301-306,Ruby Monarch Bldg,Sakivihar Road,Sakinaka,Opp.Post Office,",400072,MH
+0788,HMH0788,Ashirwad Hospital,Maharashtra,Mumbai,"#117,Kaap Kaneri,Thane,Opp Gopal Nagar Near Kalyan Naka",421302,MH
+0789,HMH0789,Ashirwad Hospital,Maharashtra,Mumbai,"Maratha Section,Near Jijamatha Udyan,Ulhasnagar,Thane",421004,MH
+0790,HMH0790,Ashirwad Hospital,Maharashtra,Pune,"2Nd Floor,Punit Yash Arcade,Near Kothurd Bus Stand,Karve Road",411038,MH
+0791,HMH0791,Ashirwad Hospital & Poly Clinic,Maharashtra,Mumbai,"#101, 103, Anurag Busines Centre, W.T.Patil Marg, Ghtla Villate, Chemburw.T. Patil Marg,Ghatla Village",400071,MH
+0792,HMH0792,Ashirwad Maternity & General Hosptial,Maharashtra,Thane,"17,18 Samir Apt,Jesal Park,Bhayandar East,Thane",401105,MH
+0793,HMH0793,Ashirwad Maternity & Nursing Home,Maharashtra,Mumbai,"A/5,Harsh Appartment,Anand Nagar,Dhisar East",400068,MH
+0794,HMH0794,Ashirwad Nursing Home,Maharashtra,Nalasopara,"'C'Wing, Seema Complex, Tulinj Road,Nalasopara(E),Thane,",401205,MH
+0795,HMH0795,Ashirwad Orthopaedic And Surgical Nursing Home,Maharashtra,Mumbai,"Jambli Galli, Opp. Jain Temple, Borivali(W)",400092,MH
+0796,HMH0796,Ashtavinayak Maternity Eye & Sugical Nursing Home,Maharashtra,Mumbai,"Mtnl Marg College Lane, Ramgiri Heights, 104 First Floor.",400028,MH
+0797,HMH0797,Ashtvinayak Hospital,Maharashtra,Raigad,"Khanda Colony,New Panvel West.",410206,MH
+0798,HMH0798,Ashvini Maternity & Gynecological Hospital,Maharashtra,Raigad,"Plot #59/1,Old Thanaka Road,Panvel",410206,MH
+0799,HMH0799,Ashwini Accident Multispeciality Hospital,Maharashtra,Nashik,"Govind Nagar,Chowk #5,Behind Hotel Prakash,",422001,MH
+0800,HMH0800,Ashwini Hospital,Maharashtra,Pune,"Dattahasta 20/156,Bijali Nagar,Chinchwad",411033,MH
+0801,HMH0801,Ashwini Kidney & Dialysis Centre,Maharashtra,Nagpur,"301 & Central Bazar Road, Ramdaspeth, Neet Gaurav Complex, Nagpur, Maharashtra",440010,MH
+0802,HMH0802,Ashwini Maternity & Surgical Hospital,Maharashtra,Mumbai,"Ambika Darshan, M G Road, Above Bharti Jewellers, Rajawadi, Ghatkopar East, Mumbai - 400075 ,M.G.Road, Ghatkopar",400075,MH
+0803,HMH0803,Ashwini Multispeciality Hospital,Maharashtra,Mumbai,"Vadvau Section, Ambernath,Thane",421501,MH
+0804,HMH0804,Ashwini Nursing And Maternity Home,Maharashtra,Mumbai,"Mohan Niwas Keluskar Rdnear Meenatai Thakare Statue Shivaji Parkkeluskar Road, Dadar (W)",400028,MH
+0805,HMH0805,Ashwini Nursing Home,Maharashtra,Pune,"S.No#51,Plot#16,Dhanori Road,Maharanapratap Chawk,Vishrantwadi",411015,MH
+0806,HMH0806,Ashwini Sahakari Rugnalaya & Research Centre,Maharashtra,Sholapur,"North Sadar Bazar, Near Bhagatsingh Marketnear Bhagatsingh Market,",413003,MH
+0807,HMH0807,Asian Eye Institute & Laser Centre,Maharashtra,Mumbai,"# 101A, Satya Narayan Apartment,Off M.G.Road, Borivali(E), Mumbai-400066",400066,MH
+0808,HMH0808,Asian Institute Of Medical Science,Maharashtra,Thane,"Plot No.P-72,Milap Nagar,Midc,Dombivli,Thane,",421203,MH
+0809,HMH0809,Aster Aadhar Hospital (Prerana Hospital Ltd),Maharashtra,Kolhapur,"R.S. No.628, 'B' Ward, Shastri Nagar, Near Kmt Workshop, Kolhapur, Maharashtra-416012Mangalwar Peth",416012,MH
+0810,HMH0810,Athare Patil Memorial Hosp And Research Center Pvt Ltd,Maharashtra,Ahmednagar,"185,Savedi Road,Ahmednagar-414001Maharashtra",414001,MH
+0811,HMH0811,Atole Accident Hospital,Maharashtra,Baramati,"Avdhoot Plaza,Bhigwan Road,",413102,MH
+0812,HMH0812,Attharva Accident Hospital,Maharashtra,Pune,"Plot # 17,Vadgaon Road,Near Bank Of Maharashtra,Talegaon Dabhade",410507,MH
+0813,HMH0813,Atul Hospital,Maharashtra,Mumbai,"26-A,Bharat Nagar, Grant Roadbharat Nagar",400008,MH
+0814,HMH0814,Atul Lok Hospital,Maharashtra,Mumbai,"#139/2447,Tagore Nagar,Group-7,Vikhroli East",400083,MH
+0815,HMH0815,Avadhoot Hospital & Iccu,Maharashtra,Mumbai,"Plot # 29,Sector-19,Thane",400708,MH
+0816,HMH0816,Avanti Institute Of Cardiology Pvt. Ltd.,Maharashtra,Nagpur,"# 5, Abhyankar Road,Dhontolidhantoli, Nagpur-440012",440012,MH
+0817,HMH0817,Badade Hospital,Maharashtra,Pune,"Agarwal Chambers,Mumbai Pune Highway",411044,MH
+0818,HMH0818,Bagade Hospital For Women & Maternity Home,Maharashtra,Pune,"B.No. 7B F. No.3+4, Agarsen Nagar Dapodi, Pune-Mumbai Road, Opp .Atlas Copco Co Dapodi",411012,MH
+0819,HMH0819,Bakhtar Hospital,Maharashtra,Amravati,"Raja Peth, Amravati-444601.",444601,MH
+0820,HMH0820,Balaji Accident Hospital,Maharashtra,Malegaon,Malegaon Camp,423105,MH
+0821,HMH0821,Balaji Healthcare (Rajpal Hospital),Maharashtra,Mumbai,"Plot #.13, Sector 10, Kopar-Khairane",400709,MH
+0822,HMH0822,Balaji Hospital,Maharashtra,Mumbai,"Victoria Road, Cross Lane 3.",400027,MH
+0823,HMH0823,Balaji Hospital,Maharashtra,Pune,"Bye Pass Chowk,Nagar Road",411014,MH
+0824,HMH0824,Balaji Hospital,Maharashtra,Thane,"Golden Nest Phas 5 Mira Road,Bhayandar Thane.",401105,MH
+0825,HMH0825,Balaji Maternity & Nursing Home,Maharashtra,Thane,"A 7/28,Hiramoti Complexshivaji Nagar, Wagle Estate",400604,MH
+0826,HMH0826,Balaji Speciality Hospital,Maharashtra,Mumbai,"1St Floor, Jalaram Commercial Centre,Sakivihar Road,Sakinaka,",400072,MH
+0827,HMH0827,Baldwa Hospital,Maharashtra,Mumbai,"Sumer Nagar, S.V. Road, Borivali West",400092,MH
+0828,HMH0828,Baradkar Hospital & Maternity Home,Maharashtra,Mumbai,"14,A-3,Meera Queen,Opp Laxmi Cars,W.E.Highway,Kashimira,Thane",401107,MH
+0829,HMH0829,Bardia Hospital,Maharashtra,Amravati,"Paratwada, Amravati,Opp. S.T. Stand.",444805,MH
+0830,HMH0830,Bay View Clinic,Maharashtra,Mumbai,"3/3A, M. Parmanand Road,Mumbai-400004,",400004,MH
+0831,HMH0831,Belle Vue Nursing Home,Maharashtra,Mumbai,"Sejal, 1St Floor, New Link Road Off Veera Desai Road Andheriroad, Versova, Andheri(W)",400058,MH
+0832,HMH0832,Belokar Hospital,Maharashtra,Amravati,Vijay Colony Rukhmini Nagar,444606,MH
+0833,HMH0833,Bembde Hospital,Maharashtra,Aurangabad,"14, Beed By Pass Road, Near Shahanoorwadi Rly Crossing, Satara Parisar, Aurangabad, Maharashtra",431005,MH
+0834,HMH0834,Bendre Hospital And Maternity Home,Maharashtra,Ahmednagar,"7375,Deshmukhwadi,Sarjapura",414001,MH
+0835,HMH0835,Benzer Nursing Home,Maharashtra,Mumbai,"2Nd Cross Road,Lokhandwala Complex,Andheri West",400053,MH
+0836,HMH0836,Bethany Hospital,Maharashtra,Mumbai,"Next To Glaxo,Opp. Ma Niketan,",400610,MH
+0837,HMH0837,Better Sight & Research Centre,Maharashtra,Mumbai,"Sector 7,B/29-004,Shantivagar,Mira Road East,Thane",401107,MH
+0838,HMH0838,Bhagat Nursing Home,Maharashtra,Mumbai,Ganesh Nivas 2Nd Floorpai Nagar,400092,MH
+0839,HMH0839,Bhagawati Netralaya,Maharashtra,Pune,Manik Chowk Chakan Tal Khed,410501,MH
+0840,HMH0840,Bhagwati Healthcare Pvt Ltd,Maharashtra,Ulhasnagar,"Plot # 2, Rameshwadi, Kulgaon Badlapur Road, Badlapur West",421503,MH
+0841,HMH0841,Bhagyojaya Hospital,Maharashtra,Baramati,Indapur Road,413102,MH
+0842,HMH0842,Bhakti Hospital,Maharashtra,Pune,"Pune Nagar Road,Sanaswadi Chowk",412208,MH
+0843,HMH0843,Bhaktivedanta Hospital,Maharashtra,Mumbai,"Sector-1, Srishti Complex, Mirthane",401107,MH
+0844,HMH0844,Bhalerao Ent Hospital,Maharashtra,Pune,"Ganaraj Complex,2Nd Floor,# 3,Near Mahaslkant Chowk,Akurdi",411035,MH
+0845,HMH0845,Bhandari Maternity & Nursing Home,Maharashtra,Pune,"5,Dhanlaxmi Society,Sinhagad Road",411051,MH
+0846,HMH0846,Bharatiya Arogya Nidhi Sheth Kantilal C. Parikh General Hospital,Maharashtra,Mumbai,"N.S.Road.No.13, Jupds, Mumbai, Maharashtra",400049,MH
+0847,HMH0847,Bhargava Nursing Home,Maharashtra,Mumbai,"Gopal Bhuvan, Tagore Road, Santacruz(W), Mumbai",400054,MH
+0848,HMH0848,Bhartiya Maternity & Nursing Home,Maharashtra,Aurangabad,"3-12-65,Raja Bazar Jinsi Road",431001,MH
+0849,HMH0849,Bhartiya Maternity & Nursing Home Pvt Ltd,Maharashtra,Aurangabad,"#27,Manjeet Nagar,Opp Akashwani Chowk Jalna Road",431001,MH
+0850,HMH0850,Bhatia General Hospital,Maharashtra,Mumbai,"Tukaram Javji Road, Tardeo, Mumbai, Maharashtra",400007,MH
+0851,HMH0851,Bhatiya Hospital,Maharashtra,Jalgaon,"'Dwarka'Deshpande Lane,Main Road,Chopda",425107,MH
+0852,HMH0852,Bhatti Eye Clinic,Maharashtra,Mumbai,"# 22, Amar Mansion,Sion Trombay Road, Mumbai.",400088,MH
+0853,HMH0853,Bhide Hospital,Maharashtra,Pune,"# 18, Laxmi Park, Navi Pethnavi Peth, Pune-411030.",411030,MH
+0854,HMH0854,Bindu Nursing Home,Maharashtra,Pune,"Sudarshan Nager,Chinchwad",411033,MH
+0855,HMH0855,Birajdar Hospital,Maharashtra,Solapur,"Ninali Vasti Road, Solapur,Maharashtra-413001",413001,MH
+0856,HMH0856,Birmole Hospital,Maharashtra,Raigad,"No.118/1,Cuf Road,Cuf Nagar,Panvel,Opp Royal Cosmo Club",410206,MH
+0857,HMH0857,Bobade Accident Hospital,Maharashtra,Baramati,"Bobade Accident Hospital, Baramati",413102,MH
+0858,HMH0858,Bombay Hospital And Research Centre,Maharashtra,Mumbai,"#12,New Marine Lines,Mumbai",400020,MH
+0859,HMH0859,Bora Ent Hospital,Maharashtra,Pune,"#2/4,Neeta Park Air Port Road,Yerwada",411006,MH
+0860,HMH0860,Bora Hospital,Maharashtra,Pune,"#589, Ganesh Peth,Dhor Galli",411002,MH
+0861,HMH0861,Breach Candy Hospital,Maharashtra,Mumbai,60-A Bhulabhai Desai Road,400026,MH
+0862,HMH0862,Brijmohan Taori Memorial Hospital,Maharashtra,Nagpur,"Mo-1, Silver Palace, Dhantoli,Nagpur-440012",440012,MH
+0863,HMH0863,Bses Mg Hospital,Maharashtra,Mumbai,"Sv Road, Andheri (W), Opp Andheri Rly Stn, Maharashtra",400058,MH
+0864,HMH0864,Burute Hospital,Maharashtra,Bhosari,"Near Rupee Co-Op Bank,Opp Pune-Nashik Highway",411039,MH
+0865,HMH0865,Burute Hospital,Maharashtra,Pune,"B,2-3,Laxmi Classic Poona Alandi Road, Mohanwadi Near Vishrantwadi,Yerwada",411006,MH
+0866,HMH0866,Cardinal Gracious Memorial Hospital Trust,Maharashtra,Mumbai,"Sandor, Bangli Naka, Vasai West, Thane - 401201",401202,MH
+0867,HMH0867,Central Avenue Critical Care Hospital & Iccu,Maharashtra,Nagpur,"Mahalaxmi Complex, Central Avenue Roaddarodkar Square, Central Avenu",440002,MH
+0868,HMH0868,Chaitanya Hospital,Maharashtra,Pune,"Bhagirathi Nagar, Warje Malwadi.",411052,MH
+0869,HMH0869,Chaitanya Hospital,Maharashtra,Pune,"Near Chinchwadgaon Police Chowky,Chapekar Chowk,Chinchwad,",411033,MH
+0870,HMH0870,Chaitanya Hospital,Maharashtra,Pune,"A/P-Koregaon Bhima, Tal. Shirur, (Pune), Maharashtra",412216,MH
+0871,HMH0871,Chaitanya Nursing Home,Maharashtra,Thane,"Poona Link Road, Kalyan East, Thane",421306,MH
+0872,HMH0872,Chakrabarthy Medical Centre,Maharashtra,Ahmednagar,"Opp: Gurudwara Nagar, Near Aurangabad Road,Ahmednagar-414001",414001,MH
+0873,HMH0873,Chandak Nursing Home,Maharashtra,Nagpur,"Supermarket Sita Building,Nagpur-440012.",440012,MH
+0874,HMH0874,Chandralok Hospital,Maharashtra,Pune,"Chaitraban Apt.,Chandrika Society,Bibawewadi Road",411037,MH
+0875,HMH0875,Chaphekar Iccu & Diabetes Hospital,Maharashtra,Mumbai,"Ashok Nagar, Ambadi Road(Opp) Bhaji Market, Vasai Road",401202,MH
+0876,HMH0876,Charak Clinic Nursing Home,Maharashtra,Mumbai,"Laud Mansion,4Th Floor, 21,M Karvi Roadm.Karve Road,Opp.Charni Road",400004,MH
+0877,HMH0877,Chhabda Hospital,Maharashtra,Aurangabad,"Plot No 5-6-19, New Osmanpura, Opp Sant Eknath Rang Mandir",431005,MH
+0878,HMH0878,Chinmay Nursing Home,Maharashtra,Mumbai,"#103/104,Odyssey-A,Bhakti Park,Wadala East",400037,MH
+0879,HMH0879,Chintamani Hospital,Maharashtra,Pune,"Plot # 53,Jedhe Nagar,Bibwewadi",411037,MH
+0880,HMH0880,Chiranjeev Hospital,Maharashtra,Ratnagiri,"Anand Karad Road, Markand,Chiplun, Ratnagiri-415605.",415605,MH
+0881,HMH0881,Chiranjeevi Hospital,Maharashtra,Mumbai,"101&102,Padmaraj Bldg,Dr.Rajendra Prasad Road,Shivmandir Cross Road,Ramnagar,Dombivali East,Thane",421201,MH
+0882,HMH0882,Chirayu Superspeciality Hospital,Maharashtra,Mumbai,"Ground Floor,Vimal Deep Building,Sarvoday Paraside Complax Behind Balaji Hos Mira Bhy Road,Bhayandar East,Thane",401105,MH
+0883,HMH0883,Chobe Maternity & Nursing Home,Maharashtra,Aurangabad,"Opp Chetna Nagar,Marathwada",431005,MH
+0884,HMH0884,Chopda Medicare & Research Centre Pvt.Ltd,Maharashtra,Nashik,"Patil Lane - 1,Nashik, Maharashtra",422005,MH
+0885,HMH0885,Chopda Medicare & Research Centre Pvt Ltd,Maharashtra,Nashik,Patil Lane No 1 Canada Corner Nashik 422005,422005,MH
+0886,HMH0886,Ciigma Institute & Medical Sciences Pvt Ltd,Maharashtra,Aurangabad,"#8,Raghuveer Nagar,Jalna Road,Opp Sfs High School",431005,MH
+0887,HMH0887,City Hospital,Maharashtra,Kolhapur,"1708 E, 8Th Lane, Rajarampuri",416008,MH
+0888,HMH0888,City Hospital,Maharashtra,Solapur,"Old Employment Chowk,'B'Wing City Pride Building Vip Road",413001,MH
+0889,HMH0889,Citycare Hospital & Research Centre Pvt Ltd,Maharashtra,Nashik,"Near Nasardi Bridge,Nasik Poona Road,Dwarka",422001,MH
+0890,HMH0890,Clear Vision Eye Centre,Maharashtra,Mumbai,"1-A, Ashoka, 15 Sv Road, St.Theresa'S Convent Schoolsantacruz(W)",400054,MH
+0891,HMH0891,Columbia Hospital And Research Centre-Nagpur,Maharashtra,Nagpur,"Dr. N.B. Khare Marg, Dhantoli, Nagpur, Maharashtra",440012,MH
+0892,HMH0892,Crescent India Medical Education Trust'S Inamdar Hospital,Maharashtra,Pune,"Survey, No:- 15, Fatimanagar, Pune",411040,MH
+0893,HMH0893,Crescent Nursing Home & Iccu,Maharashtra,Nagpur,"Near Lokmat Square, Dhantoli,1St Lane,1St Lane, Nagpur-440012.",440012,MH
+0894,HMH0894,Criticare Hospital For Children,Maharashtra,Nashik,"Citycentre,Opp Sindhi Colony,Jail Road",422101,MH
+0895,HMH0895,Criticare Superspeciality Hospital,Maharashtra,Thane,"Between Hotel Royal Challenge & Cadbury Co.Ltd, E.E. Highway, Thane West.",400602,MH
+0896,HMH0896,Crystal Eye Centre,Maharashtra,Mumbai,"101, Crystal Residency Dockyard Road, Mazagaon",400010,MH
+0897,HMH0897,Cumballa Hill Hospital,Maharashtra,Mumbai,"93-95, August Kranti Marg",400038,MH
+0898,HMH0898,Curie Manavata Cancer Centre,Maharashtra,Nashik,"Mumbai Naka,Opp Mahamarg Bus Stand",422004,MH
+0899,HMH0899,D'Souza Hospital,Maharashtra,Mumbai,"Ramedi Dhowali Vasai, Thane-401201",401201,MH
+0900,HMH0900,D.S.Kothari Hospital,Maharashtra,Mumbai,"Kamala Kutir, Kastirba Chowk,C.P.Tank",400004,MH
+0901,HMH0901,Dada Laser Eye Institute,Maharashtra,Pune,"Chaudhari Plaza 1St Floor# 185, M.G. Road,Campchaudhari Plaza, Pune-411001.",411001,MH
+0902,HMH0902,Dake Hospital,Maharashtra,Uran,"1St Floor, Suwellar Complex, Uran Karanja Road",400702,MH
+0903,HMH0903,Darekar Hospital,Maharashtra,Pune,"Perne Phata,Poona Nagar Road,Tal Haveli",411007,MH
+0904,HMH0904,Dashputra Hospital,Maharashtra,Nagpur,"358, Anandnager, Opp, Sankkara Police Station Nagpur-440009",440009,MH
+0905,HMH0905,Datar Nursing Home,Maharashtra,Mumbai,"33/34, Morumal Mansion, Opp Bachani Nagar,Off Daftary Road, Malad East.",400097,MH
+0906,HMH0906,Datt Maternity & Surgical Home,Maharashtra,Mumbai,"23, Jawahar Nagar 1Stfloor,S.V. Road",400062,MH
+0907,HMH0907,Dattatreya Nursing Home,Maharashtra,Mumbai,"Opp Bhandhutva Chs, Datta Mandir Road,Near Vakola Bridge,Santacruz East",400055,MH
+0908,HMH0908,Deendayal Memorial Hospital,Maharashtra,Pune,"# 926, .C. Road, Shivajinagar, Adjucent To Tukaram Pauka Chowk.",411004,MH
+0909,HMH0909,Deep Nursing Home,Maharashtra,Thane,"Kalyan Road, Ashok Nagar, Bhiwandi, Thane.",421302,MH
+0910,HMH0910,Deepak Hospital,Maharashtra,Mumbai,"Holy Complex,Near Sai Petrol Pump,Opp White House Hotel,Mira Bhayandar Mira Road East,Thane",401107,MH
+0911,HMH0911,Deepjyoti Hospital Pvt Ltd,Maharashtra,Nashik,"Crown Complex,Sharanpur Road, Opp Rajiv Gandhi Bhavan",422002,MH
+0912,HMH0912,Deodhar Eye Hospital,Maharashtra,Pune,"#39/25, Erandawane, Karve Rd,",411004,MH
+0913,HMH0913,Deokate Hospital,Maharashtra,Baramati,Indapur Road,413102,MH
+0914,HMH0914,Deshmukh Hospital,Maharashtra,Parbhani,"#17, Dr.Hedgewar Marg,Station Road,",431401,MH
+0915,HMH0915,Deshpande Hospital,Maharashtra,Ahmednagar,"Anandi Bazar, Patwardhan Chowk,Anandi Bazar",414001,MH
+0916,HMH0916,Deshpande Hospital,Maharashtra,Pune,"Parekh B Towers, Biaroba Nala, Fatimanagar",411013,MH
+0917,HMH0917,Dev Nursing Home,Maharashtra,Mumbai,"Shilpa Appartment, Ist Floor, Shankar Ghanekar Marg, Off Gokhale Road S), Dadar W-400028Shankar Ghanekar Marg,",400028,MH
+0918,HMH0918,Devadhar Nursing Home,Maharashtra,Pune,"S.No. 901, Near Tapovan Mandir,Pimpri.",411017,MH
+0919,HMH0919,Dewang Nursing Home (P) Ltd,Maharashtra,Thane,"Bhaveshwar Market, 2Nd Floor,M.G. Road, Ghatkopar (E).",400077,MH
+0920,HMH0920,Dhamdhere Hospital,Maharashtra,Pune,"Sanaswadi Poona Nagar Road,Talshirur",412208,MH
+0921,HMH0921,Dhanshree Hospital,Maharashtra,Pune,"Gp-66, G Block, Midc,Chinchwad, Pune-411019.",411019,MH
+0922,HMH0922,Dhanvantari Fracture Orthopaedic & Arthroscopy Cntre,Maharashtra,Kolhapur,"# 1717,B 7Th Lane, Rajaranpuri, 7Th Lane, Maharashtra",416008,MH
+0923,HMH0923,Dhanvantari Hospital (P) Ltd.,Maharashtra,Badlapur,"Thakkar Palza, Kulgaon (E), Badlapur, Thane - 421503Badlapur, Thane - 421 503.",421503,MH
+0924,HMH0924,Dhanvantri Children'S Hospital & Nicu,Maharashtra,Thane,2Nd Floor Mohan Heritage Building Opp Tmc Office Panchpakhadi,400602,MH
+0925,HMH0925,Dhanwantari Hospital,Maharashtra,Pune,"Krishna Prasad Society Plot # 42, Rambaug Colony, Paud Road",411038,MH
+0926,HMH0926,Dhanwantari Medical,Maharashtra,Pune,"Tilak Road, Pradhikaran, Maharashtra, Pune",411044,MH
+0927,HMH0927,Dhanwantary Hospital & Iccu,Maharashtra,Mumbai,"545, Netaji Subhash Road, Mulund West, Mumbai",400080,MH
+0928,HMH0928,Dharma Orthopedic Center,Maharashtra,Pune,"D Building Om Mahavir Society,Irani Market Yerwada",411006,MH
+0929,HMH0929,Dhulabapu Kokare Memorial Hospital,Maharashtra,Pune,"Malavarchi Devi, Ring Road,Baramati",413102,MH
+0930,HMH0930,Divine Multispeciality Hospital & Research Centre,Maharashtra,Navi Mumbai,"Plot No 21, Near Ekta Society, Sector 6, Ghansoli, Navi Mumbai-400701",400701,MH
+0931,HMH0931,Divya Eye Clinic,Maharashtra,Pune,"F-2,Shakun Apts, Above Bank Of Maharashtra ,Sanghavinagar,Aunoh,Pune",411007,MH
+0932,HMH0932,Doshi Nursing Home,Maharashtra,Mumbai,"Amrut Kunj, Near Rly Station, Mg Road, Ghatkopar East-400077",400077,MH
+0933,HMH0933,Dr A.M Vaze,Maharashtra,Mumbai,Shivaji Park,400028,MH
+0934,HMH0934,Dr Baliga Nursing Home,Maharashtra,Mumbai,"Paras, S.V.Road, Goregaon W-400062Mumbai-400062",400062,MH
+0935,HMH0935,Dr Bandal Arogya Hospital,Maharashtra,Thane,"1St Floor, Golden Park, Opp.Navneet Motors, L.B.S. Marg, Thane West",400601,MH
+0936,HMH0936,Dr D Y Patil Hospital & Research Centre,Maharashtra,Mumbai,"Sector-5,Nerul",400706,MH
+0937,HMH0937,Dr Kandoi Ashirwad Hospitals,Maharashtra,Mumbai,Ganesh Ashish Apt Vadavli Section Ambernath(E),421501,MH
+0938,HMH0938,Dr Rane Hospital (P) Ltd,Maharashtra,Mumbai,"37,Pestom Sagar, Chembur37, Pestom Sagar, Chembur",400089,MH
+0939,HMH0939,Dr. Ajayan'S Multispeciality Hospital,Maharashtra,Mumbai,"Plot #6, Sector-9, Opposite Rf Naik School Ground, Koparkhairane",400709,MH
+0940,HMH0940,Dr. Ashok Patil Clinic,Maharashtra,Sangli,"Kinikar Patil Estate, Vishrambag,Sangli",416415,MH
+0941,HMH0941,Dr. Bedekars Hospital,Maharashtra,Thane,"Shiu-Shakti Anupade, Thane.",400602,MH
+0942,HMH0942,Dr. Bothra'S Hospital,Maharashtra,Mumbai,"Ramkrishna Building,1St Floor, Gadav Naka, Bhandup West",400078,MH
+0943,HMH0943,Dr. Deepak Hospital,Maharashtra,Ahmednagar,"Savedi Road, Ahmednagar",414003,MH
+0944,HMH0944,Dr. Eye Hospital,Maharashtra,Mumbai,"1St Floor, Viral Apts,S V Road,S.V. Road,Anderi West, Mumbai.",400058,MH
+0945,HMH0945,Dr. Gandhi'S Nursing Home Pvt Ltd,Maharashtra,Mumbai,"101/102/202, Mangamurti Chs, Off.Bole Road, Mumbai-400028",400028,MH
+0946,HMH0946,Dr. Ithape Hospital,Maharashtra,Sangamner,"New Nagad Road, Sangamner,Ahmednagar, Pune-422605.",422605,MH
+0947,HMH0947,Dr. Kannure Hospital & Iccu,Maharashtra,Mumbai,F-2 D-2 Sector-9Main Road Vashi,400703,MH
+0948,HMH0948,Dr. Kulkarni Hospital,Maharashtra,Pune,"10A 11 Kalyan Peth,Junnar",410502,MH
+0949,HMH0949,Dr. Manish Patankars Nath Hospital,Maharashtra,Mumbai,"101, A-Wing, Golden Havens Apartments, Kolbad Road, Khopat, Thana West-400601",400601,MH
+0950,HOD0950,Add Hospital Pvt Ltd,Orissa,Cuttack,Junus Patna College Square,753003,OD
+0951,HOD0951,Aditya Care Hospital,Orissa,Khurda,"329/1929(P),Chandrasekharpur,Khurdha",751014,OD
+0952,HOD0952,Amit Hospital,Orissa,Berhamapur,"Canal Street, Near Radhakrishna & Kuthari Temples Street,Berhampur",760001,OD
+0953,HOD0953,Annapurna Laparoscopic Surgery And Trauma Care Center,Orissa,Bhubaneswar,"Plot No-2764/4805, Nageswar Tangi, Old Town, Bhubaneswar, Khurdur, Orissa",751002,OD
+0954,HOD0954,Apollo Hospitals Enterprise Ltd,Orissa,Khurda,"Plt # 251,Sainik School Road,",751005,OD
+0955,HOD0955,Aruna Shakti Nursing Home,Orissa,Sambalpur,A.N. Guha Lane,768001,OD
+0956,HOD0956,Ashirwad Nursing Home & Research Centre,Orissa,Sambalpur,Hospital Raod,768001,OD
+0957,HOD0957,Ashwini Hospital(A Unit Of Cuttack Hospitals Pvt Ltd),Orissa,Cuttack,"Plot No.P3, Sector-1, Cda, Cuttack",753014,OD
+0958,HOD0958,Ayush Hospitals & Trauma Care Pvt Ltd,Orissa,Bhubaneswar,"#13-14,Acharya Vihar Square,Acharya Vihar,Bhubaneswar",751022,OD
+0959,HOD0959,Barsa Nursing Home,Orissa,Kendrapada,"By Pass Square, Pattamundai",754215,OD
+0960,HOD0960,Behera Nursing Home,Orissa,Bargarh,"National Highway # 6, Bargarh, Infront Of R.T.O",768028,OD
+0961,HOD0961,Bhagirathi Hospital,Orissa,Dhenkanal,"Hanuman Bazar,Kamakshyanagar",759018,OD
+0962,HOD0962,Bhubaneswar Medical Research Institute & Nursing Home,Orissa,Bhubaneswar,"Plot #-1,Bda District Centre,Chandrasekharpur",751016,OD
+0963,HOD0963,Cure-Well Nursing Home,Orissa,Jagatsinghapur,Town Hall Road,754103,OD
+0964,HOD0964,Cuttack Nursing Home,Orissa,Cuttack,"Markamal Patna,Mangalabag,",753001,OD
+0965,HOD0965,Deepak Nursing Home,Orissa,Bhubaneswar,"Plot No 84, (Dc)Saheed Nagar,",751007,OD
+0966,HOD0966,Dr. Agarwal'S Eye Hospital (Rep. By Dr. Agarwal'S Health Care Ltd.),Orissa,Cuttack,"Bbc Tower, Link Road Square, Madhupatna, Cuttack-753010",753010,OD
+0967,HPB0967,A.P.Hospital,Punjab,Amritsar,"Ajitnagar Chowk,Near Sultan Wind Water Tank",143001,PB
+0968,HPB0968,Abhilasha Hospital,Punjab,Chandigarh,House No 201 Sector 35 A,160022,PB
+0969,HPB0969,Ace Heart & Vascular Institute. (A Unit Of Prime Cardiac Care Pvt. Ltd.),Punjab,Mohali,"Sector-69,Shivalik Hospital",160055,PB
+0970,HPB0970,Adesh Hospital & Research Centre,Punjab,Muktsar,Kotkapura Road Sri Muktsar Sahibmuktsar,152026,PB
+0971,HPB0971,Adityaj Hospital,Punjab,Mohali,"S.C.O.18,(F.F),Phase-1,S.A.S,Nagar",160055,PB
+0972,HPB0972,Advance Mother And Child Care Center,Punjab,Mohali,"#67, Kalgidhar Enclave, Near Shiv Mandir, Hdfc Bank, Baltana, Zirakpur, Mohali, Punjab",140604,PB
+0973,HPB0973,Altec Laser & Superspeciality Hospital,Punjab,Amritsar,B-2 Ranjit Avenue Amritsar,143001,PB
+0974,HPB0974,Amritsar Hospital,Punjab,Amritsar,100 Ft Road East Mohan Nagar,143001,PB
+0975,HPB0975,Anil Baghi Hospital,Punjab,Ferozepur,"Anil Baghi Road,Ferozepur City",152002,PB
+0976,HPB0976,Apex Hospital,Punjab,Mohali,"Scf-43,44,Ph 3B-2",160060,PB
+0977,HPB0977,Apolo Hospital,Punjab,Amritsar,"#2509/3,Bhushanpura,Inside Suctan Wind Gate",143001,PB
+0978,HPB0978,Arora Hospital,Punjab,Amritsar,G T Roa Chheharta Amritsar-143005,143005,PB
+0979,HPB0979,Arthroscopy & Spinal Endoscopy Centre,Punjab,Chandigarh,"Sco66, Sector 20C, Chandigarh-160020",160020,PB
+0980,HPB0980,Arya Hospital Pvt Ltd,Punjab,Chandigarh,"Sco-801, Manimajra",160101,PB
+0981,HPB0981,B.J.S.Bal Memorial Hospital,Punjab,Gurdaspur,"#11/4,Dharampur Colony,Batala,Gurdaspur",143505,PB
+0982,HPB0982,Bajwa Hospital,Punjab,Amritsar,"No.314-315,Akash Avenue,F.C.Road,",143001,PB
+0983,HPB0983,Bakshi Hospital,Punjab,Bhatinda,"Str # 3, Bibiwala Road,Bathinda",151005,PB
+0984,HPB0984,Bassi Nursing Home Pvt Ltd,Punjab,Ludhiana,"B-970,Nea Dhubighat,Rajpura Road",141001,PB
+0985,HPB0985,Bawa Hospital Pvt Ltd,Punjab,Ludhiana,"Near Old Dandi Swami Mandir, Civil Lines",141001,PB
+0986,HPB0986,Bbc Heart Care Pruthi Hospital,Punjab,Jallandhar,"301, Lajpat Nagar, Jalandhar.Punjab.",144001,PB
+0987,HPB0987,Beams Hospitals Pvt Ltd-Amritsar,Punjab,Amritsar,"29-B, Race Course Road, Amritsar, Punjab-143001",143001,PB
+0988,HPB0988,Beri Maternity Centre,Punjab,Amritsar,"G.T.Road Putlighar,Amritsarganga",143001,PB
+0989,HPB0989,Bharat Surgical & Maternity Centre,Punjab,Barnala,"Handiaya Road, 5 No Street.",148101,PB
+0990,HPB0990,Carewell Heart & Super Speciality Hospital,Punjab,Amritsar,"Model Town, G-T. Road,Near Raiway Station,Amritsar",143001,PB
+0991,HPB0991,Centre For Sight (A Unit Of New Delhi Centrre For Sight Pvt Ltd),Punjab,Mohali,"#35,Phase-7,",160061,PB
+0992,HPB0992,Centre For Sight (Ludhiana),Punjab,Ludhiana,"1St Floor, Sandhu Tower,Bxx-3369, Ferozpur Road,",141001,PB
+0993,HPB0993,Centre For Sight-Chandigarh,Punjab,Chandigarh,"Sco 833-834, Sector -22-A Chandigarh, Punjab",160022,PB
+0994,HPB0994,Centre For Sight-Patiala,Punjab,Patiala,"Dr. Saronwala Complex, Jagdish Ashram Road, Near Rajinder Hospital, Patiala, Punjab.",147001,PB
+0995,HPB0995,Chahal Hospital,Punjab,Bhatinda,"Bibiwala Road,Bathinda",151001,PB
+0996,HPB0996,Chaitanya Hospital,Punjab,Chandigarh,Site No. 1&2 Sector 44/C Chandigarh-160044Chandigarh,160044,PB
+0997,HPB0997,Charak Clinics,Punjab,Mohali,"Scf-85,First Floor,Phase #7,",160062,PB
+0998,HPB0998,Chawla Nursing Home & Hospital,Punjab,Mohali,"# 1&2, Phase 7, Mohali-160055.",160055,PB
+0999,HPB0999,Cheema Medical Complex,Punjab,Mohali,"Phase-4,Near Telephone Exchange, Mohalinear Telephone Exchange",160059,PB
+1000,HPB1000,Choudhary Ent Maternity & General Health Care Centre,Punjab,Amritsar,"Near State Bank Of India Katra-Khazana,",143001,PB
+1001,HPB1001,Christian Medical College & Hospital,Punjab,Ludhiana,"Brown Road,",141008,PB
+1002,HPB1002,Columbia Asia Hospital Pvt Ltd-Patiala,Punjab,Patiala,"#22, Bhupindra Road, Patiala-147001",147001,PB
+1003,HPB1003,Cosmo Medicals Pvt Ltd,Punjab,Mohali,"#8,Phase Viii Sector-62,",160062,PB
+1004,HPB1004,Dayanand Medical College Hospital,Punjab,Ludhiana,"Civil Lines, Tagore Nagar, Ludhiana-141001",141001,PB
+1005,HPB1005,Deep Hospital,Punjab,Patiala,Opp Punjabi University,147002,PB
+1006,HPB1006,Deep Nursing Home,Punjab,Barnala,College Road,148101,PB
+1007,HPB1007,Deep Nursing Home,Punjab,Barnala,Collage Road Barnala-148101,,PB
+1008,HPB1008,Deep Nursing Home & Children Hospital,Punjab,Ludhiana,"481-R,Model Town",141002,PB
+1009,HPB1009,Delhi Nursing Home,Punjab,Bhatinda,Bibiwala Road,151001,PB
+1010,HPB1010,Dhami Eye Care Hospital,Punjab,Ludhiana,# 82-B Kitchlu Nagar Ludhiana - 141001,141001,PB
+1011,HPB1011,Dharam Hospital,Punjab,Chandigarh,"#2040, Sector-15C, Near Traffic Lights",160015,PB
+1012,HPB1012,Dogra Nursing Home & Endoscopy Centre,Punjab,Chandigarh,House No -8 Sector-19 A,160019,PB
+1013,HPB1013,Dr Kundan Lal Hospital,Punjab,Sangrur,"Ahmedgarh,",148021,PB
+1014,HPB1014,Dr Rama Sofat Hospital,Punjab,Ludhiana,"No.435,College Road,Adjacent Malwa Girls Khalsa School,",141001,PB
+1015,HRJ1015,Aastha Kidney & Multispecialty Hospital,Rajasthan,Sriganganagar,"2-D-1, Sukhadia Nagar, Sri Ganganagar, Rajasthan",335001,RJ
+1016,HRJ1016,"Advanced Neurology & Superspeciality Hospital, Jaipur",Rajasthan,Jaipur,"D-358, Brain Tower, Malviyanagar, Jaipur-302017",302017,RJ
+1017,HRJ1017,Ajmer Hospital,Rajasthan,Ajmer,"# 158/X,Civil Lanes, Ajmer-305006.",305006,RJ
+1018,HRJ1018,Akansha Orthopedic Centre,Rajasthan,Kota,"5-A-2, Vigyan Nagar.",324005,RJ
+1019,HRJ1019,Alok Hospital,Rajasthan,Kota,"1-A-5, Sheela Choudhary Road",324005,RJ
+1020,HRJ1020,Amar Medical & Research Centre,Rajasthan,Jaipur,"Kiran Path,Mansarover",302020,RJ
+1021,HRJ1021,Anand Hospital & Eye Centre,Rajasthan,Jaipur,"21, Bharat Mata Lane, Jamna Lal Bajaj Marg, C-Scheme, Jaipur-302001",302001,RJ
+1022,HRJ1022,Anurag Nursing Home,Rajasthan,Jaipur,"60/181,Heerapath,Mansarower",302020,RJ
+1023,HRJ1023,Apex Hospital (P) Ltd,Rajasthan,Jaipur,"Sp 4 & 6 , Mia, Malviya Nagar ,Industrial Area, Jaipur",302017,RJ
+1024,HRJ1024,Aravali Hospital,Rajasthan,Udaipur,"# 332, Ambamata Schemeudaipur, Rajasthan",313004,RJ
+1025,HRJ1025,Archana Hospital,Rajasthan,Jaipur,"Airport Circlr, Sanganer",302011,RJ
+1026,HRJ1026,Arora Hospital(P) Ltd,Rajasthan,Bharatpur,"# 42, Krishnanagar,Bharatpur,",321001,RJ
+1027,HRJ1027,Aruna Aspatal,Rajasthan,Chittorgarh,"#16, Rajeev Coloni, Meera Market, Chittorgarh, Rajasthan",312001,RJ
+1028,HRJ1028,Asg Eye Hospital Ltd-Jaipur,Rajasthan,Jaipur,"D-247, Bihari Marg, Bani Park, Opp. K.P. Auto, Jaipur, Rajasthan",302005,RJ
+1029,HRJ1029,Asg Eye Hospital Ltd-Jodhpur,Rajasthan,Jodhpur,"A-322, Shastri Nagar, Jodhpur, Rajasthan",342003,RJ
+1030,HRJ1030,Asopa Hospital,Rajasthan,Jaipur,"93-B Tagore Nagar, Jaipur, Rajasthan-302024, Near D.C.M.",302024,RJ
+1031,HRJ1031,Bahl Hospital & Medical Research Centre,Rajasthan,Jaipur,"Hanumangarh Road, Chahal Chowk,Sri Ganga Nagar, Rajasthan.",335001,RJ
+1032,HRJ1032,Bani Park Hospital( Heart. Eecp & Multispecialty),Rajasthan,Jaipur,"D-9, Kabir Marg, Bani Park, Jaipur",302016,RJ
+1033,HRJ1033,Bansal Hospital And Research Centre,Rajasthan,Jaipur,"#4, Janakpuri-1St, Imli Phatak.",302005,RJ
+1034,HRJ1034,Bhagwan Mahaveer Cancer Hospital And Research Centre,Rajasthan,Jaipur,"Jawaharlal Nehru Marg, Near Saras Dairy.",302017,RJ
+1035,HRJ1035,Bhandari Hospital,Rajasthan,Jodhpur,"204, Ligh,",342008,RJ
+1036,HRJ1036,Bhandari Hospital & Research Centre(A Unit Of Bhandari Health Care Pvt .Ltd),Rajasthan,Jaipur,"138-A, Vasundhara Colony,Gopalpura By-Pass,Tonk Road,Gopalpura By-Pass, Tonk Road,",302018,RJ
+1037,HRJ1037,Bharat Vikas Parishad Hospital Research Centre,Rajasthan,Kota,"Pratapnagar, Dada Bari.",327008,RJ
+1038,HRJ1038,Bhargava Hospital & Research Centre,Rajasthan,Jhalawar,"Kohli Mohalla Jhalrapatan,Jhalawar",326023,RJ
+1039,HRJ1039,Bikaner Nursing Home,Rajasthan,Bikaner,Pawan Puri,334003,RJ
+1040,HRJ1040,Bone And Joint Hospital & Research Centre Pvt Ltd,Rajasthan,Jodhpur,"3, Shyam Nagar, Near Radha Krishna Mandir, Pal Link Road Jodhapur (Rajasthan) India-342003",342003,RJ
+1041,HRJ1041,Carewell Hospital,Rajasthan,Jaipur,"#471, Adarsh Nagar.",302004,RJ
+1042,HRJ1042,Centre For Sight (Jodhpur),Rajasthan,Jodhpur,"At Ram Rishi Laser Centre, 562, 7Thc Road, Sardarpura, Near Satsang Bhawan.",342001,RJ
+1043,HRJ1043,Chandni Hospital,Rajasthan,Kota,"Kshitij Map 23, Mahavir Nagar.",324005,RJ
+1044,HRJ1044,Chandra Bhushan Hosptial,Rajasthan,Jodhpur,"Opposite Mahamandir Railway Station, Mandore Road",342006,RJ
+1045,HRJ1045,City Hospital,Rajasthan,Sriganganagar,"#45,Model Colony,Sri Ganganagar",335001,RJ
+1046,HRJ1046,Cure Well Hospital,Rajasthan,Jaipur,"1/53-Sfs,Mansarower",302020,RJ
+1047,HRJ1047,D D Eye Institute,Rajasthan,Kota,#631 Dadabari Main Road Near Cad Circle,324009,RJ
+1048,HRJ1048,Daksh Hospital,Rajasthan,Alwar,"#397,Gandhi Nagar,Sch,No 8,Alwar(Rajashtan-301001)",301001,RJ
+1049,HRJ1049,Dawar Eye Hospital,Rajasthan,Sriganganagar,"Meera Chowk,Jawahar Nagar,Sri Gnga Nagar",335001,RJ
+1050,HRJ1050,Deep Hospital & Research Centre,Rajasthan,Jaipur,"Khatipura Road,Satya Nagar Mode Jhotwara,",302012,RJ
+1051,HRJ1051,Deepshikha Orthopaedic Hospital,Rajasthan,Kota,"P-Square, 1-C-19 (Sfs) Talwandi",324005,RJ
+1052,HRJ1052,Devyane Hospital,Rajasthan,Alwar,"Kalakuan, Manumarg, Infront Of Bsnl Colony.",301001,RJ
+1053,HRJ1053,Dhanvantri Hospital & Research Centre,Rajasthan,Jaipur,"67/56-Manasarower,Heerapath",302020,RJ
+1054,HRJ1054,Dhanwantri Hospital & Research Centre,Rajasthan,Jaipur,"New Sagar Road, Mansarovar Jaipur ,",302020,RJ
+1055,HRJ1055,Dr. Ashok Mittal Hospital,Rajasthan,Ajmer,"# 249-A,Main Road, Vaishali Nagar.",305006,RJ
+1056,HRJ1056,Dr. Atray Eye Hospital,Rajasthan,Udaipur,"19-20, Townhall Link Road, Udaipur, Near Corporation Bank, Rajasthan, Udaipur",313001,RJ
+1057,HRJ1057,Dr. Govind Gupta Hospital,Rajasthan,Bharatpur,"#135, Krishna Nagar",321001,RJ
+1058,HRJ1058,Dr. Khunger Eye Care & Research Center Pvt. Ltd.,Rajasthan,Ajmer,"#1109, Near Post Office Opp To Pnb Ramganj, Belwar Road, Ajmer ,Rajasthan",305001,RJ
+1059,HRJ1059,Dr. Khunger'S Eye Care Centre,Rajasthan,Ajmer,"Beawar Road, Near Post Office, Ramganj",305001,RJ
+1060,HRJ1060,Dr. Kothari Eye Hospital,Rajasthan,Ajmer,"G-31, Makarwali Road, Ajmer",305006,RJ
+1061,HTN1061,A A Hospital,Tamilnadu,Hosur,Denkani Kottai Road Mathigiri,635110,TN
+1062,HTN1062,A C Hospital,Tamilnadu,Chennai,"No-8, 3Rd Main Road, United India Nagar, Ayanavaram, Chennai-600023",600023,TN
+1063,HTN1063,A.C. Hospital,Tamilnadu,Salem,"201,2Nd Agraharam",636001,TN
+1064,HTN1064,A.G. Eye Care Hospitals (U Nit Of Dr. A.G. Eye Hospitals Private Limited,Tamilnadu,Chennai,"No. 106, R.K. Mutt Road. Mylapore, Chennai, Tamilnadu",600004,TN
+1065,HTN1065,A.G. Hospital,Tamilnadu,Coimbatore,"34, Kpn Colony 3Rd Street, Tirupur",641601,TN
+1066,HTN1066,A.G. Padmavati'S Hospital Ltd.,Tamilnadu,Pondicherry,"R.S. No.127/A, Villianur Main Road, Arumparthapuram, Puducherry",605110,TN
+1067,HTN1067,A.N.N Hospital,Tamilnadu,Chennai,"81-85,Annai Therasa Street,Valasaravakkam",600087,TN
+1068,HTN1068,A.R.Hospital Pvt Ltd,Tamilnadu,Madurai,"609, K.K.Nagar, Madurai-625020",625020,TN
+1069,HTN1069,A.V. Hospitals,Tamilnadu,Chennai,"# 172, Solaiappan Street, Tondirepet (North Chennai) Near Maharani Theatre",600021,TN
+1070,HTN1070,A.V.M. Hospital A.V.M.M. Associates (P) Ltd,Tamilnadu,Tuticorin,"# 135, Palayamkottai Roadtuticorin",628003,TN
+1071,HTN1071,Aakash Hospital,Tamilnadu,Chennai,"# 393/1, T.H. Road, (Annexe) 393/1, Tiruvottiyur.Tiruvallur",600019,TN
+1072,HTN1072,Aarthi Hospital,Tamilnadu,Tirunelveli,"60,Santhaipettai Street",628502,TN
+1073,HTN1073,Aarthy Eye Hospital,Tamilnadu,Karur,"#16, Sengunthapuram Main Road, Karur.",639002,TN
+1074,HTN1074,Abdul Khadir Hospital,Tamilnadu,Nagercoil,"Parakkai Road,Elankadai,Kottar",629002,TN
+1075,HTN1075,Abhijay Hospital (P) Ltd.,Tamilnadu,Chennai,"No.22/2, E.S.I Hospital Road,Peravallur,",600011,TN
+1076,HTN1076,Abinand Hospital,Tamilnadu,Coimbatore,"237-F/7, Pollachi Main Road,Sundarapuram, Coimbatore",641024,TN
+1077,HTN1077,Abiraami Hospital,Tamilnadu,Cuddalore,"24-Alc,Campus,Manjakuppam",607001,TN
+1078,HTN1078,Acchutha Eye Care,Tamilnadu,Erode,"#H-3, Evn Road, Permar Nagar, Near Surampatti Nall Road, Erode-638009",638009,TN
+1079,HTN1079,Adithya Speciality Hospital,Tamilnadu,Madurai,"277, G.S.T Main Road, Near Harveypatty Bus Stop, Thirunagar, Madurai - 625006",625006,TN
+1080,HTN1080,Aditya Hospital,Tamilnadu,Chennai,"No.7, Barnbay Road, Kilpauk, Chennai-600010",600010,TN
+1081,HTN1081,Adyar P.M. Hospital,Tamilnadu,Chennai,"# 58, L.B. Road, Adyar, Chennai-600020Chennai",600020,TN
+1082,HTN1082,Agash Nursing Home,Tamilnadu,Chennai,"#234, G.S.T. Road, Chromepet",600044,TN
+1083,HTN1083,Ak Hospital,Tamilnadu,Chennai,"360 Poonamallee High Road,Junction Of Ph Rd &",600029,TN
+1084,HTN1084,Akilesh Orthopaedics Hospitals,Tamilnadu,Coimbatore,"95-97, Sasthiri Road, Rammagar.",641009,TN
+1085,HTN1085,Alva Hospital Pvt Ltd,Tamilnadu,Pollachi,"74/A2, Meenkarai Road,Pollachi Coimbatore",642013,TN
+1086,HTN1086,Amaravathi Hospital,Tamilnadu,Karur,"#74, Ramanujam Nagar, Kovai Road, Karur, Tamilnadu.",639002,TN
+1087,HTN1087,Amma Hospital,Tamilnadu,Chennai,"# 1, Sowrastra Nagar7Th Street, Chennai",600094,TN
+1088,HTN1088,Amma Hospital,Tamilnadu,Krishnagiri,"Bangalore Road, Hosur Town",635109,TN
+1089,HTN1089,Ammayi Eye Hospital,Tamilnadu,Chennai,"New # 80, 7Th Avenue, Ashoknagar, Chennai-600083",600083,TN
+1090,HTN1090,Amrit Medicare Pvt Ltd,Tamilnadu,Chennai,"No.310,Mint Street,Near Sowcarpet, Chennai-600079",600079,TN
+1091,HTN1091,Amudha Poly Clinic And Hospital,Tamilnadu,Erode,"101,Athani Road,Sathyamangalam,Erode",638401,TN
+1092,HTN1092,Anand Hospital,Tamilnadu,Chennai,"201, Kamaraj Salai,Manali,Chennaimanali",600068,TN
+1093,HTN1093,Anand Hospitals,Tamilnadu,Tiruppur,"#97/54,Jg Nagar,2Nd Street,60 Feet Road,",641602,TN
+1094,HTN1094,Anbu Hospital,Tamilnadu,Madurai,"No.150/1,Kamarajar Salai,",625009,TN
+1095,HTN1095,Anbu Hospital,Tamilnadu,Tanjore,"# 4,5, Lakshmivilas Street, Kumbakonam",612001,TN
+1096,HTN1096,Andhra Mahila Sabha,Tamilnadu,Chennai,"No.11 & 12, Dr.Durgabaideshmukh Road, R.A.Puram,",600028,TN
+1097,HTN1097,Anjakha Hospital,Tamilnadu,Kanchipuram,"#23,Medavakkam Main Road,Madipakkam",600091,TN
+1098,HTN1098,Annai Ent And Head & Neck Care Centre,Tamilnadu,Erode,"#12D,Palaniappa Street,Perundurai Road",638009,TN
+1099,HTN1099,Annai Hospital,Tamilnadu,Kanyakumari,"5-82/1, Kurumbanai Road, Karungal, Kanyakumari, Tamilnadu",629157,TN
+1100,HTN1100,Annai Velankanni Nursing Home,Tamilnadu,Tirunelveli,"Post Box No.107, Murugan Kurichi, Palayamkottai.",627002,TN
+1101,HTN1101,Annamalai Hospital,Tamilnadu,Chennai,"# 27, Govindan Raod, West Mambalam, Near Srinivasa Theatre",600033,TN
+1102,HTN1102,Annammal Hospital,Tamilnadu,Kuzhithurai,Kuzhithurai,629163,TN
+1103,HTN1103,Anu Hospital,Tamilnadu,Tanjore,"#69,Trichy Road,Very Near To Railway Station",613007,TN
+1104,HTN1104,Aparna Hospital,Tamilnadu,Coimbatore,"450-D,Palaghat Main Road,Kuniamuthu",641008,TN
+1105,HTN1105,Apollo First Med Hospitals,Tamilnadu,Chennai,"No 154, Poonamallee High Road, Near Neyveli House, Kilpauk, Chennai - 6000No 154, Poonamallee High Road, Near Neyveli House, Kilpauk, Chennai - 6000",600010,TN
+1106,HTN1106,Apollo Hospital ( T.H.Road-Chennai),Tamilnadu,Chennai,"#645, T.H.Road, Tondiarpet",600081,TN
+1107,HTN1107,Apollo Hospitals (Greams Road-Chennai),Tamilnadu,Chennai,"#21, Greams Lane,Greams Road, Chennai-600006",600006,TN
+1108,HTN1108,Apollo Hospitals Karaikudi,Tamilnadu,Karaikudi,"Madurai Main Road, Managiri Village Karaikodi, Tamilnadu-630307, Near, Chettinad Public School",630307,TN
+1109,HTN1109,Apollo Speciality Hospital (Chennai),Tamilnadu,Chennai,"No 320 5Th Floor, Padma Complex, Anna Salai, Near Lr Swami Building, Nandanam, Chennai, Tamil Nadu",600035,TN
+1110,HTN1110,Apollo Speciality Hospital (Madurai),Tamilnadu,Madurai,"20,Lake View, Kk Nagar,",625020,TN
+1111,HTN1111,Appasamy Medicare Centre Pvt Ltd,Tamilnadu,Chennai,"23-25, Friends Avenue, Arumbakkam, Chennaiarumbakkam",600106,TN
+1112,HTN1112,Appusami Hospital,Tamilnadu,Salem,"# 8Z/A, Gandhi Road,Salem-636007.",636007,TN
+1113,HTN1113,Arasan Eye Hospital,Tamilnadu,Erode,"#26, Annamalai Layout,Opp To Road Theatre",638011,TN
+1114,HTN1114,Aravind Eye Hospital (Salem),Tamilnadu,Salem,"64, Sankagiri Main Road, Nethimedu, Salem, Tamilnadu-636002, Opposite To Kaliamman Temple",636002,TN
+1115,HTN1115,Aravind Eye Hospital - Coimbatore,Tamilnadu,Coimbatore,"Avanashi Road, Coimbatore-641014Teelametu",641014,TN
+1116,HTN1116,Aravind Eye Hospital - Pondicherry,Tamilnadu,Pondicherry,"Cuddalore Main Road,Abishekapakkam Post,Thavalakuppam, Pondicherry-605007Thavalakuppam",605007,TN
+1117,HTN1117,Aravind Eye Hospital - Theni,Tamilnadu,Theni,"371,Periakulam Road,Allinagaram",625531,TN
+1118,HTN1118,Aravind Eye Hospital - Tirunelveli,Tamilnadu,Tirunelveli,# 1. S.N. High Road,627001,TN
+1119,HTN1119,Aravind Eye Hospital- Madhurai,Tamilnadu,Madurai,"1- Anna Nagar, Madurai-625020Madhurai",625020,TN
+1120,HTN1120,Aravind Eye Hospital-Tirupur,Tamilnadu,Tirupur,"Dharapuram Main Road, K. Chettipalayam, Tirupur, Tamilnadu",641608,TN
+1121,HTN1121,Aravind Sai Eye Hospital,Tamilnadu,Chennai,"# 1, Ganesan Street,Pammal Main Road Krishna Nagar",600075,TN
+1122,HTN1122,Ark Nursing Home,Tamilnadu,Krishnagiri,"29-A, 4Th Cross,Co Operative Colony Near Employment Officeco-Ops Colony",635001,TN
+1123,HTN1123,Arokya Hospital,Tamilnadu,Chennai,"#32, Pillayar Koil Street",600078,TN
+1124,HTN1124,Arthur Astrvatham Hospital,Tamilnadu,Madurai,"No.42-A,Kuruvikaran Salai,",625020,TN
+1125,HTN1125,Arul Hospital,Tamilnadu,Trichy,"#6A,T.V.K.Nagar,Puthur",620017,TN
+1126,HTN1126,Arul Mission Hospital,Tamilnadu,Tirunelveli,"7A1 & 2,North Main Road,Vallioor",627117,TN
+1127,HTN1127,Arun Hospital,Tamilnadu,Madurai,"#186,Munichalai Road,",625009,TN
+1128,HTN1128,Arun Hospital (Pollachi),Tamilnadu,Pollachi,"49/84, New Scheme Roadpollachi Coimbatore",642002,TN
+1129,HTN1129,Arun Hospital (Theni),Tamilnadu,Theni,"51, Uthamapalayam Road,Bus Stand Bodinayakanur",625513,TN
+1130,HTN1130,Arunn Surgery,Tamilnadu,Coimbatore,"Dr.Nanjappa Road,",641018,TN
+1131,HTN1131,Arunpriya Nursing Home,Tamilnadu,Nagapattanam,"3&4, Pattamangalam Street,Nagapattinam",609001,TN
+1132,HTN1132,Arvinth Hospital,Tamilnadu,Namakkal,"# 17, Rangar Sannathi Street,Namakkal- 637001",637001,TN
+1133,HTN1133,Ashok Hosptial,Tamilnadu,Hosur,"#10-A, 1St Cross, Old Banfalore Road, Hosur,",635109,TN
+1134,HTN1134,Ashveny Clinic,Tamilnadu,Sivakasi,"1/6, Periyakaruppan Road,Sivakasi-626189",626189,TN
+1135,HTN1135,Ashwin Hospital,Tamilnadu,Erode,"#212/545,Skc Road,Surampatti Nall Road,",638001,TN
+1136,HTN1136,Ashwin Hospitals,Tamilnadu,Coimbatore,"#1, Alamu Nagar Road,Coimbatore-641012.",641012,TN
+1137,HTN1137,Assured Best Care Hospital,Tamilnadu,Trichy,"#1, Annamalai Nagar Main Road Thillai Nagarannamalai Nagar",620018,TN
+1138,HTN1138,Aswene Soundra Hospital & Research Centre,Tamilnadu,Chennai,"# 24,Kasturi Rangan Road,Teynampet",600018,TN
+1139,HTN1139,Athipathi Hospital And Research Center,Tamilnadu,Chennai,"Plot No 1,100 Ft Rd,Tanni Nagar,Velachary",600042,TN
+1140,HTN1140,Atlas Hospitals,Tamilnadu,Tiruchirapalli,"34/1-First Cross, V.N. Nagar, Near Chathiram Bus Stand, Tiruchirapalli-620002",620002,TN
+1141,HTN1141,Avm Medical Ent Research Fundation,Tamilnadu,Chennai,"3, P.S.S. Road,Mylapore",600004,TN
+1142,HTN1142,Avss Hospitals,Tamilnadu,Madurai,"# 32A, Kuruvikkaran Salai, Madurai-625009",625009,TN
+1143,HTN1143,Aysha Hospital,Tamilnadu,Chennai,"91A Millers Road, Kilpauk",600010,TN
+1144,HTN1144,B M Hospitals,Tamilnadu,Chennai,"36, 5Th Main Road,Thillai Ganga Nagarcheenai",600061,TN
+1145,HTN1145,B.B Hospital,Tamilnadu,Chennai,"No.52,Dayalu Nagar,Kolathur,Near Villirakham Railway Station,",600099,TN
+1146,HTN1146,B.G Hospital,Tamilnadu,Tiruchendur,"1/143-B,Tuticorin Road,Veerapandianpatnam, Tiruchendur",628216,TN
+1147,HTN1147,B.M.Orthopaedic Hospital,Tamilnadu,Chennai,"No.3/157, Mth Road, Ambattur,Chennai - 53",600053,TN
+1148,HTN1148,B.M.Silver Jubilee Multi Speciality Hospital,Tamilnadu,Kanchipuram,"41, Dharga Road, Pallavaram, Kancheepuram, Chennai-600043",600043,TN
+1149,HTN1149,B.P.Jain Hospital,Tamilnadu,Kanchipuram,"Plot No.6,Gokulam Colony,Anna Salai,Pammal,Kanchipuram",600075,TN
+1150,HTN1150,B.R. Hospital,Tamilnadu,Thiruvallur,"10&12, Alamaram Street, Tiruttani.",631209,TN
+1151,HTN1151,B.S. Hospital,Tamilnadu,Chennai,"# 16, 3Rd Main Road,Chitlapakkam,",600064,TN
+1152,HTN1152,B.S.S. Hospital,Tamilnadu,Chennai,"New No 200, Old # 179/1, R.K. Mutt Road, Mandaveli,",600028,TN
+1153,HTN1153,Babus Maternity Hosptial,Tamilnadu,Chennai,"# 7, Doraisamy Reddy Street, Tabaram",600045,TN
+1154,HTN1154,Bagdi Nursing Home,Tamilnadu,Chennai,"3Rd Floor, #10, Solaiappan Streett.Nagar",600017,TN
+1155,HTN1155,Balagangadhara Varma Nursing Home & Research Center,Tamilnadu,Chennai,"No 17, First Main Road,Narayanapuram",601302,TN
+1156,HTN1156,Balaji Hospital,Tamilnadu,Chengalpattu,"No.14,Varadanar Street,Vedachalanagar,Chengalpattuvedachala Nagar",603001,TN
+1157,HTN1157,Balaji Surya Hospital,Tamilnadu,Erode,"#129,Pollachi Road,Dharapuram",638656,TN
+1158,HTN1158,Balakrishna Eye Hospital & Eye Research Centre,Tamilnadu,Chennai,"11, Sastri First Cross Street, Chennai, Tamilnadu",600015,TN
+1159,HTN1159,Bappu Clinic & Nursing Home,Tamilnadu,Chennai,"#46, Kalaingar Main Road,Srinivasa Nagar, Perungalatur,",600063,TN
+1160,HTN1160,Be Well Hospitals Pvt Ltd,Tamilnadu,Pondicherry,"No. 15, Lawspet, Green Garden, Ecr, Pondicherry, Shenbaga Motors (Maruthi Show Room)",605008,TN
+1161,HTN1161,Bejan Singh Eye Hospital Pvt Ltd,Tamilnadu,Kanyakumari,"No.2/1,313C,M.S.Road,Vettoornimadam,Nagercoil,",629003,TN
+1162,HTN1162,Bethel Hospital (P) Ltd,Tamilnadu,Coimbatore,"# 223, Dr. Rajendra Prasad Road.",641012,TN
+1163,HTN1163,Bgm Hospital,Tamilnadu,Madurai,"1/249,New Nathan Road,Iyyer Bungalow",625014,TN
+1164,HTN1164,Bhagwan Mahaveer Eye Hospital,Tamilnadu,Chennai,"# 142, M.S. Koil Street, Royapuram.",600013,TN
+1165,HTN1165,Bharani Paventhan Multi Speciality Hospital,Tamilnadu,Erode,"74, Sampath Nagar Erode Tamilnadu",638011,TN
+1166,HTN1166,Bharath Hospital,Tamilnadu,Chennai,"# 72, I St Main Road,Nanganallur",600061,TN
+1167,HTN1167,Bharathi Hospital,Tamilnadu,Virudhunagar,"# 592/2,Sri Renga Palayam,Rajapalayam",626117,TN
+1168,HTN1168,Billroth Hospital Limited,Tamilnadu,Chennai,"#43, Lakshmi Takis Rd,Shenay Nagarshenoy Nagar, Chennai",600030,TN
+1169,HTN1169,Billroth Hospitals - Ra Puram,Tamilnadu,Chennai,"#52, 2Nd Main Road, Raja Annamalai Puram,Raja Annamalai Puram",600028,TN
+1170,HTN1170,Brs Hospital Pvt.Ltd,Tamilnadu,Chennai,No.28. Cathedral Garden Roadcathedral Gardens Road,600034,TN
+1171,HTN1171,C.K. Hospital,Tamilnadu,Erode,"# 41, Balasubbarayalu Streeterode",638001,TN
+1172,HTN1172,C.S.I. Kalyani General Hospital,Tamilnadu,Chennai,"15, Dr Radhakrishnan Salai, Mylapore, Chennai-600004, Next To City Centre",600004,TN
+1173,HTN1173,C.S.I. Rainy Multi-Speciality Hospital,Tamilnadu,Chennai,"#45, G.A. Road Chennai",600021,TN
+1174,HTN1174,C.S.M Nursing Home,Tamilnadu,Chennai,"# 18, Rukmani Street,West Mambalam",600033,TN
+1175,HTN1175,Cauvery Trust Hospital,Tamilnadu,Chennai,"No.36,Ponnankinaru Street,Villivakkam,",600049,TN
+1176,HTN1176,Chandra Hospital,Tamilnadu,Madurai,"# 10, Pillayarpalayam Road",625001,TN
+1177,HTN1177,Chennai Eye Care Hospital,Tamilnadu,Chennai,"#6,12Th Cross Street,Dhandeeswaran Nagar,Velachery",600042,TN
+1178,HTN1178,Chennai Krishna Hospital,Tamilnadu,Chennai,"No.297, Gst Road, Near Mit Flyover, Chromepet, Chennai, Tamilnadu",600044,TN
+1179,HTN1179,Chennai Meenakshi Multispeciality Hospital Ltd.,Tamilnadu,Chennai,"# 148, Luz Church Road, Malapore, Chennai, Tamilnadu.",600004,TN
+1180,HTN1180,Chettinad Super Speciality Hospital (Cssh)-(A Unit Of Rajah Muthiah Charitable And Educational Trust),Tamilnadu,Chennai,"I.T. Highway,Kelambakkam",603103,TN
+1181,HTN1181,Child Jesus Hospital,Tamilnadu,Trichy,"P Box No 17, Cantonment, Tiruchirappalli, Trichy-620001Near To All India Radio Station",620001,TN
+1182,HTN1182,Chitra Kalyana Raman Nursing Home,Tamilnadu,Salem,"56,A/1,Rajaji Road",636007,TN
+1183,HTN1183,Chitras Ent Laser Surgery Super Speciality Hospital,Tamilnadu,Chennai,"30C, Cathedral Garden Lane,Nungambakkam.",600034,TN
+1184,HTN1184,Christian Hospital,Tamilnadu,Madurai,"Vaigai Dam Road, Periyakulam,Perivakulam- 625 601",625601,TN
+1185,HTN1185,Christudas Orthopaedic Speciality Hospital,Tamilnadu,Chennai,"#9.Duraiswamy Ngr. I.A.F. Road, Tamilnadu Chennai 59",600059,TN
+1186,HTN1186,City Hospital,Tamilnadu,Erode,"#87,Rkv Road,Near Chennai Silks",638003,TN
+1187,HTN1187,City Hospital,Tamilnadu,Tuticorin,"106, G/8A, Palai Main Road (W)Millerpuram Corner,",628008,TN
+1188,HTN1188,City Hospital Pavalam Trauma Centre,Tamilnadu,Dindigul,4/361 Gandhiji Nagar Trichy Road,624005,TN
+1189,HTN1189,Clinic Nallam,Tamilnadu,Pondicherry,"86,Eswaran Koil Street",605001,TN
+1190,HTN1190,Coimbatore Bone And Joint Foundation Pvt Ltd,Tamilnadu,Coimbatore,"#1091-Mettupalayam Road,North Coimbatore Bus Stop,R.S.Puram",641002,TN
+1191,HTN1191,Coimbatore Kidney Centre,Tamilnadu,Coimbatore,"738-B, Puliakulam Road, Coimbatore, Tamilnadu",641045,TN
+1192,HTN1192,Crescent Hospitals,Tamilnadu,Madurai,"37/1,Sivaganga Road,Opp To Aavin Milk Project",625020,TN
+1193,HTN1193,Csi Hospital,Tamilnadu,Kanchipuram,No.21.Hospital Roadkanchipuram,631502,TN
+1194,HTN1194,Csr Nursing Home,Tamilnadu,Coimbatore,"# 272, 7Th Street Extension,Gandhipuram, Coimbatore-641012",641012,TN
+1195,HTN1195,D.S.K. Hospital,Tamilnadu,Coimbatore,"# 19, Kadirnagar, Kangeyam Road, Tirupur.",641604,TN
+1196,HTN1196,Darshan Surgical Centre Llp,Tamilnadu,Chennai,"Block T-80, New No-24 5Th Main Road",600040,TN
+1197,HTN1197,Deepa Kannan Hospital,Tamilnadu,Karur,"# 33,Muthunagar,Karur",639002,TN
+1198,HTN1198,Deepam Eye Hospital,Tamilnadu,Chennai,"#72,Medavakkam,Tank Road,Kilpauk",600010,TN
+1199,HTN1199,Deepam Hospital,Tamilnadu,Chennai,"#327, Muthurangam Road,Tambaram(West),Kanchipuram,West Tambaram",600045,TN
+1200,HTN1200,Deepam Hospital,Tamilnadu,Coimbatore,"687, Trichy Road.",641045,TN
+1201,HTN1201,Deepam Hospital,Tamilnadu,Valapady,"#128,Ayya Gounder Street,Opp Police Station",636115,TN
+1202,HTN1202,Deepam Hospital Ltd,Tamilnadu,Chennai,"30, Ayyasamy Street,",600044,TN
+1203,HTN1203,Deepam Hospital Ltd,Tamilnadu,Chennai,"107-A, Gst Road, Chennai",600044,TN
+1204,HTN1204,Deepika Eye Care Hospital,Tamilnadu,Kanchipuram,"1564/4D,Chengalpet Road",602105,TN
+1205,HTN1205,Deepthi Hospital,Tamilnadu,Namakkal,"31-A,Mohanur Road",637001,TN
+1206,HTN1206,Devadoss Multispeciality Hospital,Tamilnadu,Madurai,"#75/1,Alagarkovil Main Roadsurveyor Colony,",625007,TN
+1207,HTN1207,Devaki Cancer Institute,Tamilnadu,Madurai,"#26,Theni Main Road,Arasaradi,Near Bypass Road",625016,TN
+1208,HTN1208,Devaki Hospital,Tamilnadu,Sivagangai,"No.6/1,Kamban Mani Mandapam Road,Karaikudi,",630001,TN
+1209,HTN1209,Devi Priya Hospital,Tamilnadu,Madurai,"12/54, A2G, T.B. Road,Usilampattiusilampatti, Madurai-625532.",625532,TN
+1210,HTN1210,Dharan Hospital,Tamilnadu,Salem,"14,Seela Naicken Patti By Pass. On A National Highway Salem",636201,TN
+1211,HTN1211,Dhiviya Nursing Home,Tamilnadu,Erode,"306, Chennimalai Road, Kangayam",638701,TN
+1212,HTN1212,Dinesh Nursing Home,Tamilnadu,Madurai,"No.6-1-33,West Street,Viswanathapuram, Madurai-625014",625014,TN
+1213,HTN1213,Doctor Rex'S Hospital,Tamilnadu,Chennai,"# 37, Millers Road, Kilpauk",600010,TN
+1214,HTN1214,Dr Agarwal'S Eye Hospital Ltd,Tamilnadu,Chennai,"19, Cathedral Road",600086,TN
+1215,HTN1215,Dr Agarwal'S Eye Hospital Ltd (Nanganallur),Tamilnadu,Nanganallur,"Ophthalmology Dept Margreet Sydney Hospital No 13, 2Nd Street Nanganallur Chennai-600061",600061,TN
+1216,HTN1216,Dr Agarwals Eye Hospital Ltd,Tamilnadu,Chennai,"#107, A Block 3Rd Avenue Anna Nagar Near",600040,TN
+1217,HTN1217,Dr Agarwals Eye Hospital Ltd,Tamilnadu,Chennai,"#33,7Th Avenue,Ashok Nagar",600083,TN
+1218,HTN1218,Dr Agarwals Eye Hospital Ltd,Tamilnadu,Chennai,"No-6, Duraisamy Street Tdk Towers Tambaram",600045,TN
+1219,HTN1219,Dr Agarwals Eye Hospital Ltd,Tamilnadu,Kanchipuram,"#32-B,Indiragandhi Road Opp Taluk Office",631502,TN
+1220,HTN1220,Dr Agarwals Eye Hospital Ltd (Dharmapuri),Tamilnadu,Dharmapuri,"136 1St Floor,Nethaji Bye Pass Road",636701,TN
+1221,HTN1221,Dr Agarwals Eye Hospital Ltd (Gopalapuram),Tamilnadu,Chennai,Retina Foudation No 31 1St Street Gopalapuram,600086,TN
+1222,HTN1222,Dr Agarwals Eye Hospital Ltd (Kumbakonam),Tamilnadu,Kumbakonam,"2/381, Indiranagar,Kumbakonam",612001,TN
+1223,HTN1223,Dr Agarwals Eye Hospital Ltd (Periyar Nagar),Tamilnadu,Chennai,"B-63, Siva Elango Salai 70Feet Road, Periyar Nagar",600082,TN
+1224,HTN1224,Dr Agarwals Eye Hospital Ltd (Salem),Tamilnadu,Salem,"#114/7,Gandhi Road,Salem",636007,TN
+1225,HTN1225,Dr Agarwals Eye Hospital Ltd (Villupuram),Tamilnadu,Villupuram,"#19, Trichy Trunk Road,Near To Villupuram Signal",605602,TN
+1226,HTN1226,Dr Kamakshi National Hospital,Tamilnadu,Chennai,No 12 Jaffer Serang Streetsecond Line Beach Chennai,600001,TN
+1227,HTN1227,Dr Lankesh Eye Hospital Pvt Ltd,Tamilnadu,Ashok Nagar,No-2 41St Street. 6Th Avenue. Ashok Nagarashok Nagar,600083,TN
+1228,HTN1228,Dr Manoharan Hospital,Tamilnadu,Coimbatore,"No.1210,Thadagam Road,Near To Aavin Milk Company,R.S. Puram,",641002,TN
+1229,HTN1229,Dr. A. Ansari Hospital,Tamilnadu,Nagapattanam,"# 20, Naganathar Sannadhi, Nagapattinam, Tamilnadu",611001,TN
+1230,HTN1230,Dr. A. Govindarajan Eye Hospitals,Tamilnadu,Trichy,"No: 6, Officer'S Colony, Puthur Tiruchirapalli-620017Trichy",620017,TN
+1231,HTN1231,Dr. Arvind Vision Care,Tamilnadu,Chennai,"#61, Reddy Palayam Road, Mogappair West, Chennai, Tamilnadu",600037,TN
+1232,HTN1232,Dr. G.C. Hospital,Tamilnadu,Karur,"#30, North Pradakshanam Road, Karur, Tamilnadu.",639001,TN
+1233,HTN1233,Dr. Grace George Hospital,Tamilnadu,Chennai,"# 34, Udayavar Koil Street,Thirumizhisai, Poonamalee.",600029,TN
+1234,HTN1234,Dr. Jacquline Divyananda (Divya Hospital),Tamilnadu,Chennai,"# 20, Medavakkam Main Road, Madipakkam",600091,TN
+1235,HTN1235,Dr. Jeyasekharan Medical Trust,Tamilnadu,Nagercoil,"#1159, K.P. Road, Nagerkoil.",629003,TN
+1236,HTN1236,Dr. K.M. Nallaswamy Hospital,Tamilnadu,Erode,"#93, Power House Road,Erode",638001,TN
+1237,HTN1237,Dr. Kumaraswami Health Centre ( A Unit Of Indian Medical Centre),Tamilnadu,Kanyakumari,"N.H. Road # 47, 1/4C,1/4D,1/4E Perumalpuramperumalpuram, Kanyakumari.",629703,TN
+1238,HTN1238,Dr. Loganathan Orthopaedic Hospital,Tamilnadu,Erode,"606/A, Mettur Main Road, Bhavani,",638301,TN
+1239,HTN1239,Dr. Mehta'S Multispeciality Hospital Pvt Ltd.,Tamilnadu,Chennai,"2 (E), Mc. Nicholas Road, Chennai, Opposite To Chetpet Police Station.",600031,TN
+1240,HUP1240,A.K.G. Surgical Centre,Uttar Pradesh,Aligarh,"# 225, Avas Vikas Colony,Masoodabad Chouraha Gt Roadmasoodabad Chouraha,G.T.Road,",202001,UP
+1241,HUP1241,Aarogya Hospital (A Unit Of Kastura Medicos Limited,Uttar Pradesh,Vaishali,"Plot No-Nh-1, Sec-6, Vaishali, Ghaziabad, Uttar Pradesh",201010,UP
+1242,HUP1242,Aayushmaan Hospital,Uttar Pradesh,Bijnor,Kiratpur Road,246701,UP
+1243,HUP1243,Abha Nursing Home (P) Ltd,Uttar Pradesh,Kanpur,"10/503-B, Allengami, Kanpur",208002,UP
+1244,HUP1244,Abhinav Drishti Eye Hospital,Uttar Pradesh,Lucknow,"B-719, Sector-C, Mahanagar Lucknow",226006,UP
+1245,HUP1245,Adinath Hospital,Uttar Pradesh,Ghaziabad,Plot No 330 Gyan Khand 1 Indirapuram Ghaziabad,201010,UP
+1246,HUP1246,Aditi Medical Centre,Uttar Pradesh,Ghaziabad,"Sector-4, Plot No-117, Near Ramlila Ground.",201012,UP
+1247,HUP1247,Agrawal Eye Hospital,Uttar Pradesh,Meerut,61 Shivaji Road Near Nas College,250001,UP
+1248,HUP1248,Ajanta Hospital & Ivf Centre Pvt Ltd,Uttar Pradesh,Lucknow,"#765, Near Krishna Cinema, Kanpur Road, Alambagh.",226005,UP
+1249,HUP1249,Ajay Hospital,Uttar Pradesh,Meerut,"Bhopal Vihar, Garh Road, (Near -Radha Govind Engineering College), Meerut, Uttar Pradesh",250004,UP
+1250,HUP1250,Ajay Pratima Hospital,Uttar Pradesh,Bareilly,"57, Brijlok, Near Prem Nagar Dharam Kanta Bareilly",243005,UP
+1251,HUP1251,Akshi Eye Care Centre,Uttar Pradesh,Kanpur,"2/344-A, Azad Nagar,Kanpur-200002.",200002,UP
+1252,HUP1252,Alliance Hospital,Uttar Pradesh,Varanasi,"C-20/1-73,Ramakant Nagar Colony, Varanasi, Uttar Pradesh",221010,UP
+1253,HUP1253,Ambay Hospital,Uttar Pradesh,Ghaziabad,"1, Lajpat Nagar, Near St. Thomas School.",201005,UP
+1254,HUP1254,Amit Jaggi Memorial Hospital,Uttar Pradesh,Agra,"Sector-1, Vibhav Nagar,Agra-282001.",282001,UP
+1255,HUP1255,Anand Hospital,Uttar Pradesh,Allahabad,"11/17 Kasturba Gandhi Marg , Up, Allahabad Muir Road",211001,UP
+1256,HUP1256,Anand Hospital (Multispeciality),Uttar Pradesh,Azamgarh,"Mukeriganj, Azamgarh, Uttar Pradesh",276001,UP
+1257,HUP1257,Anand Nirogdham Hospital Pvt Ltd,Uttar Pradesh,Meerut,"#A,1 Damodar Colony,Garh Road,",250004,UP
+1258,HUP1258,Anand Nursing Home,Uttar Pradesh,Ghaziabad,"Kf-113, New Kavi Nagar.",201002,UP
+1259,HUP1259,Anupam Jyoti Medical Centre,Uttar Pradesh,Noida,"C-38A, Rajat Vihar, Sector-62.",201301,UP
+1260,HUP1260,Apex Welcare Pvt Ltd ( Apex Hosptial),Uttar Pradesh,Varanasi,"Near Dlw & Hydil, Varanasi-221004",221004,UP
+1261,HUP1261,Arogyadham,Uttar Pradesh,Bareilly,"B-51, Rajendranagar",243122,UP
+1262,HUP1262,Arushi Medical Centre,Uttar Pradesh,Lucknow,"B-1/31, Sector-K, Aliganj, Lucknow - 226024",226022,UP
+1263,HUP1263,Ashirwad Hospital & Research Centre,Uttar Pradesh,Varanasi,"B-38/1-C, Virdopur, Mahmorganj, Varanasi-221010",221010,UP
+1264,HUP1264,Asopa Hospital & Research Centre,Uttar Pradesh,Agra,"Garland Road, Off By Pass.",282007,UP
+1265,HUP1265,Astha Hospital,Uttar Pradesh,Noida,"N.H-05, Block-2, Sector-Alpha-2, Greaer Noida-201306",201306,UP
+1266,HUP1266,Atul Nursing Home,Uttar Pradesh,Agra,"#1/58, Delhi Gate, Opp. Pushpanjali Hospital, Agra-282002",282002,UP
+1267,HUP1267,Avadh Hospital & Heart Centre,Uttar Pradesh,Lucknow,"9-D, Singar Nagar, Kanpur Road.",226005,UP
+1268,HUP1268,Avantika Hospital,Uttar Pradesh,Ghaziabad,"No.137,Niti Khand-Ii,Indirapuram,",201010,UP
+1269,HUP1269,Ayushman Hospital & Trauma Centre,Uttar Pradesh,Varanasi,"J25/59, Alaipur, G.T. Road, Infornt Of Varanasi City Railway Station, Varanasi-221001",221001,UP
+1270,HUP1270,Azra Memorial Hospital,Uttar Pradesh,Lucknow,"Water Works Road, Aishbagh Opp Ramleela Maidan Opp Ramleela Maidan Besides Aishbabagh Eidgah",226003,UP
+1271,HUP1271,B.K.Heart Hospital Pvt Ltd,Uttar Pradesh,Varanasi,"N 7/1,R-12,Bhikharipur,Dlw,Bhu,Varanasi",221004,UP
+1272,HUP1272,Bhardwaj Hospital,Uttar Pradesh,Noida,"Nh-1, Sector-29,Gautam Budh Nagar",201301,UP
+1273,HUP1273,Bhargava Hospital,Uttar Pradesh,Kanpur,"15/263, Civil Lines, Kanpur",208001,UP
+1274,HUP1274,Bhola Hospital,Uttar Pradesh,Allahabad,"# 12/13, Lowther Road,Dar Bhanga Colony,Darbhanga Colony, Allahabad.",211002,UP
+1275,HUP1275,Bhupal Hospital & Research Centre,Uttar Pradesh,Meerut,"#159, College Road, Adjacent To Ganaga Plaza.",250002,UP
+1276,HUP1276,Brij Medical Center,Uttar Pradesh,Ghaziabad,"Kk 54, Kavi Nagar,Ghaziabad (Up)",201002,UP
+1277,HUP1277,Brij Medical Centre Pvt Ltd,Uttar Pradesh,Kanpur,"# 94, E-Block, Near Panbi Police Station.",208020,UP
+1278,HUP1278,Central Hospital,Uttar Pradesh,Aligarh,"Masoodabad Crossing,G.T. Road, Aligarh-202001.",202001,UP
+1279,HUP1279,Centre For Sight (Agra),Uttar Pradesh,Agra,"116, Delhi Gate, Agra. U.P",282003,UP
+1280,HUP1280,Centre For Sight (Moradabad),Uttar Pradesh,Moradabad,"At Vivekanand Hospital &Research Centre, Kanth Road, Moradabad",244001,UP
+1281,HUP1281,Cfs Netralaya Pvt Ltd Meerut (Centre For Sight),Uttar Pradesh,Meerut,"E K Road, Opp:Nas College, Meerutmeerut",250001,UP
+1282,HUP1282,Cfs Netralaya Pvt. Ltd. (A Unit Of New Delhi Centre For Sight Pvt Ltd),Uttar Pradesh,Meerut,"#194/15,Opp Adwaysworkshop,Delhi Road,",250001,UP
+1283,HUP1283,Chandni Hospital,Uttar Pradesh,Kanpur,"9/60, Arya Nagar.",208002,UP
+1284,HUP1284,Chandra Laxmi Hospital,Uttar Pradesh,Ghaziabad,"Sector-4, Plot # 337, Vaishali",201010,UP
+1285,HUP1285,Chandra Mother & Eye Care,Uttar Pradesh,Lucknow,"4/43,Vivek Khand,Gomti Nagar",226010,UP
+1286,HUP1286,Chandralok Hospital,Uttar Pradesh,Bareilly,Pilibhit Bypass Road Barelly U P 243006,243006,UP
+1287,HUP1287,City Hospital& Trauma Centre,Uttar Pradesh,Lucknow,"C-1, Cinder Dump Complex.Opp Krishna Cinema Hall",226005,UP
+1288,HUP1288,Columbia Asia Hospital Pvt.Ltd-Ghaziabad,Uttar Pradesh,Ghaziabad,"Nh-24, Hapur Road, Opp.Bhameta Village Near Land Craft Golf Links, Ghaziabad, Uttar Praesh",201001,UP
+1289,HUP1289,Dayanand Nursing Home,Uttar Pradesh,Meerut,"47/L-4, Jawahar Quarters Begum Bridge Road",250001,UP
+1290,HUP1290,Deoki Hospital,Uttar Pradesh,Lucknow,"Ahibaranpur,Sitapur Road,",226020,UP
+1291,HUP1291,Dev Nandini Hospital,Uttar Pradesh,Hapur,"Garh Road,Hapur",245101,UP
+1292,HUP1292,Devishiv Hospital,Uttar Pradesh,Lucknow,"B-328-B, Sector B, Mahanagar",226006,UP
+1293,HUP1293,Dey'S Hospital,Uttar Pradesh,Kanpur,"491, Kazi Khera, Lal Bangla, Kanpur, Uttar Pradesh-208007, Near Poonam Talkies",208007,UP
+1294,HUP1294,Dhama Clinic & Medical Centre,Uttar Pradesh,Noida,"C-46, Sector-34, Noida",201307,UP
+1295,HUP1295,Dhanvantri Jeevan Rekha Ltd,Uttar Pradesh,Meerut,Umber One Near Gol Market,250003,UP
+1296,HUP1296,Dhanwantari Tomer Hospital,Uttar Pradesh,Bareilly,"35-A-2/11, Rampur Bagh.",243001,UP
+1297,HUP1297,Divine Heart Hospital & Resesarch Centre,Uttar Pradesh,Lucknow,"Virajkhand-5,Gomti Nagar",226010,UP
+1298,HUP1298,Dr M Prakash Hospital & Medical Research Centre,Uttar Pradesh,Meerut,Begum Bridge Road Gic Near Meerect,250001,UP
+1299,HUP1299,Dr. G.K. Srivastava Hospital Pvt Ltd,Uttar Pradesh,Bareilly,"13-D, Rampur Garden.",243001,UP
+1300,HUP1300,Dr. Jawaharlal Rohatgi Smarak Netra Chikitsalaya,Uttar Pradesh,Kanpur,"117/52, Sarvodaya Nagar,Near Bhoot Nath Mandhir.",208005,UP
+1301,HUP1301,Dr. Jialal Memorial Hospital Pvt Ltd,Uttar Pradesh,Jhansi,"Opp. Medical College, Gate-2",284003,UP
+1302,HUK1302,Brijlal Hospital & Research Centre Pvt Ltd,Uttarakhand,Nainital,"Anandi Tower,Nainital Road",263139,UK
+1303,HUK1303,Bombay Hospital & Research Centre,Uttarakhand,Haldwani,"Near Saurabh Hotel,Avas Vikas Road,Near Comfort Inn Saurabh Hotel",263139,UK
+1304,HUK1304,City Hospital,Uttarakhand,Hardwar,Super Complex Ranipur More Haridwaruk,249407,UK
+1305,HUK1305,Combined Medical Institute (P) Ltd,Uttarakhand,Dehradun,"54, Harawar Road Dehradun-248001",248001,UK
+1306,HUK1306,Dr. Kamra'S Urinary & Surgical Diseases Centre,Uttarakhand,Dehradun,"8, Inder Road,",248001,UK
+1307,HWB1307,Aditya Health Research Foundation (P) Ltd,West Bengal,Kolkata,"965, Jessore Road, Dumdum,Kolkata",700055,WB
+1308,HWB1308,Aditya Medical Park (A Unit Of Aditya Health Research Foundation Pvt Ltd),West Bengal,Kolkata,"Taki Road, Kadambagachi, Barasat, 24 Parganas (N)Barasat-700124",700124,WB
+1309,HWB1309,All Asia Medical Institute (A Unit Of Harsh Medical Centre Pvt Ltd).,West Bengal,Kolkata,8B Garcha First Lane,700019,WB
+1310,HWB1310,Alpha Medical Services (Pvt) Ltd,West Bengal,Kolkata,"21/1, Dobson Road Howrahmaulana Abul Kalam Azad Rd",711101,WB
+1311,HWB1311,Alpha Medical Services Pvt Ltd,West Bengal,Kolkata,"#13, Lalalajpat Rai Sarani Elgin Road.",700020,WB
+1312,HWB1312,Amri Hospitals Ltd,West Bengal,Kolkata,"Jc 16 & 17, Salt Lake City, Sector - Iii, Annexe Build. Kb 24, Salt Lake City, Sector - Iii, Kolkata",700098,WB
+1313,HWB1313,Amri Medical Center,West Bengal,Kolkata,"97A, Southern Avenue, Opp To Lake Stadium, Kolkata-700029",700029,WB
+1314,HWB1314,Amulya Jyoti Eye Foundation,West Bengal,Kolkata,"#105,Manoharpukur Road,",700029,WB
+1315,HWB1315,Anandaloke Hospital & Neurosciences Centre,West Bengal,Siliguri,"2Nd Mile,Sevoke Road,",734001,WB
+1316,HWB1316,Anandlok Hospital,West Bengal,Kolkata,"Dk-713,Salt Lake City, Sector-Ii, Kolkata.",700091,WB
+1317,HWB1317,Angel Maternity & Nursing Home,West Bengal,Kolkata,"No.3,Komedan Bagan Lane,Near Jora Girja Corporation ,Garage On Ajc Bose Road,",700016,WB
+1318,HWB1318,Apex Institute Of Medical Sciences.,West Bengal,Kolkata,"1219, Survey Park, Santoshpur, Kolkata-700075. Hi-Land Park, Big Bazar",700075,WB
+1319,HWB1319,Apollo Gleneagles Hospitals Ltd.,West Bengal,Kolkata,"58, Canal Circular Road,Kolkatta-700054",700054,WB
+1320,HWB1320,Arunodaya Health Care,West Bengal,Hooghly,"Lichubagan, Po-Garalgacha,P.S-Dankuni.",712708,WB
+1321,HWB1321,Aurobindo Netralaya,West Bengal,Kolkata,"4A,Rajendra Beb Road,",700007,WB
+1322,HWB1322,Ayub Ansari Nursing Home,West Bengal,Kolkata,"Q-39,S.A.Farooquie Road,Metiabru,",700024,WB
+1323,HWB1323,B M Birla Heart Research Centre,West Bengal,Kolkata,"1/1, National Library Avenue",700027,WB
+1324,HWB1324,B.P. Poddar Hospital & Medical Research Ltd,West Bengal,Kolkata,"71/1, Humayun Kabir Sarani,New Alipore,Blk-G,New Alipore, Block-G,Kolkata",700053,WB
+1325,HWB1325,Bangur Medicare Research Institute,West Bengal,Kolkata,"No.8A,Diamond Harbour Road,24 Parganas(S),3A Bus Stand-Thakurpukur,",700063,WB
+1326,HWB1326,Bankura Nursing Home,West Bengal,Bankura,"Patpur,Bankura",722101,WB
+1327,HWB1327,Bansal Nursing Centre (A Unit Of Pahari Mata Medical (P) Ltd),West Bengal,Howrah,"# 20, Dobson Road,Howrah-711101.",711101,WB
+1328,HWB1328,Bargachia Nursing Home,West Bengal,Howrah,"Bargachis, J.B.Pur, Opp Petrol Pump.",711404,WB
+1329,HWB1329,Barrackpore Medicare & Recovery Centre Ltd,West Bengal,Titagarh,"No.6/6,B.T.Road,Talpukur,Titagarh,24-Parganas(North)",700123,WB
+1330,HWB1330,Bellona Nursing Home And Diagnostic Centre Private Limited,West Bengal,Kolkata,"51 A, Diamond, Harbour Road, Mominpur Crossing.",700027,WB
+1331,HWB1331,Benuban Health Care & Diagnostic Centre,West Bengal,Howrah,"Bultikuri,Near Japani Gate Esi Hospital",711113,WB
+1332,HWB1332,Bindubasini Nursing Home,West Bengal,North24Paraganas,"76, Madhusudan Banerjee Road, Birati",700051,WB
+1333,HWB1333,Birati Nursing Home Pvt Ltd,West Bengal,Kolkata,"No.2,Gopal Jew Mandir Road,Birati,24 Parganas(North),",700051,WB
+1334,HWB1334,Brws Hospital,West Bengal,Garia,"Kendua Main Road,",700084,WB
+1335,HWB1335,Calcutta Lions Netra Niketan (Unit Of Lions Club Of Calcutta Trust),West Bengal,Kolkata,"1/2/A/2,Uday Sankar Sarani, Golf Green, Near Golf Green Door Darshan Kendra,South 24 Parganas",700095,WB
+1336,HWB1336,Capitol Nursing Home Pvt Ltd,West Bengal,Kolkata,"288/2 Ap C Road,(Ps Narkeldanga)(P S Narkeldanga)",700009,WB
+1337,HWB1337,Care And Cure Hospital,West Bengal,Kolkata,"Surendra Nath Road, Nabapally,Barasat Dt,24Parg North,West Bengalbarasatdist 24 Parg(N)",700126,WB
+1338,HWB1338,Charnock Hospitals Pvt Ltd,West Bengal,North24Paraganas,"Megacity Approach Road,24 Oarganas.",700059,WB
+1339,HWB1339,Charring Cross Nursing Home (P) Ltd.,West Bengal,Kolkata,"2C. Motilal Basak Lane, Kolkata-700054, Kankurgachi, Subash Mala Parkkolkata",700054,WB
+1340,HWB1340,Columbia Asia Hospital,West Bengal,Kolkata,"Ib,193,Sector. 3, Salt Lake, Kolkata-700091",700091,WB
+1341,HWB1341,Dafodil Nursing Home(P),West Bengal,Kolkata,"# 276 Canal Street,",700048,WB
+1342,HWB1342,Debipur Netralaya Pvt Ltd,West Bengal,Burdwan,"Near Kristi Cinema Hall,Memari, Burdwan",713146,WB
+1343,HWB1343,Desun Hospital & Heart Institute,West Bengal,Kolkata,"Em By Pass,Kasba Gol Park",700107,WB
+1344,HWB1344,Dilkusha Nursing Home Pvt Ltd,West Bengal,Kolkata,94A Dilkusha Street Kolkata,700017,WB
+1345,HWB1345,Disha Eye Hospital & Research Centre Pvt Ltd,West Bengal,Kolkata,"88(63A) Ghosh Para Road, Barrackpore",700120,WB
+1346,HWB1346,Disha Eye Hospital (Hoogly) Pvt Ltd,West Bengal,Hooghly,"14.G.T. Road, Shedraphully, West Bengal",712223,WB
+1347,HWB1347,Divine Nursing Home Pvt Ltd,West Bengal,Kolkata,"11A, Abinash Chandra Banerjee Lane,Beliaghata.",700010,WB
+1348,HWB1348,Domjur Nursing Home,West Bengal,Howrah,Attached To Hazra Building,711405,WB
