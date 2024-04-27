@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'aiappointment.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
+        'NAME': 'appointment_db',
         'USER': 'postgres',
         'PASSWORD': 'root',
-        'HOST': 'db',
+        'HOST': 'localhost',
         'PORT': 5432
     }
 }
