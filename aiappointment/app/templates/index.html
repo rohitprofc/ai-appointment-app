@@ -4,37 +4,27 @@
     <meta http-equiv="cache-control" content="no-cache" />
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
-
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="description" content />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-
+    <meta name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <title>Moncoon Company</title>
-
-    <link rel="shortcut icon" href="./images/M.png" type="image/svg" />
-
+    {% load static %}
+    <link rel="shortcut icon" href="{ url_for('static/images', filename='M.png)'}" type="image/svg" />
     <!-- <link rel="stylesheet" href="assets/css/bootstrap.min.css" /> -->
-
     <!-- <link rel="stylesheet" href="assets/css/lineicons.css" /> -->
-    <script
-      src="https://kit.fontawesome.com/e17a987d0e.js"
-      crossorigin="anonymous"
-    ></script>
-
+    <script src="https://kit.fontawesome.com/e17a987d0e.js" crossorigin="anonymous"></script>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/min/tiny-slider.js"
     />
-
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/glightbox/3.2.0/js/glightbox.min.js"
     />
-    <link rel="stylesheet" href="../static/style.css" />
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+
     <!--====== Bootstrap CSS ======-->
     <link
       rel="stylesheet"
