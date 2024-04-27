@@ -11,6 +11,6 @@ class Appointment(models.Model):
         ('M', 'Male'),
         ('F', 'Female')
     ]
-    gender = models.CharField(max_length=1, choices=GENDER_CHOICES)
+    gender = models.CharField(max_length=6, choices=GENDER_CHOICES)
     date_of_birth = models.DateField()
     zip_code = models.CharField(max_length=6)
