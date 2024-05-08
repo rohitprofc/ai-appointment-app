@@ -1,12 +1,18 @@
 from django.shortcuts import render, redirect, HttpResponse
 from .models import Appointment
 from datetime import datetime
+from django_otp.oath import hotp
+
 
 def index(request):
     if request.method == 'GET':
         return render(request, 'index.html', {})
 
 def login(request):
+    if request.method == 'POST':    
+        phoneno = request.POST.get('username', "")
+        print(phoneno)
+        
     return render(request, 'login.html', {})
 
 def signup(request):
